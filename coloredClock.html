@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <script type="text/javascript">
+            var clock, clockColor, date, currentDateInterval;
+            
+            function click(){
+                clock = document.getElementById("clock");
+                if (!clockColor){
+                    clockColor = "blue";
+                }
+                else if (clockColor === "blue"){
+                    clockColor = "red";
+                }
+                else if (clockColor === "red"){
+                    clockColor = "yellow";
+                }
+                else if (clockColor === "yellow"){
+                    clockColor = "green";
+                }
+                else if (clockColor === "green"){
+                    clockColor = "blue";
+                }
+                clock.style.color = clockColor;
+                date = new Date();
+                document.getElementById("clock").firstChild.nodeValue = date.toLocaleTimeString();
+            }
+            
+            function getDate(){
+                date = new Date();
+                document.getElementById("clock").firstChild.nodeValue = date.toLocaleTimeString(); 
+            }
+            
+            function startClock(){
+                currentDateInterval = window.setInterval("click()", 1000);
+            }
+        </script>
+    </head>
+    <body>
+        <h1 id="clock">Clock</h1>
+        <p><a href="javascript:click()">Change Color and Show the Date</a></p>
+        <p><a href="javascript:getDate()">Get Date</a></p>
+        <p><a href="javascript:startClock()">Start Colored Clock</a></p>
+    </body>
+</html>
