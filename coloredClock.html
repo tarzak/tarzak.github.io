@@ -2,6 +2,18 @@
     <head>
         <script type="text/javascript">
             var clock, clockColor, date, currentDateInterval;
+                
+            function getRandom(n){
+                return Math.round(n*Math.random())
+                }
+                
+            function getRandomCCSColor(){
+                var red   = getRandom(255);
+                var green = getRandom(255);
+                var blue  = getRandom(255);
+                var color = "rgb("+red+","+green+","+blue+")";
+                return color;
+            }
             
             function click(){
                 clock = document.getElementById("clock");
@@ -20,7 +32,8 @@
                 else if (clockColor === "green"){
                     clockColor = "blue";
                 }
-                clock.style.color = clockColor;
+                //clock.style.color = clockColor; //4 colors
+                clock.style.color = getRandomCCSColor(); //rgb colors
                 date = new Date();
                 document.getElementById("clock").firstChild.nodeValue = date.toLocaleTimeString();
             }
