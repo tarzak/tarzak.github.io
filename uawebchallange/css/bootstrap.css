@@ -6941,6 +6941,7 @@ margin-top:15px;
 margin-left:15px;}
 
 .my-navbar-btn {
+  display:block;	
   margin-top: 13px;
   margin-bottom: 8px;
   padding-right:8px;
