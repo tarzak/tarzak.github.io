@@ -20,9 +20,8 @@
     border: 1px solid black;
 }
 
-.col-md-3 {
+.block-position {
     float: right;
-    width: inherit;
     padding-left: 0;
 }
 
