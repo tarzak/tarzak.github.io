@@ -10,8 +10,7 @@
 }
 
 .block {
-    height: 325px;
-    border: 1px solid black;
+    height: 462px;
 }
 
 .clear-margin {
@@ -44,9 +43,7 @@
 
 .colored-blocks {
     height:100px;
-    width:100px;
     border: 1px solid black;
-    display: block;
 }
 
 .teal-block {
