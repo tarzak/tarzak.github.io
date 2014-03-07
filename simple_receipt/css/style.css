@@ -11,18 +11,12 @@
 
 .block {
     height: 325px;
-    width: 325px;
     border: 1px solid black;
 }
 
 .block-position {
     float: left;
     padding-left: 0;
-}
-
-.row {
-    margin-left: 6%;
-    margin-right: 6%;
 }
 
 .header {
