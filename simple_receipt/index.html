@@ -24,6 +24,18 @@
         .my-blocks-3 {
             background-image:url('http://tarzak.github.io/simple_receipt/img/02.jpg');
         }
+        
+        .colored-blocks {
+            height:100px;
+            width:100px;
+            border: 1px solid black;
+            float: right;
+            display: block;
+        }
+        
+        .orange-block {
+            background-color:orange;
+        }
         </style>
 </head>
     <body>
@@ -35,7 +47,12 @@
         <div class="row">
           <div class="col-md-3"><div class="my-blocks my-blocks-3"></div></div>
           <div class="col-md-3"><div class="my-blocks my-blocks-2"></div></div>
-          <div class="col-md-3"><div class="my-blocks my-blocks-1"></div></div>
+          <div class="col-md-3"><div class="my-blocks my-blocks-1">
+              <div class="text-block"></div>
+              <div class="colored-blocks teal-block"></div>
+              <div class="colored-blocks orange-block"></div>
+              <div class="colored-blocks black-block"></div>
+          </div></div>
         </div>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
