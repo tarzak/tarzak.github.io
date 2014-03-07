@@ -14,6 +14,10 @@
     border: 1px solid black;
 }
 
+.clear-margin {
+    margin: 0;
+}
+
 .block-position {
     float: left;
     padding-left: 0;
