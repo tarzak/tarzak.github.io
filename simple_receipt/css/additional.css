@@ -14,7 +14,7 @@
   border-bottom-color: #fff;
 }
 
-.my-blocks {
+.block {
     height: 325px;
     width: 325px;
     border: 1px solid black;
@@ -29,4 +29,43 @@
 .row {
     margin-left: 0;
     margin-right: 0;
+}
+
+.header {
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+}
+
+.header a {
+    color: white;
+    vertical-align:text-top;
+}
+
+.block-sport {
+    background-image:url('../img/sport.jpg');
+}
+
+.block-computer {
+    background-image:url('../img/computer.jpg');
+}
+
+.colored-blocks {
+    height:100px;
+    width:100px;
+    border: 1px solid black;
+    float: right;
+    display: block;
+}
+
+.teal-block {
+    background-color:teal;
+}
+
+.orange-block {
+    background-color:orange;
+}
+
+.black-block {
+    background-color:black;
 }
