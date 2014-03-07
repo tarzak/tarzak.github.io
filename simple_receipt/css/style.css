@@ -41,6 +41,10 @@
     background-image:url('../img/computer.jpg');
 }
 
+.block-bike {
+    background-color: pink;
+}
+
 .colored-blocks {
     height: 154px;
     border: 1px solid black;
