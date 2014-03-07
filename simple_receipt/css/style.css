@@ -9,11 +9,6 @@
   color: #fff;
 }
 
-.navbar-inverse .navbar-nav > .dropdown > a .caret {
-  border-top-color: #fff;
-  border-bottom-color: #fff;
-}
-
 .block {
     height: 325px;
     width: 325px;
@@ -21,13 +16,13 @@
 }
 
 .block-position {
-    float: right;
+    float: left;
     padding-left: 0;
 }
 
 .row {
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 6%;
+    margin-right: 6%;
 }
 
 .header {
@@ -53,7 +48,6 @@
     height:100px;
     width:100px;
     border: 1px solid black;
-    float: right;
     display: block;
 }
 
