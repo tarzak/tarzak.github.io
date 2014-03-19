@@ -7033,3 +7033,11 @@ padding: 0 175px 0 175px;
 margin-bottom:87px;
 text-align:center;
 }
+
+.glyphicon-user {
+    margin-right:10px;
+}
+
+.column > h3 {
+    padding-left: 38px;
+}
