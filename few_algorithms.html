@@ -1,0 +1,188 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+<head>
+	<title>Объект Array</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+	<h1>Алгоритм відсіювання дублюючих елементів в масиві</h1>
+	<pre>
+	<script type="text/javascript">
+		// Создание массива
+		var firstArray = new Array(); 
+		firstArray[0] = "red";
+		document.writeln("firstArray.length is " + firstArray.length);
+
+		var secondArray = new Array("red", "green", "blue"); 
+		document.writeln("secondArray.length is " + secondArray.length);
+		
+		for(var i = 0; i < secondArray.length; i++)
+			document.writeln(secondArray[i]);
+			
+		document.writeln(secondArray);
+		
+		var thirdArray = new Array(5);
+		document.writeln(thirdArray);
+		
+        //Алгоритм відсіювання дублюючих елементів в масиві
+        var algorithmArr = [1,2,3,4,5,1], 
+            tempArr      = new Array(algorithmArr.length), 
+            counter      = 0,
+            sorting      = new Object(),
+            temporaryVar;
+        document.writeln();
+        /*document.writeln("- - -Початок алгоритму - - -");
+        //виводимо заданий масив
+        document.writeln("Algorithm Array is " + algorithmArr);
+        //забиваємо нулями тимчасовий додатковий масив, довжиною з заданий
+        for (var y = 0; y < tempArr.length; y++)
+            tempArr[y] = 0;        
+        
+        //Тіло алгоритму
+        for (var i = 0; i < algorithmArr.length; i++)
+            for (var j = i + 1; j < algorithmArr.length; j++) {
+                if (algorithmArr[i] === algorithmArr[j]) {
+                    algorithmArr[j] = null;
+                }
+            }
+        for (var i = 0; i < algorithmArr.length; i++)
+            if (algorithmArr[i] !== null)
+                counter++;
+        document.writeln("Edited array is    " + algorithmArr + " " + counter++); //Algorithm Array is 5,4,2,4,5 //Edited array is 5,4,2,0,0
+        document.writeln(tempArr);
+        document.writeln("- - - Кінець Алгоритму - - -");  */
+        document.writeln();
+        
+                
+        //counting of the repeating elements of the array
+        //виводимо заданий масив
+        document.writeln("Algorithm Array is " + algorithmArr);
+        for (var i = 0; i < algorithmArr.length; i++)
+            for (var j = i + 1; j < algorithmArr.length; j++) {
+                if (algorithmArr[i] === algorithmArr[j]) {
+                    if (!sorting[algorithmArr[j]]){
+                        sorting[algorithmArr[j]] = 0;
+                        sorting[algorithmArr[j]]++;
+                    }
+                    else
+                        sorting[algorithmArr[j]]++;
+                    //sorting[algorithmArr[j]] = algorithmArr[j];
+                    /*temporaryVar = algorithmArr[j];
+                    sorting.temporaryVar = temporaryVar;
+                    document.write("temp var is " + sorting.temporaryVar);*/
+                    
+                    /*for (var property in sorting)
+                    document.writeln(property + " = " + sorting[property]);*/
+                    
+                    /*if (!sorting.algorithmArr[j]){
+                        sorting.algorithmArr[j] = 0;
+                        sorting.algorithmArr[j]++;
+                    }
+                    else
+                        sorting.algorithmArr[j]++;
+                    */
+                    //algorithmArr[j] = null;
+                    
+                }
+            }
+        /*for (var i = 0; i < algorithmArr.length; i++)
+            if (algorithmArr[i] !== null)
+                counter++;
+        document.writeln("Edited array is    " + algorithmArr + " " + counter++); //Algorithm Array is 5,4,2,4,5 //Edited array is 5,4,2,0,0*/
+        
+        document.writeln("Fields of the objects are: ")
+        for (var property in sorting)
+            document.writeln(property + " = " + sorting[property]);
+        
+        //sorting.firstElement = 5;
+        //document.writeln("First element is " + sorting.firstElement);
+        
+        
+        
+        
+        /*
+		// Удаление элемента массива
+		var myColors = new Array("red", "green", "blue");
+		document.writeln(myColors);
+		//delete myColors[1];
+		// myColors[1] = undefined;
+		//document.writeln(myColors);
+		var lastElement = myColors.pop();
+		document.writeln(myColors);
+		document.writeln(lastElement);
+		myColors.push("yellow")
+		document.writeln(myColors);
+		
+		var firstElement = myColors.shift();
+		document.writeln(myColors);
+		document.writeln(firstElement);
+		
+		myColors.unshift("pink");
+		document.writeln(myColors);
+		
+		var splitted = myColors.splice(1,1);
+		document.writeln(myColors);
+		document.writeln(splitted[0]);
+		var s = myColors.join("~");
+		document.writeln(s);
+		
+		
+		
+		// Манипуляция с элементами массивов
+		var str = "Саша,Маша,Петя,Даша";
+		var users = str.split(",");
+		
+		
+		for(var i = 0; i < users.length; i++)
+			document.writeln(users[i]);
+			
+		document.writeln(users.reverse());
+		users.sort();
+		document.writeln(users);
+		var arr = new Array(40,4,5,31,50,1,10,2,3,30);
+		arr.sort(compareNumbers);
+		document.writeln(arr);
+
+
+		/*
+
+		document.writeln(users[1]);
+		document.writeln(users.join("~"));
+		
+		// Произвольная сортировка массива
+		
+		// Укажем функцию стравнения
+		arr.sort(fastCompareNumbers);
+		document.writeln(arr);		
+		*/
+		/*
+		** Функция сравнения чисел
+		** возвращает:	 0 - числа равны
+		**				 1 - левое число больше
+		**				-1 - правое число больше
+		*/
+		function compareNumbers(n1, n2)
+		{
+			if (n1 == n2) return 0;
+			if (n1 > n2) 
+				return 1;
+			else
+				return -1;
+		}
+		
+		
+		
+		
+		
+		// Быстрая функция сравнения - всего одна операция!
+		function fastCompareNumbers(n1, n2)
+		{
+			return n1 - n2;
+		}
+				
+	</script>
+	</pre>
+</body>
+</html>
