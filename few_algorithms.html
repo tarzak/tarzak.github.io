@@ -27,7 +27,7 @@
 		document.writeln(thirdArray);
 		
         //Алгоритм відсіювання дублюючих елементів в масиві
-        var algorithmArr = [1,2,3,4,5,1], 
+        var algorithmArr = [1,2,3,4,5,1,1], 
             tempArr      = new Array(algorithmArr.length), 
             counter      = 0,
             sorting      = new Object(),
@@ -63,7 +63,7 @@
             for (var j = i + 1; j < algorithmArr.length; j++) {
                 if (algorithmArr[i] === algorithmArr[j]) {
                     if (!sorting[algorithmArr[j]]){
-                        sorting[algorithmArr[j]] = 0;
+                        sorting[algorithmArr[j]] = 1;
                         sorting[algorithmArr[j]]++;
                     }
                     else
@@ -83,7 +83,7 @@
                     else
                         sorting.algorithmArr[j]++;
                     */
-                    //algorithmArr[j] = null;
+                    algorithmArr[j] = null;
                     
                 }
             }
