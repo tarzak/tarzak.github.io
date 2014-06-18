@@ -8,24 +8,48 @@
     <div>
         <h3>Browser Object Model consists of:</h3>
         <ol>
-            <li>window - is a main object
+            <li>window - is a main object, consists of: other objects of browser, 
+            links to other windows, <i>preferences</i> of the window, simple <i>input/output</i>, 
+            <i>open/close/print</i> of the windows, <i>location</i> of the window and timers.
                 <ul>
                     <li></li>
                     <li></li>
                 </ul>
             </li>
             <li>navigator - information object</li>
-            <li>history</li>
-            <li>location</li>
-            <li>screen</li>
+            <li>history - buttons forward, backward</li>
+            <li>location - adress of the web-page</li>
+            <li>screen - information object about a screen of a user</li>
             <li>document</li>
-            <li>event</li>
+            <li>event - list of parameters linked with events, only IE</li>
         </ol>
     </div>
     <div id="newDiv">
         <h5 id="newH5">Something interesting (element for manipulations)</h5>
     </div>
 <script>
+/* start >window-object< example */
+    window
+    //window.alert("Hello"); 
+    //alert("Hello"); //"window." is not necessary
+    //frames[0]
+    
+/* start >navigator-object< example */
+    window.navigator
+    
+/* start >history-object< example */
+    window.history
+    
+    /* start >location-object< example */
+    window.location
+    
+    /* start >screen-object< example */
+    window.screen
+    
+    /* start >document-object< example */
+    window.document
+    
+    /* start >event-object< example */
     
     var newH5 = document.getElementById("newH5");
     newH5.style.color = "red";
