@@ -15,21 +15,50 @@
 
 <h4>properties of the window:</h4>
 <ol>
-    <li>closed</li>
+    <li>closed - is the window closed or not (boolean)</li>
     <li>defaultStatus</li>
-    <li>name</li>
-    <li>returnValue</li>
+    <li>name - inner name of the window</li>
+    <li>returnValue - moving information between windows</li>
     <li>status</li>
 </ol>
+
+<h5>methods, simple input/output:</h5>
+<ol>
+    <li>alert</li>
+    <li>prompt</li>
+    <li>confirm</li>
+</ol>
+
+<ol>
+    <li>open()</li>
+    <li>close()</li>
+    <li>print()</li>
+    <li>blur()</li>
+    <li>focus()</li>
+</ol>
+
 <a href="javascript:demoWindow()" id="testLink">demo window.closed</a>
+
+<a href="http://google.ua" target="searchWindow">Google</a>
+<a href="http://yandex.ua" target="_blank">Yandex</a>
+
+<h1>html page mark</h1>
 
 <script type="text/javascript">
 function demoWindow() {
     var d = new Date();
     document.getElementById("testLink").firstChild.nodeValue = d.toLocaleString();
     document.getElementById("testLink").style.color = "violet";
+    document.getElementById("testLink").style.border = "1px solid black";
+    document.getElementById("testLink").style.backgroundColor = "green";
+    document.getElementById("testLink").style.textDecoration = "none";
+    var LI = document.getElementsByTagName("LI");
+    var i = 0;
+    for (i = 0; i < LI.length; i++)
+        LI[i].style.color = "red";
 }
 
+document.getElementById("testLink").firstChild.nodeValue = document.getElementById("testLink").firstChild.nodeValue + " " + window.name;
 
 
 </script>
