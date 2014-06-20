@@ -13,5 +13,25 @@
     <li>self</li>
 </ol>
 
+<h4>properties of the window:</h4>
+<ol>
+    <li>closed</li>
+    <li>defaultStatus</li>
+    <li>name</li>
+    <li>returnValue</li>
+    <li>status</li>
+</ol>
+<a href="javascript:demoWindow()" id="testLink">demo window.closed</a>
+
+<script type="text/javascript">
+function demoWindow() {
+    var d = new Date();
+    document.getElementById("testLink").firstChild.nodeValue = d.toLocaleString();
+    document.getElementById("testLink").style.color = "violet";
+}
+
+
+
+</script>
 </body>
 </html>
