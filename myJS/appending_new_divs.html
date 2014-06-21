@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <style>
+        div {
+            width: 100px; 
+            height: 100px; 
+            border: 1px solid black; 
+            display: inline-block;
+        }
+        #parentDiv {
+            width: 1000px; 
+            height: 200px; 
+            border: 2px solid black; 
+            display: block
+        }
+    </style>
+    </head>
+    
+    <body>
+        <div id="parentDiv">
+        </div>
+        <input type="text" id="txt" name="plz">
+        <input type="button" onclick="start()" value="Add">
+        <script type="text/javascript">
+        
+            var parentDiv = document.getElementById('parentDiv');
+            function start(){
+                
+                    var div = document.createElement('DIV');
+                    
+                    parentDiv.appendChild(div);
+                    div.innerHTML = getValueFromInput();
+            };
+            
+            function getValueFromInput() {
+                var value = document.getElementById("txt").value;
+                return value;
+            }
+        </script>
+    </body>
+</html>

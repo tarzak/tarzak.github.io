@@ -10,7 +10,7 @@
         
         <input type="button" onclick="start()" value="Start">
         <script type="text/javascript">
-        //array of most popular irregular of verbs on my mind :)
+        //array of most popular irregular english verbs on my mind :)
         var verbArr =  [//"to abide, abode (abided), abode (abided), дотримуватися",
                         "to arise, arose, arisen, виникати", 
                         "to be, was/were, been, бути",
@@ -200,23 +200,32 @@
                         //"to wind, wound, wound, заводити/намотувати",
                         //"to withstand, withstood, withstood, протистояти",
                         //"to wring, wrung, wrung, зжимати",
-                        "to write, wrote, written, писати"], a, b, randomChooser,
-                        list = document.getElementById('list');
+                        "to write, wrote, written, писати"];
+                        
+                        var a, b, randomChooser, list = document.getElementById('list');
+                        
             function start(){
+                
                 alert(verbArr.length);
+                
                 var j = parseInt(prompt("How many verbs do you want to learn?")), 
                     i = 0;
-                do 
-                {
-                    i++;
-                    randomChooser = Math.floor(Math.random() * verbArr.length);
-                    a = confirm(randomChooser + ". " + verbArr[randomChooser]);
-                    var li = document.createElement('LI');
-                    li.innerHTML = verbArr[randomChooser];
-                    list.appendChild(li);
-                }
-                while ((a===true) && (i<j));
+                    
+                if (j)
+                    do 
+                    {
+                        i++;
+                        randomChooser = Math.floor(Math.random() * verbArr.length);
+                        a = confirm(randomChooser + ". " + verbArr[randomChooser]);
+                        var li = document.createElement('LI');
+                        li.innerHTML = verbArr[randomChooser];
+                        list.appendChild(li);
+                    }
+                    while ((a===true) && (i<j));
+                else
+                    return;
             }
+            
         </script>
     </body>
 </html>
