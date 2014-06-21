@@ -1,0 +1,26 @@
+<html>
+<head>
+</head>	
+	<script type="text/javascript">
+	var i = 0;
+			
+	function click(){
+		i++;
+		var clickMe = document.getElementById("clickMe");
+		var demoLinksDiv = document.getElementById("demoLinks");
+		if (i%2 === 0)
+			demoLinksDiv.style.color = "red";
+		else
+			demoLinksDiv.style.color = "blue";
+	}
+	
+	</script>
+
+<body>
+	<h1>Object Window</h1>
+		<div id="demoLinks">
+		bla-bla-bla
+			<a href="javascript:click()" id="clickMe">Click me!</a>
+		</div>
+</body>
+</html>

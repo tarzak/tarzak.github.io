@@ -1,0 +1,75 @@
+<html>
+    <head>
+        <style type="text/css">
+            #panelTitle
+            {
+                display : block;
+                border : 1px solid black;
+                background-color : #dfdfdf;
+                text-decoration : none;
+                color : black;
+            }
+
+            #panel
+            {
+                border : 1px solid black;
+                border-top-width : 0px;
+                overflow : hidden;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Slowly Expandable Panel</h1>
+        <p>This is example of how to make a Slowly Expandable Panel without using jQuerry. Just pure JavaScript!</p>
+        <div id="myDiv">
+            <a href="javascript:hidePanel()" id="panelTitle">Close</a>
+            <div id = "panel">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            </div>
+        </div>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+        <script type="text/javascript">
+            var step  = 4;
+            function collapsePanel(){
+                var panel = document.getElementById("panel");
+                if (panel.clientHeight >= step){
+                    var h = panel.clientHeight - step;
+                    panel.style.height = h + "px";
+                    setTimeout("collapsePanel()", 2);
+                }
+                else{
+                    panel.style.display = "none";
+                    var panelTitle = document.getElementById("panelTitle");
+                    panelTitle.firstChild.nodeValue = "Open";
+                };
+            };
+
+            function expandPanel(){
+                var panel = document.getElementById("panel");
+                if (panel.clientHeight < (panel.originalHeight - step)){
+                    var h = panel.clientHeight + step;
+                    panel.style.height = h + "px";
+                    setTimeout("expandPanel()", 2);
+                }
+                else{
+                    panel.style.height = "";
+                    var panelTitile = document.getElementById("panelTitle");
+                    panelTitle.firstChild.nodeValue = "Close";
+                };
+            };
+
+            function hidePanel(){
+                var panel  = document.getElementById("panel"),
+                panelTitle = document.getElementById("panelTitle");
+                if (panel.style.display == "none"){
+                    panel.style.display = "";
+                    expandPanel();
+                }
+                 else{
+                 panel.originalHeight = panel.clientHeight;
+                 collapsePanel();
+                };
+            };
+        </script>
+    </body>
+</html>
