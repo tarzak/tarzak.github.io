@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<body style = "background-color: green">
+
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #c3c3c3;">
+</canvas>
+
+<canvas id="chess" width="1500" height="1500" style="border:1px solid #c3c3c3;">
+
+</canvas>
+
+<script>
+
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.fillStyle = "#FF0000";
+ctx.fillRect(0,0,150,75);
+var ctx2 = c.getContext("2d");
+ctx2.fillStyle = "blue";
+ctx2.fillRect(5,5,15,75);
+
+ctx2.fillRect(25,25,15,75);
+
+
+var chess      = document.getElementById("chess"),
+    chessBlack = chess.getContext("2d"),
+    chessWhite = chess.getContext("2d"),
+    chessSqr   = chess.getContext("2d"),
+    checker    = false;
+
+var x = 0,
+    y = 0,
+    i = 0,
+    j = 0;
+
+for (i = 1; i <= 10; i++) {
+    for (j = 1; j <= 10; j++) {
+        if (checker) {
+            chessSqr.fillStyle = "black";
+            checker = false;
+        }
+        else {
+            chessSqr.fillStyle = "white";
+            checker = true;
+        }
+        chessSqr.fillRect(x,y,15,15);
+        x = 15 * (j);
+    }
+    if (checker) {
+        checker = false;
+    }
+    else {
+        checker = true;
+    }
+x = 0;
+y = 15 * (i);
+    
+}
+if (chessSqr.fillStyle === "black")
+            chessSqr.fillStyle = "white";
+        else if (chessSqr.fillStyle === "white")
+            chessSqr.fillStyle = "black";
+
+if (j % 2 === 0)
+            chessSqr.fillStyle = "white";
+        else
+            chessSqr.fillStyle = "black";
+
+if (checker) {
+            chessSqr.fillStyle = "blue";
+            checker = false;
+        }
+        else {
+            chessSqr.fillStyle = "red";
+            checker = true;
+        }
+</script>
+
+</body>
+</html>
+
