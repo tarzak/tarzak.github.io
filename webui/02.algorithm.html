@@ -43,11 +43,12 @@
                 return arr;
             }
             var chessBoard = Array.matrix(10,10,0)
-            
+            var queue = [];
             function setStartCords(sX, sY) {
                 var sX, sY;
                 var startArr = [sX,sY]
                 chessBoard[sX][sY] = "visited";
+                queue.push(startArr);
                 return startArr;
             }
             
@@ -57,11 +58,10 @@
                 chessBoard[fX][fY] = "finish";
                 return finishArr;
             }
-            var startArr = setStartCords(0,0),
-                finishArr = setFinishCords(9,9);
+            /*var startArr = setStartCords(0,0),
+                finishArr = setFinishCords(9,9);*/
                 
-            var queue = [];
-            queue.push(startArr);
+            
             function move(startArr) {
                 var queue = [];
                 var i, j;
@@ -76,6 +76,25 @@
                 return queue;
             }
             //var moveQueue = move(startArr);
+            
+            
+            /*
+            **creating tempArr**
+            */
+            function movesCords(curPos) {
+                var movesArr = [[1,3],[3,1],[3,-1],[1,-3],[-1,-3],[-3,-1],[-3,1],[-1,3]];
+                var tempArr = [];
+                var v = [[curPos[0],curPos[1]]], i, j;
+                
+                for (i = 0; i < 8; i++) {
+                    tempArr[i] = [];
+                    for (j = 0; j < 2; j++) {
+                        tempArr[i][j] = movesArr[i][j] + v[0][j];
+                    }
+                }
+                return tempArr;
+            }
+            
         </script>
     </body>
 </html>
