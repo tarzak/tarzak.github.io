@@ -1,0 +1,131 @@
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <style>
+        /*div {
+            width: 100px; 
+            height: 100px; 
+            border: 1px solid black; 
+            display: inline-block;
+        }*/
+        #parentDiv {
+            width: 1000px; 
+            height: 200px; 
+            border: 2px solid black; 
+            display: block
+        }
+        
+        /*input {
+            display: block
+        }
+        .start, .finish {
+            display: inline-block;
+        }*/
+        
+    </style>
+    </head>
+    
+    <body>
+        <section  class = "main">
+            <div class = "size">
+                Size of the side <input id = "size" type="text">
+                <input type="button" onclick="setUpChessBoard()" value="Set Up">
+            </div>
+            <div class = "start">
+                Start x: <input id = "sX" type="text">
+                Start y: <input id = "sY" type="text">
+                <input type="button" onclick="setUpStartCords" value="Set">
+            </div>
+            
+            <div class = "finish">
+                Finish x: <input id = "fX" type="text">
+                Finish y: <input id = "fY" type="text">
+                <input type="button" onclick="setUpFinishCords" value="Set">
+            </div>
+            
+        </section>
+        
+        <div id="parentDiv"></div>
+        <input type="text" id="txt" name="plz">
+        <input type="button" onclick="start()" value="Add">
+        <script type="text/javascript">
+            Array.matrix = function(numrows, numcols, initial) {
+                var arr = [];
+                for (var i = 0; i < numrows; ++i) {
+                    var columns = [];
+                    for (var j = 0; j < numcols; ++j) {
+                        columns[j] = initial;
+                    }
+                        arr[i] = columns;
+                    }
+                return arr;
+            }
+            
+            function setUpChessBoard() {
+                var size = document.getElementById('size').value;
+                return chessBoard = Array.matrix(size,size,0)
+            }
+            
+            
+            function getValues() {
+                var //size = document.getElementById('size').value,
+                      
+                      
+                      fX = document.getElementById('fX').value,
+                      fY = document.getElementById('fY').value;
+                      return chess = Array.matrix(size,size,0)
+                      
+            }
+            
+            
+            var parentDiv = document.getElementById('parentDiv');
+            var newDiv = document.createElement('div')
+            
+            parentDiv.appendChild(newDiv);
+            /*var newDiv = document.createElement('div');
+            newDiv.innerHTML = "works";
+            parentDiv.appendChild(newDiv);*/
+            /*function start() {
+                var div = document.createElement('DIV');
+                parentDiv.appendChild(div);
+                div.innerHTML = getValueFromInput();
+            };
+            function getValueFromInput() {
+                var value = document.getElementById("txt").value;
+                return value;
+            }*/
+            function setUpStartCords() {
+                var sX = document.getElementById('sX').value, sY = document.getElementById('sY').value;
+                var startArr = [sX,sY]
+                chessBoard[sX][sY] = "visited";
+                return startArr;
+            }
+            
+            function setFinishCords(fX, fY) {
+                var fX, fY;
+                var finishArr = [fX,fY];
+                chessBoard[fX][fY] = "finish";
+                return finishArr;
+            }
+            /*var startArr = setStart(0,0),
+                finishArr = setFinish(9,9);*/
+                
+            //var queue = [[0,0],[0,0]];
+            
+            /*function move(startArr) {
+                var queue = [];
+                var i, j;
+                
+                var movesArr = [[1,3],[3,1],[3,-1],[1,-3],[-1,-3],[-3,-1],[-3,1],[-1,3]];
+                for (i = 0; i < movesArr.length; i++) {
+                    queue[i] = [];
+                    for (j = 0; j < 2; j++) {
+                        queue[i][j] = startArr[j] + movesArr[i][j];
+                    }
+                }
+                return queue;
+            }
+            var moveQueue = move(startArr);*/
+        </script>
+    </body>
+</html>
