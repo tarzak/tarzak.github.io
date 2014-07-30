@@ -45,13 +45,13 @@
             }
             
             //Створюємо дошку і чергу
-            var chessBoard = Array.matrix(10,10,0)
+            var chessBoard = Array.matrix(1000,1000,0)
             var queue = [];
             
             //Функція для встановлення стартових координат на дошці, також пушить в чергу відразу стартову точку
             function setStartCords(sX, sY) {
                 var sX, sY;
-                var startArr = [sX,sY]
+                var startArr = [sX,sY];
                 chessBoard[sX][sY] = 0;
                 queue.push(startArr);
                 return startArr;
@@ -66,30 +66,40 @@
             }
             
             //отримуємо початкові та кінцеві координати в змінні та оголошуємо змінну curPos - поточний елемент в черзі
-            var startArr = setStartCords(1,1),
-                finishArr = setFinishCords(4,2), visits = 0;
+            var startArr = setStartCords(0,0),
+                finishArr = setFinishCords(30,30), visits = 0, curPos;
                 
             console.log(queue);
             //Запускаємо цикл, що має діяти поки черга не пуста
             while (queue.length > 0) {
-                var curPos = queue.shift(); //переміщаємо перший елемент з черги в змінну поточної позиції
-                if (chessBoard[curPos[0]][curPos[1]] === 0) { //перевіряємо значення на дошці по координатам поточної позиції, якщо там 0 ->
-                    queue = queue.concat(movesCords(curPos)); //викликаємо функцію movesCords() з поточною позицією, для генерування набору можливих ходів
-                    chessBoard[curPos[0]][curPos[1]] = "visited"; //позначаємо клітинку в якій вже були "visited"
-                    visits++;
+                visits++;
+                console.log("Step " + visits);
+                curPos = queue.shift(); //переміщаємо перший елемент з черги в змінну поточної позиції
+                console.log(curPos);
+                if (chessBoard[curPos[0]] != undefined) {
+                    if (chessBoard[curPos[0]][curPos[1]] != undefined) {
+                        if (chessBoard[curPos[0]][curPos[1]] === 0) { //перевіряємо значення на дошці по координатам поточної позиції, якщо там 0 ->
+                            queue = queue.concat(movesCords(curPos)); //викликаємо функцію movesCords() з поточною позицією, для генерування набору можливих ходів
+                            chessBoard[curPos[0]][curPos[1]] = "visited"; //позначаємо клітинку в якій вже були "visited"
+                        }
+                        else if (chessBoard[curPos[0]][curPos[1]] === "finish") { //якщо знаходиться клітинка зі значенням "finish", обнуляємо чергу, для виходу з циклу
+                            tempQue = queue;
+                            queue = [];
+                            console.log("finish at " + curPos);
+                        }
+                    }
+                    
+                    else
+                        console.log("such cell does not exist");
                 }
-                else if (chessBoard[curPos[0]][curPos[1]] === "finish") { //якщо знаходиться клітинка зі значенням "finish", обнуляємо чергу, для виходу з циклу
-                    tempQue = queue;
-                    queue = [];
-                    console.log("finish at " + curPos);
-                }
+                else 
+                    console.log("such row does not exist");
             }
             
             /*
             **creating tempArr** функція що генерує масив можливих ходів на основі поточної позиції
             */
             function movesCords(curPos) {
-                console.log("movesCords going");
                 var movesArr = [[1,2],[2,1],[2,-1],[1,-2],[-1,-2],[-2,-1],[-2,1],[-1,2]]; //можливі варіанти ходу коня
                 var tempArr = [], i, j; //тимчасовий масив для варіантів нового ходу
                 var v = [[curPos[0],curPos[1]]]; //поточна позиція
@@ -100,7 +110,6 @@
                         tempArr[i][j] = movesArr[i][j] + v[0][j]; //генеруємо елементи додаючи до Х та У координат можливого ходу, поточні значення даних координат
                     }
                 }
-                console.log(curPos);
                 return tempArr;
             }
             
