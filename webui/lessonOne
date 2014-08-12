@@ -6,3 +6,20 @@ jsperf.com
 http://jonraasch.com/blog/
 http://habrahabr.ru/post/132472/
 http://benalman.com/
+
+function f1(a){
+var sum = a;
+for (var i = 0; i<arguments.length; i++){
+sum += arguments[i]; 
+}
+return sum;
+}
+alert(f1(1,2,3,4,5));
+
+
+
+
+
+https://help.github.com/articles/https-cloning-errors
+https://help.github.com/articles/caching-your-github-password-in-git
+

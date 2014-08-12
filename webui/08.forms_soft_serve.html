@@ -1,0 +1,74 @@
+<html>
+<head>
+<title>Регистрация</title>
+<style>
+    /*.user_name:invalid {
+        border-bottom: 2px solid #ff0000;
+    }*/
+</style>
+</head>
+<body>
+<form name="everything" onsubmit="…" onreset="return confirm('do you really want to reset this form')" >
+
+name: <input class = "user_name" type="text" name="user_name" size="15" required><br><br>
+
+last name: <input type="text" name="user_lastname" size="15"><br><br>
+
+male: <input type="radio" name="sex" value="male"><br><br>
+
+female: <input type="radio" name="sex" value="female"><br><br>
+
+age: <select name="age">
+
+<option></option>
+
+<option value="18">18-24</option>
+
+<option value="25">25-34</option>
+
+<option value="35">35-older</option>
+
+</select><br><br>
+
+username: <input type="text" name="username" size="15"><br><br>
+
+password: <input type="password" name="password" size="15"><br><br>
+
+email: <input type="text" name="email"><br><br>
+
+<input type="checkbox" name="extras"> - send me last news<br><br>
+
+<input type="submit" name="submit_button" value="Submit">
+
+<input type="reset" name="reset_button" value="Reset">
+
+</form>
+
+<div>
+<ol>Ось саме завдання:
+
+<li><s>При нажатті кнопки "Reset" спочатку має перепитати чи ми дійсно хочемо очистити форму.</s></li>
+
+<li>При нажатті кнопки "Submit" має відбутись валідація форми. Якщо форма заповнена правильно має появитись повідомлення що все ок. В іншому випадку повідомлення про те що форма заповнена не правильно (можна без уточнень).</li>
+
+<li>Валідація по наступних параметрах:</li>
+
+<li>В полях ім ’ я і прізвище можуть бути тільки букви (будь-яка кількість).</li>
+
+<li>Перевірити чи вибрана стать.</li>
+
+<li>Перевірити чи вибраний вік.</li>
+
+<li>Логін і пароль мають мати не менше 4 символів і не більше 15. Символи можуть бути будь-які окрім розділювачів юнікоду.</li>
+
+<li>Перевірити чи заповнене поле пошти.</li>
+
+<li>Перевірити чи відмічений чекбокс</li>
+</ol>
+</div>
+
+<script>
+
+</script>
+</body>
+</html>

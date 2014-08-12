@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Регистрация</title>
+</head>
+<body>
+<form OnSubmit='return Validate(this);' method='POST' action='register.php'>
+    <table bgcolor='silver' border='0px'>
+        <tr><th align='center'>Регистрация</th></tr>
+        <tr>
+            <td>Имя пользователя</td><td><input type='text' name='username' id='username'/></td>
+        </tr>
+        <tr>
+            <td>Пароль</td><td><input type='password' name='pass' id='pass'/></td>
+        </tr>
+        <tr>
+            <td>Подтвердите пароль</td><td><input type='password' name='passagain' id='passagain'/></td>
+        </tr>
+        <tr>
+            <td>E-mail</td><td><input type='text' name='mail' id='mail'/></td>
+        </tr>
+        <tr>
+            <td>Дата рождения</td><td><input type='date' name='date' id='date'/></td>
+        </tr>
+        <tr><td><input type='submit' value='регистрация'/></td></tr>
+    </table>
+</form>
+<form name = "form2">
+        <input class= "check" type="checkbox" name = "check1" onclick="checks(this.form)">
+        <input class= "check" type="checkbox" name = "check2" onclick="checks(this.form)">
+        <input class= "check" type="checkbox" name = "check3" onclick="checks(this.form)">
+        <input class= "check" type="checkbox" name = "check4" onclick="checks(this.form)">
+        <input type = "image" src = "http://ecomap.org/images/wwf-logo.png">
+</form>
+
+<form>
+    <p><textarea cols="30" rows="4" disabled>
+    Типовой договор
+    Отдаю свою душу, а взамен получаю здоровье и бессмертие. 
+    </textarea></p>
+    <p><input type="checkbox" name="agree" onclick="agreeForm(this.form)"/> 
+    Я согласен со всеми условиями</p>
+    <p><input type="submit" name="submit" value="Далее" disabled></p>
+</form>
+
+<script>
+var total = 0;
+
+
+function checks(f) {
+    var check = document.form2.getElementsByClassName("check"); var i;
+    //for (var i=0; i<check.length; i++) {
+        if (check[i].checked) {
+            total++;
+            
+        }
+        else {
+            total--;
+            //console.log(total);
+        }
+        console.log(total)
+    //}
+        
+    if (f.check1.checked || f.check2.checked) {
+        total++;
+        //f.check2.disabled = 1;
+        console.log(total);
+    }
+    else if (!f.check1.checked || !f.check2.checked)
+        //f.check2.disabled = 0;
+        total--;
+        console.log(total);
+}
+
+function agreeForm(f) {
+    // Если поставлен флажок, снимаем блокирование кнопки
+    if (f.agree.checked) f.submit.disabled = 0 
+    // В противном случае вновь блокируем кнопку
+    else f.submit.disabled = 1
+   }
+//OnSubmit='return Validate(this);' method='POST' action='register.php'
+function Validate(obj) {
+    var username=obj.username.value;
+    var pass=obj.pass.value;
+    var passagain=obj.passagain.value;
+    var mail=obj.mail.value;
+    var date=obj.date.value.split('-');
+    var errors="";
+    if (username=="" || pass=="" || passagain=="" || mail=="")
+    {
+    alert("Все поля должны быть заполнены!!");
+    return false;
+    }
+    if (pass!=passagain)
+    {
+    errors+="Пароли не совпадают!!\n";
+    }
+    if (pass.length<6)
+    {
+    errors+="Слишком короткий пароль!!\n";
+    }
+    var reg = /^\w+@\w+\.\w{2,4}$/i;
+    if (!reg.test(mail))
+    {
+    errors+="Неправильный e-mail адрес!!\n";
+    }
+    if (date[0]<1930)
+    {
+    errors+="Указана неверная дата рождения!!\n";
+    }
+     
+    if(errors=="")
+    return true;
+    else
+    {
+    alert(errors);
+    return false;
+    }
+}
+</script>
+</body>
+</html>

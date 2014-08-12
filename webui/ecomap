@@ -1,0 +1,24 @@
+tasks:
+
+1. repair map
+    a) localize
+    b) API leaflet
+    c) API openStreetMap
+     -> 2 person
+    
+    e) MongoDB
+    f) Node.JS
+    g) mongoose
+    h) restify.js
+    i) express.js
+    j) backbone.js - 2 person
+    k) grunt.js + bower - 1 person
+    l) require.js
+    
+
+BackEnd node.Js, restify, mongoose -> backend/API.js
+analize problems.json
+mongoDB suitabless
+    ->migrate to RDB to (MySQL for example)
+    
+additional: require.js, underscore

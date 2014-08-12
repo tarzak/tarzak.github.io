@@ -50,7 +50,6 @@
             
             //Функція для встановлення стартових координат на дошці, також пушить в чергу відразу стартову точку
             function setStartCords(sX, sY) {
-                var sX, sY;
                 var startArr = [sX,sY];
                 chessBoard[sX][sY] = 0;
                 queue.push(startArr);
@@ -59,7 +58,6 @@
             
             //Функція для встановлення кінцевих координат на дошці, також позначає кінцеву точку на дошці як "finish"
             function setFinishCords(fX, fY) {
-                var fX, fY;
                 var finishArr = [fX,fY];
                 chessBoard[fX][fY] = "finish";
                 return finishArr;
@@ -67,13 +65,12 @@
             
             //отримуємо початкові та кінцеві координати в змінні та оголошуємо змінну curPos - поточний елемент в черзі
             var startArr = setStartCords(0,0),
-                finishArr = setFinishCords(30,30), visits = 0, curPos;
-                
-            console.log(queue);
+                finishArr = setFinishCords(5,4), visits = 0, curPos, jumpCounter = 0;
+            
             //Запускаємо цикл, що має діяти поки черга не пуста
             while (queue.length > 0) {
                 visits++;
-                console.log("Step " + visits);
+                console.log("Step " + visits + ". Jump counter equal: " + jumpCounter);
                 curPos = queue.shift(); //переміщаємо перший елемент з черги в змінну поточної позиції
                 console.log(curPos);
                 if (chessBoard[curPos[0]] != undefined) {
@@ -104,12 +101,16 @@
                 var tempArr = [], i, j; //тимчасовий масив для варіантів нового ходу
                 var v = [[curPos[0],curPos[1]]]; //поточна позиція
                 
+                jumpCounter++;
+                
                 for (i = 0; i < 8; i++) {
                     tempArr[i] = [];
                     for (j = 0; j < 2; j++) {
                         tempArr[i][j] = movesArr[i][j] + v[0][j]; //генеруємо елементи додаючи до Х та У координат можливого ходу, поточні значення даних координат
                     }
+                    tempArr[i].push(jumpCounter);
                 }
+                console.log(tempArr[i]);
                 return tempArr;
             }
             
