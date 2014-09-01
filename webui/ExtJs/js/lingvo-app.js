@@ -13,43 +13,6 @@ Ext.onReady(function(){
     Ext.setGlyphFontFamily('fontello');
     var constrainedWin, constrainedWin2;
 
-    Ext.util.Region.override({
-        colors: ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'],
-        nextColor: 0,
-        show: function(){
-            var style = {
-                display: 'block',
-                position: 'absolute',
-                top: this.top + 'px',
-                left: this.left + 'px',
-                height: ((this.bottom - this.top) + 1) + 'px',
-                width: ((this.right - this.left) + 1) + 'px',
-                opacity: 0.3,
-                'pointer-events': 'none',
-                'z-index': 9999999
-            };
-            if (!this.highlightEl) {
-                style['background-color'] = this.colors[this.nextColor];
-                Ext.util.Region.prototype.nextColor++;
-                this.highlightEl = Ext.getBody().createChild({
-                    style: style
-                });
-                if (this.nextColor >= this.colors.length) {
-                    this.nextColor = 0;
-                }
-            } else {
-                this.highlightEl.setStyle(style);
-            }
-        },
-        hide: function(){
-            if (this.highlightEl) {
-                this.highlightEl.setStyle({
-                    display: 'none'
-                });
-            }
-        }
-    });
-
     var panel = Ext.create('Ext.panel.Panel', {
         //title : 'Третя панель',
         /*width : 1000,
@@ -187,9 +150,9 @@ Ext.onReady(function(){
     });*/
 
     var myData = [
-        	    ['Cat'],
-        	    ['Crowd'],
-        	    ['Bush'],
+                ['Cat'],
+                ['Crowd'],
+                ['Bush'],
                 ['George'],
                 ['Table'],
                 ['Tree'],
@@ -212,37 +175,37 @@ Ext.onReady(function(){
                 ['Word'],
                 ['X-ray']
 
-            	 ];
+                 ];
 
     var fields = [
-        	       {name: 'word'}
+                   {name: 'word'}
 
-	             ];
+                 ];
 
     var store = Ext.create('Ext.data.ArrayStore', {
-        	    fields: fields,  // указали массив индексов полей.
-        	    data: myData     // указали откуда брать данные
-    	        });
+                fields: fields,  // указали массив индексов полей.
+                data: myData     // указали откуда брать данные
+                });
 
     var col =  [
-        	        {
-            	            text: 'Word',       // заголовок колонки
-        	            dataIndex: 'word',  // индекс поля из хранилища (fields)
+                    {
+                            text: 'Word',       // заголовок колонки
+                        dataIndex: 'word',  // индекс поля из хранилища (fields)
                         width:365
-    	        }
-	    ];
+                }
+        ];
 
     var grid = Ext.create('Ext.grid.Panel', {
                 layout:'fit',
-        	    store: store,               // определили хранилище
-        	    title: false,        // Заголовок
-        	    columns:col,                 // указали массив колонок
+                store: store,               // определили хранилище
+                title: false,        // Заголовок
+                columns:col,                 // указали массив колонок
                 height: 300,
                 hideHeaders:true,
                 rowLines: false,
                 cls: 'custom-grid'
 
-    	});
+        });
 
     var tbSearchInput = Ext.create('Ext.toolbar.Toolbar', {
         layout: 'anchor',
@@ -292,8 +255,6 @@ Ext.onReady(function(){
         }]
     });
     win.show();
-
-
 
     /*constrainedWin.show();
     constrainedWin2.show();*/
