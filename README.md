@@ -65,3 +65,21 @@ Personal web site
 ## JavaScript manipulations with DOM
 - [remove created item from DOM - beginner student ](http://www.webdeveloper.com/forum/showthread.php?263233-remove-created-item-from-DOM-beginner-student)
 
+## HTML
+- [Семантичний HTML код](http://www.xiper.net/learn/tegofenshuj/about-semantic.html)
+- [HTML довідник](http://www.xiper.net/manuals/html/)
+- [Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial)
+
+## CSS
+- [Довідник](http://www.xiper.net/manuals/css/)
+- [Селектори](http://www.flukeout.github.io)
+- [Height, width и overflow — CSS правила для описания области контента при блочной верстке.](http://ktonanovenkogo.ru/html/uroki-css/height-width-overflow-css-pravila-dly-oblasti-kontenta-blochnoj-verstke.html)
+- [CSS3 градієнти на пальцях](http://developblog.com.ua/post/easy-explanation-of-css3-gradients)
+- [Reset CSS](http://perishablepress.com/a-killer-collection-of-global-css-reset-styles/)
+- [Базовые стили и полезные CSS-сниппеты](http://habrahabr.ru/post/159101)
+
+##JavaScript
+[Підводне каміння JS - в тому числі про типи даних.](http://habrahabr.ru/post/159313/)
+[Про функції - на JavaScript.ru, фундаментально](http://javascript.ru/basic/functions)
+[JavaScript Core](http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/)
+[Видео-курс по JavaScript на русском языке](http://habrahabr.ru/company/hexlet/blog/205902/)
