@@ -83,6 +83,8 @@ Personal web site
 - [Про функції - на JavaScript.ru, фундаментально](http://javascript.ru/basic/functions)
 - [JavaScript Core](http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/)
 - [Видео-курс по JavaScript на русском языке](http://habrahabr.ru/company/hexlet/blog/205902/)
+- [Отличие preventDefault, stopPropagation и stopImmediatePropagation](http://stepansuvorov.com/blog/2013/05/%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D0%B5-preventdefault-stoppropagation-%D0%B8-stopimmediatepropagation/)
+- [CursorMessage: jQuery Tooltip for any event](https://www.kingsquare.nl/cursormessage)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
