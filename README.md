@@ -78,8 +78,19 @@ Personal web site
 - [Reset CSS](http://perishablepress.com/a-killer-collection-of-global-css-reset-styles/)
 - [Базовые стили и полезные CSS-сниппеты](http://habrahabr.ru/post/159101)
 
-##JavaScript
-[Підводне каміння JS - в тому числі про типи даних.](http://habrahabr.ru/post/159313/)
-[Про функції - на JavaScript.ru, фундаментально](http://javascript.ru/basic/functions)
-[JavaScript Core](http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/)
-[Видео-курс по JavaScript на русском языке](http://habrahabr.ru/company/hexlet/blog/205902/)
+## JavaScript
+- [Підводне каміння JS - в тому числі про типи даних.](http://habrahabr.ru/post/159313/)
+- [Про функції - на JavaScript.ru, фундаментально](http://javascript.ru/basic/functions)
+- [JavaScript Core](http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/)
+- [Видео-курс по JavaScript на русском языке](http://habrahabr.ru/company/hexlet/blog/205902/)
+
+## Front-End
+- [html-css academy](http://learn.shayhowe.com/)
+- [Адаптивная верстка. Шпаргалки верстальщика](http://wp-admin.com.ua/adaptivnaya-verstka-shpargalki-verstalshhika/)
+- [Самые простые техники адаптивной верстки - 2012](http://habrahabr.ru/post/144003/)
+- [Две float-колонки одинаковой высоты - 2009](http://chikuyonok.ru/2009/06/float-columns/)
+- [Equal Height Columns with Cross-Browser CSS - 2008](http://matthewjamestaylor.com/blog/equal-height-columns-cross-browser-css-no-hacks)
+- [Div колонки: 4 способа растянуть div колонки по высоте - 2009](http://sitear.ru/material/rastyanut-div-kolonki-po-vysote)
+- [WebDev український ресурс (ua)](http://webdevelopment.in.ua/)
+- [WebDev, coding, else (ua)](http://programming.in.ua/)
+- [Habr инструменты веб девелопера.](http://habrahabr.ru/post/231151/)
