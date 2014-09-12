@@ -77,6 +77,7 @@ Personal web site
 - [CSS3 градієнти на пальцях](http://developblog.com.ua/post/easy-explanation-of-css3-gradients)
 - [Reset CSS](http://perishablepress.com/a-killer-collection-of-global-css-reset-styles/)
 - [Базовые стили и полезные CSS-сниппеты](http://habrahabr.ru/post/159101)
+- [Border-radius](http://border-radius.com/)
 
 ## JavaScript
 - [Підводне каміння JS - в тому числі про типи даних.](http://habrahabr.ru/post/159313/)
