@@ -97,3 +97,6 @@ Personal web site
 - [WebDev український ресурс (ua)](http://webdevelopment.in.ua/)
 - [WebDev, coding, else (ua)](http://programming.in.ua/)
 - [Habr инструменты веб девелопера.](http://habrahabr.ru/post/231151/)
+ 
+## WebDesign
+- [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
