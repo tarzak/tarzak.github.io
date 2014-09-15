@@ -100,3 +100,6 @@ Personal web site
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
+
+## D3.js
+- [Three Little Circles](http://bost.ocks.org/mike/circles/)
