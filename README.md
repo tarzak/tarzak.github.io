@@ -103,3 +103,4 @@ Personal web site
 
 ## D3.js
 - [Three Little Circles](http://bost.ocks.org/mike/circles/)
+- [Blocks - many examples of using D3.js](http://bl.ocks.org/)
