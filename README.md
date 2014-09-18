@@ -107,4 +107,6 @@ Personal web site
 
 ## ExtJs
 - [Урок по ExtJS 4.1 (часть 1)](http://habrahabr.ru/sandbox/44023/)
-- []()
+
+## MySQL
+- [A Basic MySQL Tutorial](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
