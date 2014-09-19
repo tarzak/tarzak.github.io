@@ -53,6 +53,7 @@ Personal web site
 - [Grunt для тех, кто считает штуки вроде него странными и сложными](http://frontender.info/grunt-is-not-weird-and-hard/#davaytezastavimgruntobaedinityparufaylov)
 - [Grunt, инструмент для сборки javascript проектов](http://habrahabr.ru/post/148274/)
 - [Делаем жизнь проще, GruntJS (для новичков)](http://habrahabr.ru/post/177395/)
+- [Grunt - автоматизация для самых ленивых](https://www.youtube.com/watch?v=6mYgrJK768M)
 
 ## Angular
 - [С чего начать изучать Angular](http://thinking.bohdanvorona.name/to-learn-angular/)
@@ -78,6 +79,8 @@ Personal web site
 - [Reset CSS](http://perishablepress.com/a-killer-collection-of-global-css-reset-styles/)
 - [Базовые стили и полезные CSS-сниппеты](http://habrahabr.ru/post/159101)
 - [Border-radius](http://border-radius.com/)
+- [css statistics](http://cssstats.com/)
+- [github's css](http://markdotto.com/2014/07/23/githubs-css/)
 
 ## JavaScript
 - [Підводне каміння JS - в тому числі про типи даних.](http://habrahabr.ru/post/159313/)
@@ -86,6 +89,7 @@ Personal web site
 - [Видео-курс по JavaScript на русском языке](http://habrahabr.ru/company/hexlet/blog/205902/)
 - [Отличие preventDefault, stopPropagation и stopImmediatePropagation](http://stepansuvorov.com/blog/2013/05/%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D0%B5-preventdefault-stoppropagation-%D0%B8-stopimmediatepropagation/)
 - [CursorMessage: jQuery Tooltip for any event](https://www.kingsquare.nl/cursormessage)
+- [js anti-patterns](http://agentcooper.ghost.io/javascript-anti-patterns/)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
@@ -97,6 +101,7 @@ Personal web site
 - [WebDev український ресурс (ua)](http://webdevelopment.in.ua/)
 - [WebDev, coding, else (ua)](http://programming.in.ua/)
 - [Habr инструменты веб девелопера.](http://habrahabr.ru/post/231151/)
+- [Pure - A set of small, responsive CSS modules that you can use in every web project.](http://purecss.io/)
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
