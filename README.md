@@ -58,10 +58,13 @@ Personal web site
 ## Angular
 - [С чего начать изучать Angular](http://thinking.bohdanvorona.name/to-learn-angular/)
 - [AngularJS Training Videos and Tutorials for Developers](https://egghead.io/lessons)
+- [Angular.js + Reuire.js](https://www.startersquad.com/blog/angularjs-requirejs/)
+- [angularAMD AngularJS + RequireJS: The Proper and Easier Way](http://marcoslin.github.io/angularAMD/#/home)
 
 ## Graphic libs
 - [Рисование на JavaScript с помощью Paper.js, Processing.js, Raphael.js](http://sitear.ru/material/risovanie-na-javascript)
 - [Улучшаем производительность HTML5 canvas](http://habrahabr.ru/post/127014/)
+- [Часы на кривых Безье - processing.js](http://habrahabr.ru/post/236455/?utm_campaign=email_digest&utm_source=email_habrahabr&utm_medium=email_day_20140912&utm_content=link2post)
 
 ## JavaScript manipulations with DOM
 - [remove created item from DOM - beginner student ](http://www.webdeveloper.com/forum/showthread.php?263233-remove-created-item-from-DOM-beginner-student)
@@ -81,6 +84,7 @@ Personal web site
 - [Border-radius](http://border-radius.com/)
 - [css statistics](http://cssstats.com/)
 - [github's css](http://markdotto.com/2014/07/23/githubs-css/)
+- [Кроссбраузерный inline-block](http://habrahabr.ru/post/117109/)
 
 ## JavaScript
 - [Підводне каміння JS - в тому числі про типи даних.](http://habrahabr.ru/post/159313/)
@@ -90,6 +94,7 @@ Personal web site
 - [Отличие preventDefault, stopPropagation и stopImmediatePropagation](http://stepansuvorov.com/blog/2013/05/%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D0%B5-preventdefault-stoppropagation-%D0%B8-stopimmediatepropagation/)
 - [CursorMessage: jQuery Tooltip for any event](https://www.kingsquare.nl/cursormessage)
 - [js anti-patterns](http://agentcooper.ghost.io/javascript-anti-patterns/)
+- [Основы Drag'n'Drop](http://learn.javascript.ru/drag-and-drop)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
