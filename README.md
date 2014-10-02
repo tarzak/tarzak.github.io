@@ -114,6 +114,10 @@ Personal web site
 ## D3.js
 - [Three Little Circles](http://bost.ocks.org/mike/circles/)
 - [Blocks - many examples of using D3.js](http://bl.ocks.org/)
+- [D3.js crash course](http://www.codeproject.com/Articles/523444/D-crash-course)
+- [Dashing D3js - earn how to make Data Visualizations with D3.js](https://www.dashingd3js.com/)
+- [D3.js Data Visualization Fundamentals](http://www.pluralsight.com/courses/table-of-contents/d3js-data-visualization-fundamentals)
+- [Resources for learning D3js](http://getgini.com/lists/80-resources-for-learning-d3-jsResources for learning D3js)
 
 ## ExtJs
 - [Урок по ExtJS 4.1 (часть 1)](http://habrahabr.ru/sandbox/44023/)
