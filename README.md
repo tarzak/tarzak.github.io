@@ -13,6 +13,13 @@ Personal web site
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 - [Краткое руководство по Маркдауну](http://goo.gl/84aUxo)
 
+## Development
+- [Рефакторинг](http://refactoring.guru/)
+- [Refactoring Tales](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
+- [Семантическое версионирование](http://semver.org/lang/ru/)
+- [Секреты быстрого кодинга в WebStorm](http://habrahabr.ru/company/JetBrains/blog/168267/)
+- [Разрабатываем более качественные API на JavaScript](http://frontender.info/designing-javascript-apis-usability/)
+
 ## Node.js & npm
 - [Node.js для начинающих](http://www.nodebeginner.ru/)
 - [Шпаргалка по пакетному менеджеру NPM](http://habrahabr.ru/post/133363/#npm_understand)
@@ -60,14 +67,12 @@ Personal web site
 - [AngularJS Training Videos and Tutorials for Developers](https://egghead.io/lessons)
 - [Angular.js + Reuire.js](https://www.startersquad.com/blog/angularjs-requirejs/)
 - [angularAMD AngularJS + RequireJS: The Proper and Easier Way](http://marcoslin.github.io/angularAMD/#/home)
+- [Using Controllers In Directives In AngularJS](http://www.bennadel.com/blog/2446-using-controllers-in-directives-in-angularjs.htm)
 
 ## Graphic libs
 - [Рисование на JavaScript с помощью Paper.js, Processing.js, Raphael.js](http://sitear.ru/material/risovanie-na-javascript)
 - [Улучшаем производительность HTML5 canvas](http://habrahabr.ru/post/127014/)
 - [Часы на кривых Безье - processing.js](http://habrahabr.ru/post/236455/?utm_campaign=email_digest&utm_source=email_habrahabr&utm_medium=email_day_20140912&utm_content=link2post)
-
-## JavaScript manipulations with DOM
-- [remove created item from DOM - beginner student ](http://www.webdeveloper.com/forum/showthread.php?263233-remove-created-item-from-DOM-beginner-student)
 
 ## HTML
 - [Семантичний HTML код](http://www.xiper.net/learn/tegofenshuj/about-semantic.html)
@@ -95,6 +100,8 @@ Personal web site
 - [CursorMessage: jQuery Tooltip for any event](https://www.kingsquare.nl/cursormessage)
 - [js anti-patterns](http://agentcooper.ghost.io/javascript-anti-patterns/)
 - [Основы Drag'n'Drop](http://learn.javascript.ru/drag-and-drop)
+- [JavaScript core](http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/)
+- [Remove created item from DOM - beginner student ](http://www.webdeveloper.com/forum/showthread.php?263233-remove-created-item-from-DOM-beginner-student)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
@@ -124,3 +131,15 @@ Personal web site
 
 ## MySQL
 - [A Basic MySQL Tutorial](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
+- [Learn SQL The Hard Way Table Of Contents](http://sql.learncodethehardway.org/book/)
+
+## Python
+- [Learn Python](http://www.tutorialspoint.com/python/)
+- [learnpython.org](http://www.learnpython.org/)
+
+## Ajax
+- [AJAX. Разработка веб - приложений для Web 2.0](http://www.ex.ua/7947204)
+- [Введение в Ajax](http://javascript.ru/ajax/intro)
+ 
+## jQuerry
+- [15 Top jQuery Scrollbar Plugins](http://slodive.com/web-development/jquery-scroll/)
