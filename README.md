@@ -102,6 +102,7 @@ Personal web site
 - [Основы Drag'n'Drop](http://learn.javascript.ru/drag-and-drop)
 - [JavaScript core](http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/)
 - [Remove created item from DOM - beginner student ](http://www.webdeveloper.com/forum/showthread.php?263233-remove-created-item-from-DOM-beginner-student)
+- [20 и одна примочка о которых Вы не можете запомнить](http://habrahabr.ru/post/202686/)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
