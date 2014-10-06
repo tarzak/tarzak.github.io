@@ -144,3 +144,6 @@ Personal web site
  
 ## jQuerry
 - [15 Top jQuery Scrollbar Plugins](http://slodive.com/web-development/jquery-scroll/)
+
+## Linux
+- Linux's book parts: [1](http://adm-lib.ru/books/0/ldn1.pdf), [2](http://adm-lib.ru/books/0/ldn2.pdf), [3](http://adm-lib.ru/books/0/ldn3.pdf)
