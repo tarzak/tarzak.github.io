@@ -68,6 +68,9 @@ Personal web site
 - [Angular.js + Reuire.js](https://www.startersquad.com/blog/angularjs-requirejs/)
 - [angularAMD AngularJS + RequireJS: The Proper and Easier Way](http://marcoslin.github.io/angularAMD/#/home)
 - [Using Controllers In Directives In AngularJS](http://www.bennadel.com/blog/2446-using-controllers-in-directives-in-angularjs.htm)
+- [Form validation with angularjs](http://www.ng-newsletter.com/posts/validations.html)
+- [AngularJS Form Validation](http://scotch.io/tutorials/javascript/angularjs-form-validation)
+- [On the Bleeding Edge: Advanced AngularJS Form Validation](http://code.realcrowd.com/on-the-bleeding-edge-advanced-angularjs-form-validation/)
 
 ## Graphic libs
 - [Рисование на JavaScript с помощью Paper.js, Processing.js, Raphael.js](http://sitear.ru/material/risovanie-na-javascript)
