@@ -150,3 +150,6 @@ Personal web site
 
 ## Linux
 - Linux's book parts: [1](http://adm-lib.ru/books/0/ldn1.pdf), [2](http://adm-lib.ru/books/0/ldn2.pdf), [3](http://adm-lib.ru/books/0/ldn3.pdf)
+
+## Algorithms
+- [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
