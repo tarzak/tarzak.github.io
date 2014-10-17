@@ -48,7 +48,6 @@ Personal web site
 ```
 - [Новый aggregation framework в MongoDB 2.1](http://habrahabr.ru/post/139643/)
 
-
 ## Bower
 - [Howto fix bower ECMDERR](http://stackoverflow.com/questions/21789683/howto-fix-bower-ecmderr)
 - [Bower / Git Errors: Exit code #128 - failed connect](http://stackoverflow.com/questions/21544803/git-bower-errors-exit-code-128-failed-connect)
@@ -136,6 +135,10 @@ Personal web site
 ## MySQL
 - [A Basic MySQL Tutorial](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
 - [Learn SQL The Hard Way Table Of Contents](http://sql.learncodethehardway.org/book/)
+- [SQL - Урок 2. Типы данных](http://www.site-do.ru/db/sql2.php)
+- [Составные операторы в условии WHERE](http://www.firststeps.ru/sql/oracle/r.php?17)
+- [Выборка данных с условием. Оператор WHERE](http://sqldoc.net/5-where.html)
+- [SELECT - дальше и глубже](http://www.firststeps.ru/sql/)
 
 ## Python
 - [Learn Python](http://www.tutorialspoint.com/python/)
@@ -151,5 +154,6 @@ Personal web site
 ## Linux
 - Linux's book parts: [1](http://adm-lib.ru/books/0/ldn1.pdf), [2](http://adm-lib.ru/books/0/ldn2.pdf), [3](http://adm-lib.ru/books/0/ldn3.pdf)
 
-## Algorithms
+## Algorithms & programming
 - [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
+- [Programmr](http://www.programmr.com/)
