@@ -117,6 +117,8 @@ Personal web site
 - [WebDev, coding, else (ua)](http://programming.in.ua/)
 - [Habr инструменты веб девелопера.](http://habrahabr.ru/post/231151/)
 - [Pure - A set of small, responsive CSS modules that you can use in every web project.](http://purecss.io/)
+- [Sweet Alerts](http://tristanedwards.me/sweetalert)
+- [Awesome SVG](https://github.com/willianjusten/awesome-svg)
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
