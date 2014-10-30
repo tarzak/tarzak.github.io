@@ -128,6 +128,7 @@ Personal web site
 - [Sweet Alerts](http://tristanedwards.me/sweetalert)
 - [Awesome SVG](https://github.com/willianjusten/awesome-svg)
 - [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
+- [Galen Framework — автоматизированое тестирование адаптивной верстки сайта](http://dou.ua/forums/topic/11165/?from=comment-digest&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments)
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
