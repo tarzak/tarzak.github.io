@@ -24,6 +24,8 @@ Personal web site
 - [Node.js для начинающих](http://www.nodebeginner.ru/)
 - [Шпаргалка по пакетному менеджеру NPM](http://habrahabr.ru/post/133363/#npm_understand)
 - [Node.js quick file server (static files over HTTP)](http://stackoverflow.com/questions/16333790/node-js-quick-file-server-static-files-over-http)
+- [How To Implement Password Reset In Node.js](http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/)
+- [node-mailchimp](https://github.com/gomfunkel/node-mailchimp)
 
 ## MongoDB
 - [Начало работы с MongoDB, часть 1](http://www.ashep.org/2012/nachalo-raboty-s-mongodb-chast-1/#.U94vC2NElyx)
@@ -70,6 +72,10 @@ Personal web site
 - [Form validation with angularjs](http://www.ng-newsletter.com/posts/validations.html)
 - [AngularJS Form Validation](http://scotch.io/tutorials/javascript/angularjs-form-validation)
 - [On the Bleeding Edge: Advanced AngularJS Form Validation](http://code.realcrowd.com/on-the-bleeding-edge-advanced-angularjs-form-validation/)
+- [ng-admin](https://github.com/marmelab/ng-admin)
+- [Angular Mailer](https://github.com/utnas/angular-mailer)
+- [MailChimp API v2.0 NodeJs Example Application](https://github.com/mailchimp/mcapi2-node-examples)
+- [Angular on Yeoman](http://yeoman.io/codelab/write-app.html)
 
 ## Graphic libs
 - [Рисование на JavaScript с помощью Paper.js, Processing.js, Raphael.js](http://sitear.ru/material/risovanie-na-javascript)
@@ -106,6 +112,7 @@ Personal web site
 - [JavaScript core](http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/)
 - [Remove created item from DOM - beginner student ](http://www.webdeveloper.com/forum/showthread.php?263233-remove-created-item-from-DOM-beginner-student)
 - [20 и одна примочка о которых Вы не можете запомнить](http://habrahabr.ru/post/202686/)
+- [42 top examples of JavaScript](http://www.creativebloq.com/web-design/examples-of-javascript-1233964)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
@@ -120,6 +127,7 @@ Personal web site
 - [Pure - A set of small, responsive CSS modules that you can use in every web project.](http://purecss.io/)
 - [Sweet Alerts](http://tristanedwards.me/sweetalert)
 - [Awesome SVG](https://github.com/willianjusten/awesome-svg)
+- [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
