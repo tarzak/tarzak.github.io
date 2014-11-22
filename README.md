@@ -169,3 +169,11 @@ Personal web site
 ## Algorithms & programming
 - [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
 - [Programmr](http://www.programmr.com/)
+
+## MeteorJS
+- [Learn Meteor.js properly](http://javascriptissexy.com/learn-meteor-js-properly/)
+- [Your first Meteor Application](http://meteortips.com/book/)
+- [Building An App In 45 Minutes With Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
+- [Meteor.com Official Tutorial](https://www.meteor.com/install)
+- [A Guide to Meteor Templates & Data Contexts](https://www.discovermeteor.com/blog/a-guide-to-meteor-templates-data-contexts/)
+- [Discover Meteor](http://ru.discovermeteor.com/)
