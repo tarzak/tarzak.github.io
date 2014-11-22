@@ -76,6 +76,7 @@ Personal web site
 - [Angular Mailer](https://github.com/utnas/angular-mailer)
 - [MailChimp API v2.0 NodeJs Example Application](https://github.com/mailchimp/mcapi2-node-examples)
 - [Angular on Yeoman](http://yeoman.io/codelab/write-app.html)
+- [Formatting JavaScript Date in AngularJS Outside of the view](http://www.hannaliebl.com/formatting-javascript-date-in-angularjs-outside-of-the-view/)
 
 ## Graphic libs
 - [Рисование на JavaScript с помощью Paper.js, Processing.js, Raphael.js](http://sitear.ru/material/risovanie-na-javascript)
