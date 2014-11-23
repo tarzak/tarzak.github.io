@@ -141,6 +141,7 @@ Personal web site
 - [Dashing D3js - earn how to make Data Visualizations with D3.js](https://www.dashingd3js.com/)
 - [D3.js Data Visualization Fundamentals](http://www.pluralsight.com/courses/table-of-contents/d3js-data-visualization-fundamentals)
 - [Resources for learning D3js](http://getgini.com/lists/80-resources-for-learning-d3-jsResources for learning D3js)
+- [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 
 ## ExtJs
 - [Урок по ExtJS 4.1 (часть 1)](http://habrahabr.ru/sandbox/44023/)
