@@ -146,13 +146,14 @@ Personal web site
 ## ExtJs
 - [Урок по ExtJS 4.1 (часть 1)](http://habrahabr.ru/sandbox/44023/)
 
-## MySQL
+## SQL
 - [A Basic MySQL Tutorial](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
 - [Learn SQL The Hard Way Table Of Contents](http://sql.learncodethehardway.org/book/)
 - [SQL - Урок 2. Типы данных](http://www.site-do.ru/db/sql2.php)
 - [Составные операторы в условии WHERE](http://www.firststeps.ru/sql/oracle/r.php?17)
 - [Выборка данных с условием. Оператор WHERE](http://sqldoc.net/5-where.html)
 - [SELECT - дальше и глубже](http://www.firststeps.ru/sql/)
+- [Упражнения по SQL](http://www.sql-ex.ru/)
 
 ## Python
 - [Learn Python](http://www.tutorialspoint.com/python/)
