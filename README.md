@@ -182,3 +182,4 @@ Personal web site
 - [A Guide to Meteor Templates & Data Contexts](https://www.discovermeteor.com/blog/a-guide-to-meteor-templates-data-contexts/)
 - [Discover Meteor](http://ru.discovermeteor.com/)
 - [Exception in template helper](http://stackoverflow.com/questions/25674659/exception-in-template-helper-using-global-helper-in-meteor)
+- [Continuos integration for meteor apps](https://meteorhacks.com/continuos-integration-for-meteor-apps.html)
