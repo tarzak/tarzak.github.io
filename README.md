@@ -114,6 +114,7 @@ Personal web site
 - [Remove created item from DOM - beginner student ](http://www.webdeveloper.com/forum/showthread.php?263233-remove-created-item-from-DOM-beginner-student)
 - [20 и одна примочка о которых Вы не можете запомнить](http://habrahabr.ru/post/202686/)
 - [42 top examples of JavaScript](http://www.creativebloq.com/web-design/examples-of-javascript-1233964)
+- [Remove property from JavaScript object](http://stackoverflow.com/questions/208105/remove-property-from-javascript-object)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
