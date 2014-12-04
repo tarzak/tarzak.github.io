@@ -184,3 +184,4 @@ Personal web site
 - [Exception in template helper](http://stackoverflow.com/questions/25674659/exception-in-template-helper-using-global-helper-in-meteor)
 - [Continuos integration for meteor apps](https://meteorhacks.com/continuos-integration-for-meteor-apps.html)
 - [Using d3 and Meteor to generate scalable vector graphics (SVG)](http://blog.benmcmahen.com/post/41124327100/using-d3-and-meteor-to-generate-scalable-vector)
+- [Meteor Cookbook: Reactive D3 Visualizations](https://meteor.hackpad.com/Meteor-Cookbook-Reactive-D3-Visualizations-YUR9JT4mrm9)
