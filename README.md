@@ -164,8 +164,9 @@ Personal web site
 - [AJAX. Разработка веб - приложений для Web 2.0](http://www.ex.ua/7947204)
 - [Введение в Ajax](http://javascript.ru/ajax/intro)
  
-## jQuerry
+## jQuery
 - [15 Top jQuery Scrollbar Plugins](http://slodive.com/web-development/jquery-scroll/)
+- [JQeury svg map](http://jqvmap.com/)
 
 ## Linux
 - Linux's book parts: [1](http://adm-lib.ru/books/0/ldn1.pdf), [2](http://adm-lib.ru/books/0/ldn2.pdf), [3](http://adm-lib.ru/books/0/ldn3.pdf)
