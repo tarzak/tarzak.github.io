@@ -115,6 +115,7 @@ Personal web site
 - [20 и одна примочка о которых Вы не можете запомнить](http://habrahabr.ru/post/202686/)
 - [42 top examples of JavaScript](http://www.creativebloq.com/web-design/examples-of-javascript-1233964)
 - [Remove property from JavaScript object](http://stackoverflow.com/questions/208105/remove-property-from-javascript-object)
+- [Prototypes in JavaScript](http://code.tutsplus.com/tutorials/prototypes-in-javascript-what-you-need-to-know--net-24949)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
