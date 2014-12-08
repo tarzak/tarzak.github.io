@@ -187,3 +187,4 @@ Personal web site
 - [Continuos integration for meteor apps](https://meteorhacks.com/continuos-integration-for-meteor-apps.html)
 - [Using d3 and Meteor to generate scalable vector graphics (SVG)](http://blog.benmcmahen.com/post/41124327100/using-d3-and-meteor-to-generate-scalable-vector)
 - [Meteor Cookbook: Reactive D3 Visualizations](https://meteor.hackpad.com/Meteor-Cookbook-Reactive-D3-Visualizations-YUR9JT4mrm9)
+- [How to deploy a MeteorJS app on ubuntu](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-meteor-js-application-on-ubuntu-14-04-with-nginx)
