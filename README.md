@@ -145,6 +145,7 @@ Personal web site
 - [Resources for learning D3js](http://getgini.com/lists/80-resources-for-learning-d3-jsResources for learning D3js)
 - [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 - [Pie and Donut Charts in D3.js](http://schoolofdata.org/2013/10/01/pie-and-donut-charts-in-d3-js/)
+- [Climbing the d3.js Visualisation Stack](http://schoolofdata.org/2013/08/12/climbing-the-d3-js-visualisation-stack/)
 
 ## ExtJs
 - [Урок по ExtJS 4.1 (часть 1)](http://habrahabr.ru/sandbox/44023/)
