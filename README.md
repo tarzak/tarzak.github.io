@@ -193,3 +193,4 @@ Personal web site
 - [How to deploy a MeteorJS app on ubuntu](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-meteor-js-application-on-ubuntu-14-04-with-nginx)
 - [Iron router: apply CSS change whenever route changes](http://stackoverflow.com/questions/25456293/meteor-js-iron-router-apply-css-change-whenever-route-changes)
 - [Meteor An HTTP server for 2.0 realtime Web](http://www.meteorserver.org/)
+- [Creating new Meteor collections on the fly](http://stackoverflow.com/questions/15214667/creating-new-meteor-collections-on-the-fly)
