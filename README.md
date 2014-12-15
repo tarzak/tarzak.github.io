@@ -84,6 +84,7 @@ Personal web site
 - [Улучшаем производительность HTML5 canvas](http://habrahabr.ru/post/127014/)
 - [Часы на кривых Безье - processing.js](http://habrahabr.ru/post/236455/?utm_campaign=email_digest&utm_source=email_habrahabr&utm_medium=email_day_20140912&utm_content=link2post)
 - [Intro to webGL with three.js](http://davidscottlyons.com/threejs/presentations/frontporch14/#slide-0)
+- [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
 
 ## HTML
 - [Семантичний HTML код](http://www.xiper.net/learn/tegofenshuj/about-semantic.html)
