@@ -152,6 +152,7 @@ Personal web site
 - [Pie and Donut Charts in D3.js](http://schoolofdata.org/2013/10/01/pie-and-donut-charts-in-d3-js/)
 - [Climbing the d3.js Visualisation Stack](http://schoolofdata.org/2013/08/12/climbing-the-d3-js-visualisation-stack/)
 - [D3.js tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
+- [The Key to Enlightenment](http://bost.ocks.org/mike/selection/#key)
 
 ## ExtJs
 - [Урок по ExtJS 4.1 (часть 1)](http://habrahabr.ru/sandbox/44023/)
