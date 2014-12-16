@@ -14,7 +14,7 @@
   <p><a href="http://d3js.org">D3</a>’s <a href="https://github.com/mbostock/d3/wiki/Selections#wiki-transition">selection.transition</a> method makes it easy to animate transitions when changing the DOM. For example, to change the text color to red instantaneously, you can select the body element and set the color style:
   </p>
   <script>
-  
+  window.onload = function() {
     var check = false,
         interval = setInterval(function () {
       if(check) {
@@ -26,6 +26,6 @@
         d3.select("body").transition().duration(1000).style("color", "red");
       }
     } ,5000);
-  
+  }
 </body>
 </html>
