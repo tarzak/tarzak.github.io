@@ -28,6 +28,12 @@
       background-color: "steelblue";
       margin:5px;
     }
+    
+    circle { 
+      stroke:  black ;
+      stroke-width: 1px;
+      fill: red;
+    }
     </style>
 </head>
 <body>
@@ -40,6 +46,16 @@
   <div></div>
   <div></div>
   <div></div>
+  
+    <div class="secondary">
+      <svg id="exercise" xmlns="http://www.w3.org/2000/svg" version="1.1" height="700" width="500">
+          <circle cy="100" cx="50" r="40"/>
+          <circle cy="100" cx="150" r="40"/>
+          <circle cy="100" cx="250" r="40"/>
+          <circle cy="100" cx="350" r="40"/>
+          <circle cy="100" cx="450" r="40"/>
+        </svg>
+    </div>
   <script>
   (function() {
     var check = false,
@@ -61,6 +77,20 @@
       .duration(1000)
       .style("width", function(d) { return d + "px"})
       .transition().duration(5000).style("background-color", "lightgreen");
+      
+    var data = ["blue","yellow","violet"];
+    var exercise = d3.selectAll('#exercise').selectAll("circle")
+    .data(data);
+    
+    exercise
+        .transition()
+        .duration(2000)
+        .style("fill", function(d){return d});
+    exercise.exit()
+        .transition()
+        .duration(3000)
+        .attr("r", 0)
+        .remove();
     
   })();
   </script>
