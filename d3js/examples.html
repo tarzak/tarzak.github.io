@@ -20,6 +20,14 @@
     p {
         width: 250px;
     }
+    
+    div {
+      padding: 0;
+      width:1px;
+      height:20px;
+      background-color: "steelblue";
+      margin:5px;
+    }
     </style>
 </head>
 <body>
@@ -27,6 +35,11 @@
   <h1>Working with Transitions</h1>
   <p><a href="http://d3js.org">D3</a>’s <a href="https://github.com/mbostock/d3/wiki/Selections#wiki-transition">selection.transition</a> method makes it easy to animate transitions when changing the DOM. For example, to change the text color to red instantaneously, you can select the body element and set the color style:
   </p>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
   <script>
   (function() {
     var check = false,
@@ -40,6 +53,13 @@
         d3.select("body").transition().duration(1000).style("color", "red");
       }
     } ,5000);
+    
+    d3.selectAll('div')
+      .data([125,160,100,170,145])
+      .style("background-color", "steelblue")
+      .transition()
+      .duration(1000)
+      .style("width", function(d) { return d + "px"});
   })();
   </script>
 </body>
