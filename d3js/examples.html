@@ -22,6 +22,10 @@
     }
     
     div {
+        display: inline-block;
+    }
+    
+    div.block {
       padding: 0;
       width:1px;
       height:20px;
@@ -41,14 +45,15 @@
   <h1>Working with Transitions</h1>
   <p><a href="http://d3js.org">D3</a>’s <a href="https://github.com/mbostock/d3/wiki/Selections#wiki-transition">selection.transition</a> method makes it easy to animate transitions when changing the DOM. For example, to change the text color to red instantaneously, you can select the body element and set the color style:
   </p>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  
+    <div class="main">
+      <div class="block"></div>
+      <div class="block"></div>
+      <div class="block"></div>
+      <div class="block"></div>
+      <div class="block"></div>
+    </div>
     <div class="secondary">
-      <svg id="exercise" xmlns="http://www.w3.org/2000/svg" version="1.1" height="700" width="500">
+      <svg id="exercise" xmlns="http://www.w3.org/2000/svg" version="1.1" height="200" width="500">
           <circle cy="100" cx="50" r="40"/>
           <circle cy="100" cx="150" r="40"/>
           <circle cy="100" cx="250" r="40"/>
