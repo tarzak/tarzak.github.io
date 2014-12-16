@@ -19,11 +19,11 @@
         interval = setInterval(function () {
       if(check) {
         check = false;
-        d3.select("body").transition().duration(1000).style("color", "black")
+        d3.select("body").transition().duration(1000).style("color", "red")
       } 
       else {
         check = true; 
-        d3.select("body").transition().duration(1000).style("color", "red");
+        d3.select("body").transition().duration(1000).style("color", "black");
       }
     } ,5000);
   })();
