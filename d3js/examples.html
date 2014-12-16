@@ -59,9 +59,9 @@
       .style("background-color", "steelblue")
       .transition()
       .duration(1000)
-      .style("width", function(d) { return d + "px"});
+      .style("width", function(d) { return d + "px"})
+      .transition().duration(5000).style("background-color", "lightgreen");
     
-    d3.selectAll('div').transition().duration(5000).style("background-color", "lightgreen");
   })();
   </script>
 </body>
