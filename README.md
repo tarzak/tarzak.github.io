@@ -203,4 +203,5 @@ Personal web site
 - [Meteor An HTTP server for 2.0 realtime Web](http://www.meteorserver.org/)
 - [Creating new Meteor collections on the fly](http://stackoverflow.com/questions/15214667/creating-new-meteor-collections-on-the-fly)
 - [Extending meteor user model](http://stackoverflow.com/questions/19203906/extending-meteor-user-model)
-- [How to deploy a meteor app to my own server (StarckOverflow](http://stackoverflow.com/questions/17606340/how-to-deploy-a-meteor-application-to-my-own-server)
+- [How to deploy a meteor app to my own server (StackOverflow)](http://stackoverflow.com/questions/17606340/how-to-deploy-a-meteor-application-to-my-own-server)
+- [Creating new Meteor collections on the fly](http://stackoverflow.com/questions/15214667/creating-new-meteor-collections-on-the-fly)
