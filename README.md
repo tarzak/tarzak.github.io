@@ -188,6 +188,7 @@ Personal web site
 - [Programmr](http://www.programmr.com/)
 
 ## MeteorJS
+- [Teach meteor yourself in 6 weeks](http://meteorpedia.com/read/Tutorials)
 - [Learn Meteor.js properly](http://javascriptissexy.com/learn-meteor-js-properly/)
 - [Your first Meteor Application](http://meteortips.com/book/)
 - [Building An App In 45 Minutes With Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
