@@ -205,3 +205,4 @@ Personal web site
 - [Extending meteor user model](http://stackoverflow.com/questions/19203906/extending-meteor-user-model)
 - [How to deploy a meteor app to my own server (StackOverflow)](http://stackoverflow.com/questions/17606340/how-to-deploy-a-meteor-application-to-my-own-server)
 - [Creating new Meteor collections on the fly](http://stackoverflow.com/questions/15214667/creating-new-meteor-collections-on-the-fly)
+- [How to deal with dynamic subscriptions in Meteor?](http://stackoverflow.com/questions/16252077/how-to-deal-with-dynamic-subscriptions-in-meteor)
