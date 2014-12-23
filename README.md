@@ -212,3 +212,4 @@ Personal web site
 - [Unit testing with Meteor](http://xolv.io/blog/2013/04/unit-testing-with-meteor)
 - [Fast Render Internals and How It Works](https://meteorhacks.com/fast-render-internals-and-how-it-works.html)
 - [MeteorJS Fast Rendering](https://github.com/meteorhacks/fast-render)
+- [Iron-Router Tutorial](http://manuel-schoebel.com/blog/iron-router-tutorial)
