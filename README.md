@@ -19,6 +19,7 @@ Personal web site
 - [Семантическое версионирование](http://semver.org/lang/ru/)
 - [Секреты быстрого кодинга в WebStorm](http://habrahabr.ru/company/JetBrains/blog/168267/)
 - [Разрабатываем более качественные API на JavaScript](http://frontender.info/designing-javascript-apis-usability/)
+- [Много бесплатных книг по программированию](http://habrahabr.ru/post/191312/)
 
 ## Node.js & npm
 - [Node.js для начинающих](http://www.nodebeginner.ru/)
@@ -208,3 +209,4 @@ Personal web site
 - [Creating new Meteor collections on the fly](http://stackoverflow.com/questions/15214667/creating-new-meteor-collections-on-the-fly)
 - [How to deal with dynamic subscriptions in Meteor?](http://stackoverflow.com/questions/16252077/how-to-deal-with-dynamic-subscriptions-in-meteor)
 - [Unit testing with Meteor](http://xolv.io/blog/2013/04/unit-testing-with-meteor)
+- [Fast Render Internals and How It Works](https://meteorhacks.com/fast-render-internals-and-how-it-works.html)
