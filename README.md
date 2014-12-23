@@ -213,3 +213,4 @@ Personal web site
 - [Fast Render Internals and How It Works](https://meteorhacks.com/fast-render-internals-and-how-it-works.html)
 - [MeteorJS Fast Rendering](https://github.com/meteorhacks/fast-render)
 - [Iron-Router Tutorial](http://manuel-schoebel.com/blog/iron-router-tutorial)
+- [Meteor plus mySQL](https://github.com/numtel/meteor-mysql)
