@@ -138,6 +138,7 @@ Personal web site
 - [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
 - [Galen Framework — автоматизированое тестирование адаптивной верстки сайта](http://dou.ua/forums/topic/11165/?from=comment-digest&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments)
 - [Skeleton - css framework](http://getskeleton.com/examples/landing/)
+- [Responsive Full Background Image Using CSS](http://sixrevisions.com/css/responsive-background-image/)
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
