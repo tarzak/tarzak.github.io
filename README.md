@@ -210,3 +210,4 @@ Personal web site
 - [How to deal with dynamic subscriptions in Meteor?](http://stackoverflow.com/questions/16252077/how-to-deal-with-dynamic-subscriptions-in-meteor)
 - [Unit testing with Meteor](http://xolv.io/blog/2013/04/unit-testing-with-meteor)
 - [Fast Render Internals and How It Works](https://meteorhacks.com/fast-render-internals-and-how-it-works.html)
+- [MeteorJS Fast Rendering](https://github.com/meteorhacks/fast-render)
