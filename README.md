@@ -214,3 +214,4 @@ Personal web site
 - [MeteorJS Fast Rendering](https://github.com/meteorhacks/fast-render)
 - [Iron-Router Tutorial](http://manuel-schoebel.com/blog/iron-router-tutorial)
 - [Meteor plus mySQL](https://github.com/numtel/meteor-mysql)
+- [Wrapping a 3rd party library into a package](http://justmeteor.com/wrapping-a-3rd-party-library-into-a-package/)
