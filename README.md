@@ -139,6 +139,7 @@ Personal web site
 - [Galen Framework — автоматизированое тестирование адаптивной верстки сайта](http://dou.ua/forums/topic/11165/?from=comment-digest&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments)
 - [Skeleton - css framework](http://getskeleton.com/examples/landing/)
 - [Responsive Full Background Image Using CSS](http://sixrevisions.com/css/responsive-background-image/)
+- [A CSS Framework and a Set of React Components that Implement Google's Material Design](http://material-ui.com/#/)
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
