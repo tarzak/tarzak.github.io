@@ -4,6 +4,12 @@ Tarzak.github.io
 Personal web site
 
 # Useful info
+## Server maintenance
+- [Делаем nginx как front-end к apache](http://habrahabr.ru/post/120814/)
+- [Я построю свой почтовый сервер с Postfix и Dovecot](http://habrahabr.ru/post/193220/)
+- [A Mailserver on Ubuntu 14.04: Postfix, Dovecot, MySQL](https://www.exratione.com/2014/05/a-mailserver-on-ubuntu-1404-postfix-dovecot-mysql/)
+- [Dovecot /postfix with Roundcube WebUI on centOS](http://wiki.vpsget.com/index.php/Dovecot_/postfix_with_Roundcube_WebUI)
+
 ## Git
 - [GIT HowTo](http://githowto.com)
 - [The entire Pro Git book, written by Scott Chacon](http://git-scm.com/book)
