@@ -11,6 +11,7 @@ Personal web site
 - [Dovecot /postfix with Roundcube WebUI on centOS](http://wiki.vpsget.com/index.php/Dovecot_/postfix_with_Roundcube_WebUI)
 - [iRedMail + Nginx](http://wiki.nginx.org/IRedMail)
 - [iRedAdmin nginx without subdomain](http://www.iredmail.org/forum/topic7469-iredmail-support-iredadmin-nginx-without-subdomain.html)
+- [Installing iRedmail in Ubuntu With Nginx](http://dfpropaganda.github.io/blog/2014/08/13/installing-iredmail-in-ubuntu-with-nginx/)
 
 ## Git
 - [GIT HowTo](http://githowto.com)
