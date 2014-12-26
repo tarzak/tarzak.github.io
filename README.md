@@ -14,6 +14,7 @@ Personal web site
 - [Installing iRedmail in Ubuntu With Nginx](http://dfpropaganda.github.io/blog/2014/08/13/installing-iredmail-in-ubuntu-with-nginx/)
 - [Идеальный сервер - Ubuntu 12.04 с Nginx [ISPConfig 3]](http://nikmy.ru/index.php/stati/internet/khosting-domen/109-idealnyj-server-ubuntu-12-04-s-nginx-ispconfig-3.html?showall=&limitstart=)
 - [Iredmail on Ubuntu tutorial](http://www.iredmail.org/docs/install.iredmail.on.debian.ubuntu.html)
+- [How To Securely Configure a Production MongoDB Server](https://www.digitalocean.com/community/tutorials/how-to-securely-configure-a-production-mongodb-server)
 
 ## Git
 - [GIT HowTo](http://githowto.com)
