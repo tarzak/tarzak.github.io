@@ -152,6 +152,7 @@ Personal web site
 - [Skeleton - css framework](http://getskeleton.com/examples/landing/)
 - [Responsive Full Background Image Using CSS](http://sixrevisions.com/css/responsive-background-image/)
 - [A CSS Framework and a Set of React Components that Implement Google's Material Design](http://material-ui.com/#/)
+- [Респонсивная верстка (Алексей Чикин) ](https://www.youtube.com/watch?v=Vt2Nkz-I2d0)
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
