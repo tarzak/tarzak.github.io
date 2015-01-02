@@ -153,6 +153,10 @@ Personal web site
 - [Responsive Full Background Image Using CSS](http://sixrevisions.com/css/responsive-background-image/)
 - [A CSS Framework and a Set of React Components that Implement Google's Material Design](http://material-ui.com/#/)
 - [Респонсивная верстка (Алексей Чикин) ](https://www.youtube.com/watch?v=Vt2Nkz-I2d0)
+- [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
+- [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+- [Native HTML5 Drag and Drop](http://www.html5rocks.com/en/tutorials/dnd/basics/)
+- Drag & Drop grids: [gridster.js](http://gridster.net/), [gridstack.js](http://troolee.github.io/gridstack.js/), [jQuery-shapeshift](http://mcpants.github.io/jquery.shapeshift/)
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
