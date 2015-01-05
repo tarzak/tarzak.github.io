@@ -133,6 +133,7 @@ Personal web site
 - [Remove property from JavaScript object](http://stackoverflow.com/questions/208105/remove-property-from-javascript-object)
 - [Prototypes in JavaScript](http://code.tutsplus.com/tutorials/prototypes-in-javascript-what-you-need-to-know--net-24949)
 - [Приём проектирования «Модуль»](http://learn.javascript.ru/closures-usage#%D0%BF%D1%80%D0%B8%D1%91%D0%BC-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C)
+- [Getting elements by attribute selector pure JS](http://stackoverflow.com/questions/9496427/can-i-get-elements-by-attribute-selector-when-queryselectorall-is-not-available)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
