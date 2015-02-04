@@ -234,6 +234,7 @@ Personal web site
 - [Iron-Router Tutorial](http://manuel-schoebel.com/blog/iron-router-tutorial)
 - [Meteor plus mySQL](https://github.com/numtel/meteor-mysql)
 - [Wrapping a 3rd party library into a package](http://justmeteor.com/wrapping-a-3rd-party-library-into-a-package/)
+- [Sortable lists in MteorJS using jQuery-ui](http://differential.com/blog/sortable-lists-in-meteor-using-jquery-ui)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
