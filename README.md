@@ -207,6 +207,7 @@ Personal web site
 ## Algorithms & programming
 - [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
 - [Programmr](http://www.programmr.com/)
+- [DataBase of algorithms](http://bigocheatsheet.com)
 
 ## MeteorJS
 - [Teach meteor yourself in 6 weeks](http://meteorpedia.com/read/Tutorials)
