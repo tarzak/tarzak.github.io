@@ -237,6 +237,7 @@ Personal web site
 - [Wrapping a 3rd party library into a package](http://justmeteor.com/wrapping-a-3rd-party-library-into-a-package/)
 - [Sortable lists in MteorJS using jQuery-ui](http://differential.com/blog/sortable-lists-in-meteor-using-jquery-ui)
 - [Meteor Blaze Docs](http://meteor.github.io/blaze/docs.html#ui_registerhelper)
+- [How To Make a Custom Registration (and Login) Form in Meteor](http://meteortips.com/tutorial/custom-registration-form/)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
