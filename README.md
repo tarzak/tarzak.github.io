@@ -116,6 +116,7 @@ Personal web site
 - [css statistics](http://cssstats.com/)
 - [github's css](http://markdotto.com/2014/07/23/githubs-css/)
 - [Кроссбраузерный inline-block](http://habrahabr.ru/post/117109/)
+- [A single div pictures (Attention: highclass art!)](http://a.singlediv.com/)
 
 ## JavaScript
 - [Підводне каміння JS - в тому числі про типи даних.](http://habrahabr.ru/post/159313/)
