@@ -117,6 +117,7 @@ Personal web site
 - [github's css](http://markdotto.com/2014/07/23/githubs-css/)
 - [Кроссбраузерный inline-block](http://habrahabr.ru/post/117109/)
 - [A single div pictures (Attention: highclass art!)](http://a.singlediv.com/)
+- [An Introduction to CSS3 Transitions (with animation of timing-functions)](http://www.css3.info/preview/css3-transitions/)
 
 ## JavaScript
 - [Підводне каміння JS - в тому числі про типи даних.](http://habrahabr.ru/post/159313/)
