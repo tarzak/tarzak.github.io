@@ -160,6 +160,7 @@ Personal web site
 - [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
 - [Native HTML5 Drag and Drop](http://www.html5rocks.com/en/tutorials/dnd/basics/)
 - Drag & Drop grids: [gridster.js](http://gridster.net/), [gridstack.js](http://troolee.github.io/gridstack.js/), [jQuery-shapeshift](http://mcpants.github.io/jquery.shapeshift/)
+- [Responsive Web Design Patterns by Google](https://developers.google.com/web/fundamentals/layouts/rwd-patterns/)
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
@@ -212,6 +213,7 @@ Personal web site
 - [DataBase of algorithms](http://bigocheatsheet.com)
 
 ## MeteorJS
+- [Meteor wiki!](https://github.com/meteor/meteor/wiki)
 - [Teach meteor yourself in 6 weeks](http://meteorpedia.com/read/Tutorials)
 - [Learn Meteor.js properly](http://javascriptissexy.com/learn-meteor-js-properly/)
 - [Your first Meteor Application](http://meteortips.com/book/)
@@ -240,6 +242,16 @@ Personal web site
 - [Sortable lists in MteorJS using jQuery-ui](http://differential.com/blog/sortable-lists-in-meteor-using-jquery-ui)
 - [Meteor Blaze Docs](http://meteor.github.io/blaze/docs.html#ui_registerhelper)
 - [How To Make a Custom Registration (and Login) Form in Meteor](http://meteortips.com/tutorial/custom-registration-form/)
+- [How to optimize your Mongo database for Meteor.js](http://joshowens.me/how-to-optimize-your-mongo-database-for-meteor-js/)
+- [Simple search pattern](http://meteorcapture.com/simple-search-pattern/)
+- [Reactive User Interfaces - Creating maintainable interfaces with React & Meteor](http://blog.percolatestudio.com/engineering/reactive-user-interfaces/)
+- [meteor: common mistakes](https://dweldon.silvrback.com/common-mistakes)
+- [meteor: get text how to read and package text files](https://dweldon.silvrback.com/get-text)
+- [productiveme:backgrid Backgrid.js is a set of components for building semantic and easily stylable data grid widgets.](https://atmospherejs.com/productiveme/backgrid)
+- [Create a reusable template for tabs in Meteor](http://stackoverflow.com/questions/19166374/create-a-reusable-template-for-tabs-in-meteor?answertab=active#tab-top)
+- [Meteor Tracker: Transparent Reactive Programming](https://github.com/meteor/meteor/wiki/Tracker-Manual)
+- [S-Grid for Meteor.js with Flexbox ..and Stylus](http://s-grid.meteor.com/), [Sortable/dragable tests for s-grid.meteor.com](http://sortable-test.s-grid.meteor.com/)
+- [Quick tip: highlight templates](http://crater.io/posts/CrigwRm5dfcDE625e)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
