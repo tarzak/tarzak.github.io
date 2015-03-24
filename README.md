@@ -252,6 +252,7 @@ Personal web site
 - [Meteor Tracker: Transparent Reactive Programming](https://github.com/meteor/meteor/wiki/Tracker-Manual)
 - [S-Grid for Meteor.js with Flexbox ..and Stylus](http://s-grid.meteor.com/), [Sortable/dragable tests for s-grid.meteor.com](http://sortable-test.s-grid.meteor.com/)
 - [Quick tip: highlight templates](http://crater.io/posts/CrigwRm5dfcDE625e)
+- [Введение в Meteor.js | Kevin Harvey (video on VK.com)](https://vk.com/video-66170841_170505405)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
