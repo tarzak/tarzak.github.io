@@ -136,6 +136,7 @@ Personal web site
 - [Prototypes in JavaScript](http://code.tutsplus.com/tutorials/prototypes-in-javascript-what-you-need-to-know--net-24949)
 - [Приём проектирования «Модуль»](http://learn.javascript.ru/closures-usage#%D0%BF%D1%80%D0%B8%D1%91%D0%BC-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C)
 - [Getting elements by attribute selector pure JS](http://stackoverflow.com/questions/9496427/can-i-get-elements-by-attribute-selector-when-queryselectorall-is-not-available)
+- [Ecmascript 6 — что можно использовать уже сейчас](http://habrahabr.ru/post/241275/)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
@@ -254,6 +255,7 @@ Personal web site
 - [Quick tip: highlight templates](http://crater.io/posts/CrigwRm5dfcDE625e)
 - [Введение в Meteor.js | Kevin Harvey (video on VK.com)](https://vk.com/video-66170841_170505405)
 - [Reactive table for MeteorJS: aldeed: meteor-tabular](https://github.com/aldeed/meteor-tabular#using-a-custom-publish-function)
+- [Dynamic templates and data contexts. - iron-meteor/iron-dynamic-template](https://github.com/iron-meteor/iron-dynamic-template)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
