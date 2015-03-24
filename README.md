@@ -253,6 +253,7 @@ Personal web site
 - [S-Grid for Meteor.js with Flexbox ..and Stylus](http://s-grid.meteor.com/), [Sortable/dragable tests for s-grid.meteor.com](http://sortable-test.s-grid.meteor.com/)
 - [Quick tip: highlight templates](http://crater.io/posts/CrigwRm5dfcDE625e)
 - [Введение в Meteor.js | Kevin Harvey (video on VK.com)](https://vk.com/video-66170841_170505405)
+- [Reactive table for MeteorJS: aldeed: meteor-tabular](https://github.com/aldeed/meteor-tabular#using-a-custom-publish-function)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
