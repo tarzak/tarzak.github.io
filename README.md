@@ -62,6 +62,7 @@ Personal web site
   {a: {$in: ['a', 'b', 'c']}} // Exists in array
 ```
 - [Новый aggregation framework в MongoDB 2.1](http://habrahabr.ru/post/139643/)
+- [Querying: Definitive guide](https://www.safaribooksonline.com/library/view/mongodb-the-definitive/9781449344795/ch04.html)
 
 ## Bower
 - [Howto fix bower ECMDERR](http://stackoverflow.com/questions/21789683/howto-fix-bower-ecmderr)
@@ -258,6 +259,8 @@ Personal web site
 - [Reactive table for MeteorJS: aldeed: meteor-tabular](https://github.com/aldeed/meteor-tabular#using-a-custom-publish-function)
 - [Dynamic templates and data contexts. - iron-meteor/iron-dynamic-template](https://github.com/iron-meteor/iron-dynamic-template)
 - [meteor-roles: Authorization package for Meteor, compatible with built-in accounts packages](https://github.com/alanning/meteor-roles)
+- [Complete NPM integration for Meteor](https://meteorhacks.com/complete-npm-integration-for-meteor.html)
+- [https://github.com/meteorhacks/npm](https://github.com/meteorhacks/npm)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
