@@ -260,6 +260,7 @@ Personal web site
 - [meteor-roles: Authorization package for Meteor, compatible with built-in accounts packages](https://github.com/alanning/meteor-roles)
 - [Complete NPM integration for Meteor](https://meteorhacks.com/complete-npm-integration-for-meteor.html)
 - [https://github.com/meteorhacks/npm](https://github.com/meteorhacks/npm)
+- [package: Expose Meteor.users as a collection](https://github.com/cwohlman/meteor-users-collection/)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
