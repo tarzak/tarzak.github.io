@@ -261,6 +261,7 @@ Personal web site
 - [Complete NPM integration for Meteor](https://meteorhacks.com/complete-npm-integration-for-meteor.html)
 - [https://github.com/meteorhacks/npm](https://github.com/meteorhacks/npm)
 - [package: Expose Meteor.users as a collection](https://github.com/cwohlman/meteor-users-collection/)
+- [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq#should-i-check-in-this-meteor-folder-into-my-git-repo)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
