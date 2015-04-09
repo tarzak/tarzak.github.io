@@ -262,6 +262,7 @@ Personal web site
 - [https://github.com/meteorhacks/npm](https://github.com/meteorhacks/npm)
 - [package: Expose Meteor.users as a collection](https://github.com/cwohlman/meteor-users-collection/)
 - [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq#should-i-check-in-this-meteor-folder-into-my-git-repo)
+- [А теперь загрузка фоточек](http://habrahabr.ru/post/248875/)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
