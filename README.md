@@ -263,6 +263,7 @@ Personal web site
 - [package: Expose Meteor.users as a collection](https://github.com/cwohlman/meteor-users-collection/)
 - [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq#should-i-check-in-this-meteor-folder-into-my-git-repo)
 - [А теперь загрузка фоточек](http://habrahabr.ru/post/248875/)
+- [Reactive <select>](http://stackoverflow.com/questions/26025574/meteor-js-how-can-i-indicate-checked-or-selected-in-the-templating-system)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
