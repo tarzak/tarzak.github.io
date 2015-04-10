@@ -140,6 +140,7 @@ Personal web site
 - [Getting elements by attribute selector pure JS](http://stackoverflow.com/questions/9496427/can-i-get-elements-by-attribute-selector-when-queryselectorall-is-not-available)
 - [Ecmascript 6 — что можно использовать уже сейчас](http://habrahabr.ru/post/241275/)
 - [Sorting objects in an array by a field value in JavaScript](http://stackoverflow.com/questions/1129216/sorting-objects-in-an-array-by-a-field-value-in-javascript)
+- [Crockford's JavaScript](http://www.crockford.com/javascript/)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
@@ -264,7 +265,7 @@ Personal web site
 - [package: Expose Meteor.users as a collection](https://github.com/cwohlman/meteor-users-collection/)
 - [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq#should-i-check-in-this-meteor-folder-into-my-git-repo)
 - [А теперь загрузка фоточек](http://habrahabr.ru/post/248875/)
-- [Reactive <select>](http://stackoverflow.com/questions/26025574/meteor-js-how-can-i-indicate-checked-or-selected-in-the-templating-system)
+- [Reactive '< select >'](http://stackoverflow.com/questions/26025574/meteor-js-how-can-i-indicate-checked-or-selected-in-the-templating-system)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
