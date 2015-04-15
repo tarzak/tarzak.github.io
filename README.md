@@ -142,6 +142,7 @@ Personal web site
 - [Ecmascript 6 — что можно использовать уже сейчас](http://habrahabr.ru/post/241275/)
 - [Sorting objects in an array by a field value in JavaScript](http://stackoverflow.com/questions/1129216/sorting-objects-in-an-array-by-a-field-value-in-javascript)
 - [Crockford's JavaScript](http://www.crockford.com/javascript/)
+- [jsep: A Tiny JavaScript Expression Parser](https://github.com/soney/jsep)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
