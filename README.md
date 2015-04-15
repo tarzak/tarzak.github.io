@@ -143,6 +143,7 @@ Personal web site
 - [Sorting objects in an array by a field value in JavaScript](http://stackoverflow.com/questions/1129216/sorting-objects-in-an-array-by-a-field-value-in-javascript)
 - [Crockford's JavaScript](http://www.crockford.com/javascript/)
 - [jsep: A Tiny JavaScript Expression Parser](https://github.com/soney/jsep)
+- [Math expression evaluator in javascript: part 2 (parser)](http://ariya.ofilabs.com/2011/08/math-evaluator-in-javascript-part-2.html)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
