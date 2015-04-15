@@ -144,6 +144,7 @@ Personal web site
 - [Crockford's JavaScript](http://www.crockford.com/javascript/)
 - [jsep: A Tiny JavaScript Expression Parser](https://github.com/soney/jsep)
 - [Math expression evaluator in javascript: part 2 (parser)](http://ariya.ofilabs.com/2011/08/math-evaluator-in-javascript-part-2.html)
+- (Parsing operators and evaluating them in javascript)[http://stackoverflow.com/questions/20373746/parsing-operators-and-evaluating-them-in-javascript]
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
