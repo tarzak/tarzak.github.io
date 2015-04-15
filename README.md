@@ -144,7 +144,7 @@ Personal web site
 - [Crockford's JavaScript](http://www.crockford.com/javascript/)
 - [jsep: A Tiny JavaScript Expression Parser](https://github.com/soney/jsep)
 - [Math expression evaluator in javascript: part 2 (parser)](http://ariya.ofilabs.com/2011/08/math-evaluator-in-javascript-part-2.html)
-- (Parsing operators and evaluating them in javascript)[http://stackoverflow.com/questions/20373746/parsing-operators-and-evaluating-them-in-javascript]
+- [Parsing operators and evaluating them in javascript](http://stackoverflow.com/questions/20373746/parsing-operators-and-evaluating-them-in-javascript)
 
 ## Front-End
 - [html-css academy](http://learn.shayhowe.com/)
@@ -215,7 +215,7 @@ Personal web site
 ## Linux
 - Linux's book parts: [1](http://adm-lib.ru/books/0/ldn1.pdf), [2](http://adm-lib.ru/books/0/ldn2.pdf), [3](http://adm-lib.ru/books/0/ldn3.pdf)
 - [Fix Brightness Control Not Working for Ubuntu 14.04 & Linux Mint 17](http://itsfoss.com/fix-brightness-ubuntu-1310/)
-- (Настройка Ubuntu 14.04 после установки воскресенье)[http://segaawakens.blogspot.com/2014/05/ubuntu-1404.html]
+- [Настройка Ubuntu 14.04 после установки воскресенье](http://segaawakens.blogspot.com/2014/05/ubuntu-1404.html)
 
 ## Algorithms & programming
 - [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
@@ -271,6 +271,7 @@ Personal web site
 - [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq#should-i-check-in-this-meteor-folder-into-my-git-repo)
 - [А теперь загрузка фоточек](http://habrahabr.ru/post/248875/)
 - [Reactive '< select >'](http://stackoverflow.com/questions/26025574/meteor-js-how-can-i-indicate-checked-or-selected-in-the-templating-system)
+- [Несколько тонкостей использования jade в Meteor-проектах](http://habrahabr.ru/post/251355/)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
