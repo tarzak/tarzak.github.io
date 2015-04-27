@@ -175,6 +175,7 @@ Personal web site
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
+- [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
 
 ## D3.js
 - [Three Little Circles](http://bost.ocks.org/mike/circles/)
