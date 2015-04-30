@@ -148,6 +148,7 @@ Personal web site
 - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/)
 
 ## Front-End
+- [Great web site 'bout not only web development: css, coding, design, etc.](http://alistapart.com/search)
 - [html-css academy](http://learn.shayhowe.com/)
 - [Адаптивная верстка. Шпаргалки верстальщика](http://wp-admin.com.ua/adaptivnaya-verstka-shpargalki-verstalshhika/)
 - [Самые простые техники адаптивной верстки - 2012](http://habrahabr.ru/post/144003/)
