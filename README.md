@@ -121,6 +121,7 @@ Personal web site
 - [A single div pictures (Attention: highclass art!)](http://a.singlediv.com/)
 - [An Introduction to CSS3 Transitions (with animation of timing-functions)](http://www.css3.info/preview/css3-transitions/)
 - [css3 Maker](http://www.css3maker.com/css3-animation.html#)
+- [Архитектура CSS](http://web-standards.ru/articles/css-architecture/)
 
 ## JavaScript
 - [Підводне каміння JS - в тому числі про типи даних.](http://habrahabr.ru/post/159313/)
