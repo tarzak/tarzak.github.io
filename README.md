@@ -147,6 +147,7 @@ Personal web site
 - [Math expression evaluator in javascript: part 2 (parser)](http://ariya.ofilabs.com/2011/08/math-evaluator-in-javascript-part-2.html)
 - [Parsing operators and evaluating them in javascript](http://stackoverflow.com/questions/20373746/parsing-operators-and-evaluating-them-in-javascript)
 - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/)
+- [Converting an object to a string](http://stackoverflow.com/questions/5612787/converting-an-object-to-a-string)
 
 ## Front-End
 - [Great web site 'bout not only web development: css, coding, design, etc.](http://alistapart.com/search)
