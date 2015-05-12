@@ -277,6 +277,7 @@ Personal web site
 - [А теперь загрузка фоточек](http://habrahabr.ru/post/248875/)
 - [Reactive '< select >'](http://stackoverflow.com/questions/26025574/meteor-js-how-can-i-indicate-checked-or-selected-in-the-templating-system)
 - [Несколько тонкостей использования jade в Meteor-проектах](http://habrahabr.ru/post/251355/)
+- [Meteor tutorial book](http://www.meteor-tutorial.org/book)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
