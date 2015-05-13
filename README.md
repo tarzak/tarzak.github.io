@@ -33,6 +33,7 @@ Personal web site
 - [Секреты быстрого кодинга в WebStorm](http://habrahabr.ru/company/JetBrains/blog/168267/)
 - [Разрабатываем более качественные API на JavaScript](http://frontender.info/designing-javascript-apis-usability/)
 - [Много бесплатных книг по программированию](http://habrahabr.ru/post/191312/)
+- [Sublime Text Vintage Mode — справочник по горячим клавишам](http://habrahabr.ru/post/193176/)
 
 ## Node.js & npm
 - [Node.js для начинающих](http://www.nodebeginner.ru/)
