@@ -279,6 +279,9 @@ Personal web site
 - [Reactive '< select >'](http://stackoverflow.com/questions/26025574/meteor-js-how-can-i-indicate-checked-or-selected-in-the-templating-system)
 - [Несколько тонкостей использования jade в Meteor-проектах](http://habrahabr.ru/post/251355/)
 - [Meteor tutorial book](http://www.meteor-tutorial.org/book)
+- [MeteorJS + coffeScript tutorials](http://www.webtempest.com/)
+- [MeteorCapture](http://meteorcapture.com/)
+- [MeteorChef](http://themeteorchef.com/)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
