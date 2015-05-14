@@ -177,6 +177,7 @@ Personal web site
 - Drag & Drop grids: [gridster.js](http://gridster.net/), [gridstack.js](http://troolee.github.io/gridstack.js/), [jQuery-shapeshift](http://mcpants.github.io/jquery.shapeshift/)
 - [Responsive Web Design Patterns by Google](https://developers.google.com/web/fundamentals/layouts/rwd-patterns/)
 - [Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать](http://habrahabr.ru/post/114256/)
+- [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/index.html)
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
