@@ -178,6 +178,7 @@ Personal web site
 - [Responsive Web Design Patterns by Google](https://developers.google.com/web/fundamentals/layouts/rwd-patterns/)
 - [Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать](http://habrahabr.ru/post/114256/)
 - [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/index.html)
+- [Opinionated rundown of JS frameworks](http://blog.andyet.com/2014/08/13/opinionated-rundown-of-js-frameworks)
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
