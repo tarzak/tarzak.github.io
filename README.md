@@ -179,6 +179,7 @@ Personal web site
 - [Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать](http://habrahabr.ru/post/114256/)
 - [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/index.html)
 - [Opinionated rundown of JS frameworks](http://blog.andyet.com/2014/08/13/opinionated-rundown-of-js-frameworks)
+- [Journey Through The JavaScript MVC Jungle (2012)](http://www.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/)
  
 ## WebDesign
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
