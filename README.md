@@ -41,6 +41,8 @@ Personal web site
 - [Node.js quick file server (static files over HTTP)](http://stackoverflow.com/questions/16333790/node-js-quick-file-server-static-files-over-http)
 - [How To Implement Password Reset In Node.js](http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/)
 - [node-mailchimp](https://github.com/gomfunkel/node-mailchimp)
+- [Apostrophe is a content management system that helps you stay on mission.](http://apostrophenow.org/)
+- [Buckets is an Open Source CMS built on Node.js and MongoDB.](http://www.buckets.io/)
 
 ## MongoDB
 - [Начало работы с MongoDB, часть 1](http://www.ashep.org/2012/nachalo-raboty-s-mongodb-chast-1/#.U94vC2NElyx)
