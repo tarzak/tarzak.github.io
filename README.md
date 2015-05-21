@@ -12,9 +12,11 @@ Personal web site
 - [iRedMail + Nginx](http://wiki.nginx.org/IRedMail)
 - [iRedAdmin nginx without subdomain](http://www.iredmail.org/forum/topic7469-iredmail-support-iredadmin-nginx-without-subdomain.html)
 - [Installing iRedmail in Ubuntu With Nginx](http://dfpropaganda.github.io/blog/2014/08/13/installing-iredmail-in-ubuntu-with-nginx/)
-- [Идеальный сервер - Ubuntu 12.04 с Nginx [ISPConfig 3]](http://nikmy.ru/index.php/stati/internet/khosting-domen/109-idealnyj-server-ubuntu-12-04-s-nginx-ispconfig-3.html?showall=&limitstart=)
+- [Идеальный сервер - Ubuntu 12.04 с Nginx (ISPConfig 3)](http://nikmy.ru/index.php/stati/internet/khosting-domen/109-idealnyj-server-ubuntu-12-04-s-nginx-ispconfig-3.html?showall=&limitstart=)
 - [Iredmail on Ubuntu tutorial](http://www.iredmail.org/docs/install.iredmail.on.debian.ubuntu.html)
-- [How To Securely Configure a Production MongoDB Server](https://www.digitalocean.com/community/tutorials/how-to-securely-configure-a-production-mongodb-server)
+- [How To Securely Configure a Production MongoDB Server (DigitalOcean)](https://www.digitalocean.com/community/tutorials/how-to-securely-configure-a-production-mongodb-server)
+- [How To Set Up Time Synchronization on Ubuntu 12.04 (DigitalOcean)](https://www.digitalocean.com/community/tutorials/how-to-set-up-time-synchronization-on-ubuntu-12-04)
+- [Additional Recommended Steps for New Ubuntu 14.04 Servers (DigitalOcean)](https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers)
 
 ## Git
 - [GIT HowTo](http://githowto.com)
@@ -34,6 +36,7 @@ Personal web site
 - [Разрабатываем более качественные API на JavaScript](http://frontender.info/designing-javascript-apis-usability/)
 - [Много бесплатных книг по программированию](http://habrahabr.ru/post/191312/)
 - [Sublime Text Vintage Mode — справочник по горячим клавишам](http://habrahabr.ru/post/193176/)
+- [wwwhere is a curated list of tools and resources for people who make websites.](http://wwwhere.io/)
 
 ## Node.js & npm
 - [Node.js для начинающих](http://www.nodebeginner.ru/)
@@ -96,6 +99,7 @@ Personal web site
 - [Angular on Yeoman](http://yeoman.io/codelab/write-app.html)
 - [Formatting JavaScript Date in AngularJS Outside of the view](http://www.hannaliebl.com/formatting-javascript-date-in-angularjs-outside-of-the-view/)
 - [AngularJS – перевод курса от CodeSchool](http://habrahabr.ru/post/244925/)
+- [Angular2.0: A curated list of helpful material to get started with education on Angular 2](https://github.com/timjacobi/angular2-education)
 
 ## Graphic libs
 - [Рисование на JavaScript с помощью Paper.js, Processing.js, Raphael.js](http://sitear.ru/material/risovanie-na-javascript)
@@ -153,6 +157,7 @@ Personal web site
 - [Parsing operators and evaluating them in javascript](http://stackoverflow.com/questions/20373746/parsing-operators-and-evaluating-them-in-javascript)
 - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/)
 - [Converting an object to a string](http://stackoverflow.com/questions/5612787/converting-an-object-to-a-string)
+- [ECMAScript 6 Features](https://github.com/lukehoban/es6features)
 
 ## Front-End
 - [Great web site 'bout not only web development: css, coding, design, etc.](http://alistapart.com/search)
