@@ -160,6 +160,7 @@ Personal web site
 - [ECMAScript 6 Features](https://github.com/lukehoban/es6features)
 
 ## Front-End
+- [W3Fools](http://www.w3fools.com/)
 - [Great web site 'bout not only web development: css, coding, design, etc.](http://alistapart.com/search)
 - [html-css academy](http://learn.shayhowe.com/)
 - [Адаптивная верстка. Шпаргалки верстальщика](http://wp-admin.com.ua/adaptivnaya-verstka-shpargalki-verstalshhika/)
