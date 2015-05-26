@@ -39,6 +39,7 @@ Personal web site
 - [wwwhere is a curated list of tools and resources for people who make websites.](http://wwwhere.io/)
 
 ## Reactive programming
+- [JavaScript and Type Thinking](http://tech.pro/blog/6885/javascript-and-type-thinking)
 - [Promises + FP = Beautiful Streams](http://tech.pro/blog/6888/promises--fp--beautiful-streams)
 - [From callback to (Future -> Functor -> Monad)](http://tech.pro/blog/6742/callback-to-future-functor-applicative-monad)
 
