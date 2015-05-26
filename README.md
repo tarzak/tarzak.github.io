@@ -167,6 +167,8 @@ Personal web site
 - [ECMAScript 6 Features](https://github.com/lukehoban/es6features)
 
 ## Front-End
+- [How to Build a Chrome Extension](http://lifehacker.com/5857721/how-to-build-a-chrome-extension)
+- [Getting Started: Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted)
 - [W3Fools](http://www.w3fools.com/)
 - [Great web site 'bout not only web development: css, coding, design, etc.](http://alistapart.com/search)
 - [html-css academy](http://learn.shayhowe.com/)
