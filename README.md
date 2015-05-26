@@ -38,6 +38,10 @@ Personal web site
 - [Sublime Text Vintage Mode — справочник по горячим клавишам](http://habrahabr.ru/post/193176/)
 - [wwwhere is a curated list of tools and resources for people who make websites.](http://wwwhere.io/)
 
+## Reactive programming
+- [Promises + FP = Beautiful Streams](http://tech.pro/blog/6888/promises--fp--beautiful-streams)
+- [From callback to (Future -> Functor -> Monad)](http://tech.pro/blog/6742/callback-to-future-functor-applicative-monad)
+
 ## Node.js & npm
 - [Node.js для начинающих](http://www.nodebeginner.ru/)
 - [Шпаргалка по пакетному менеджеру NPM](http://habrahabr.ru/post/133363/#npm_understand)
