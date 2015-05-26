@@ -84,6 +84,11 @@ Personal web site
 - [Делаем жизнь проще, GruntJS (для новичков)](http://habrahabr.ru/post/177395/)
 - [Grunt - автоматизация для самых ленивых](https://www.youtube.com/watch?v=6mYgrJK768M)
 
+## Reactive programming
+- [JavaScript and Type Thinking](http://tech.pro/blog/6885/javascript-and-type-thinking)
+- [Promises + FP = Beautiful Streams](http://tech.pro/blog/6888/promises--fp--beautiful-streams)
+- [From callback to (Future -> Functor -> Monad)](http://tech.pro/blog/6742/callback-to-future-functor-applicative-monad)
+
 ## Angular
 - [С чего начать изучать Angular](http://thinking.bohdanvorona.name/to-learn-angular/)
 - [AngularJS Training Videos and Tutorials for Developers](https://egghead.io/lessons)
