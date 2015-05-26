@@ -305,6 +305,7 @@ Personal web site
 - [MeteorJS + coffeScript tutorials](http://www.webtempest.com/)
 - [MeteorCapture](http://meteorcapture.com/)
 - [MeteorChef](http://themeteorchef.com/)
+- [Use Deps Dependency instead of Session if you can](http://www.manuel-schoebel.com/blog/use-deps-dependency-instead-of-session-if-you-can)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
