@@ -38,11 +38,6 @@ Personal web site
 - [Sublime Text Vintage Mode — справочник по горячим клавишам](http://habrahabr.ru/post/193176/)
 - [wwwhere is a curated list of tools and resources for people who make websites.](http://wwwhere.io/)
 
-## Reactive programming
-- [JavaScript and Type Thinking](http://tech.pro/blog/6885/javascript-and-type-thinking)
-- [Promises + FP = Beautiful Streams](http://tech.pro/blog/6888/promises--fp--beautiful-streams)
-- [From callback to (Future -> Functor -> Monad)](http://tech.pro/blog/6742/callback-to-future-functor-applicative-monad)
-
 ## Node.js & npm
 - [Node.js для начинающих](http://www.nodebeginner.ru/)
 - [Шпаргалка по пакетному менеджеру NPM](http://habrahabr.ru/post/133363/#npm_understand)
@@ -138,6 +133,8 @@ Personal web site
 - [Разбираемся с vertical-align](http://web-standards.ru/articles/vertical-align/)
 
 ## JavaScript
+- [Работа с данными в JavaScript](http://habrahabr.ru/post/255881/)
+- [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)
 - [Підводне каміння JS - в тому числі про типи даних.](http://habrahabr.ru/post/159313/)
 - [Про функції - на JavaScript.ru, фундаментально](http://javascript.ru/basic/functions)
 - [JavaScript Core](http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/)
