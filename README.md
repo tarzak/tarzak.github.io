@@ -167,6 +167,7 @@ Personal web site
 - [ECMAScript 6 Features](https://github.com/lukehoban/es6features)
 
 ## Front-End
+- [Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
 - [How to Build a Chrome Extension](http://lifehacker.com/5857721/how-to-build-a-chrome-extension)
 - [Getting Started: Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted)
 - [W3Fools](http://www.w3fools.com/)
@@ -255,6 +256,9 @@ Personal web site
 
 ## MeteorJS
 - [Meteor wiki!](https://github.com/meteor/meteor/wiki)
+- [Keep It Secret, Keep It Safe](http://www.1pxsolidtomato.com/2015/05/25/keep-it-secret-keep-it-safe/)
+- [Meteor UI Pattern: Keeping App State on the URL](https://meteorhacks.com/meteor-ui-pattern-keeping-app-state-in-the-url)
+- [Meteor, SQL and other databases](https://www.compose.io/articles/meteor-sql-and-other-databases/)
 - [Teach meteor yourself in 6 weeks](http://meteorpedia.com/read/Tutorials)
 - [Learn Meteor.js properly](http://javascriptissexy.com/learn-meteor-js-properly/)
 - [Your first Meteor Application](http://meteortips.com/book/)
