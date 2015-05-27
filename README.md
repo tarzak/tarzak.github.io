@@ -167,6 +167,7 @@ Personal web site
 - [ECMAScript 6 Features](https://github.com/lukehoban/es6features)
 
 ## Front-End
+- [Cross-tab Communication](http://ponyfoo.com/articles/cross-tab-communication)
 - [Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
 - [How to Build a Chrome Extension](http://lifehacker.com/5857721/how-to-build-a-chrome-extension)
 - [Getting Started: Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted)
