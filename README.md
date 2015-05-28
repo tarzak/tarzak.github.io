@@ -257,6 +257,7 @@ Personal web site
 - [DataBase of algorithms](http://bigocheatsheet.com)
 
 ## MeteorJS
+- [Pagination Problems in Meteor](https://www.discovermeteor.com/blog/pagination-problems-meteor/)
 - [Meteor wiki!](https://github.com/meteor/meteor/wiki)
 - [Keep It Secret, Keep It Safe](http://www.1pxsolidtomato.com/2015/05/25/keep-it-secret-keep-it-safe/)
 - [Meteor UI Pattern: Keeping App State on the URL](https://meteorhacks.com/meteor-ui-pattern-keeping-app-state-in-the-url)
