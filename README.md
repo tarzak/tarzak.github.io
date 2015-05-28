@@ -37,6 +37,7 @@ Personal web site
 - [Много бесплатных книг по программированию](http://habrahabr.ru/post/191312/)
 - [Sublime Text Vintage Mode — справочник по горячим клавишам](http://habrahabr.ru/post/193176/)
 - [wwwhere is a curated list of tools and resources for people who make websites.](http://wwwhere.io/)
+- [Multiple Selection with the Keyboard](https://www.sublimetext.com/docs/3/multiple_selection_with_the_keyboard.html)
 
 ## Node.js & npm
 - [Node.js для начинающих](http://www.nodebeginner.ru/)
