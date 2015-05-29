@@ -29,6 +29,7 @@ Personal web site
 - [Краткое руководство по Маркдауну](http://goo.gl/84aUxo)
 
 ## Development
+- [MEAN Stack is a framework for an easy starting point with MongoDB, Node.js, Express, and AngularJS based applications.](http://learn.mean.io/#mean-stack-packages-files-structure)
 - [Рефакторинг](http://refactoring.guru/)
 - [Refactoring Tales](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
 - [Семантическое версионирование](http://semver.org/lang/ru/)
