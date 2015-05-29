@@ -40,6 +40,8 @@ Personal web site
 - [Multiple Selection with the Keyboard](https://www.sublimetext.com/docs/3/multiple_selection_with_the_keyboard.html)
 
 ## Node.js & npm
+- [koa - next generation web framework for node.js](http://koajs.com/)
+- [Getting started with hapi](http://hapijs.com/tutorials)
 - [Node.js для начинающих](http://www.nodebeginner.ru/)
 - [Шпаргалка по пакетному менеджеру NPM](http://habrahabr.ru/post/133363/#npm_understand)
 - [Node.js quick file server (static files over HTTP)](http://stackoverflow.com/questions/16333790/node-js-quick-file-server-static-files-over-http)
