@@ -90,6 +90,10 @@ Personal web site
 - [Promises + FP = Beautiful Streams](http://tech.pro/blog/6888/promises--fp--beautiful-streams)
 - [From callback to (Future -> Functor -> Monad)](http://tech.pro/blog/6742/callback-to-future-functor-applicative-monad)
 
+## Backbone
+- [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
+- [Backbone.js Tutorial: Build Environment](http://dailyjs.com/2012/11/29/backbone-tutorial-1/)
+
 ## Angular
 - [С чего начать изучать Angular](http://thinking.bohdanvorona.name/to-learn-angular/)
 - [AngularJS Training Videos and Tutorials for Developers](https://egghead.io/lessons)
