@@ -93,6 +93,7 @@ Personal web site
 - [From callback to (Future -> Functor -> Monad)](http://tech.pro/blog/6742/callback-to-future-functor-applicative-monad)
 
 ## Backbone
+- [Backbone tutorials](http://backbonetutorials.com/)
 - [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 - [Backbone.js Tutorial: Build Environment](http://dailyjs.com/2012/11/29/backbone-tutorial-1/)
 
