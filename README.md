@@ -50,6 +50,7 @@ Personal web site
 - [node-mailchimp](https://github.com/gomfunkel/node-mailchimp)
 - [Apostrophe is a content management system that helps you stay on mission.](http://apostrophenow.org/)
 - [Buckets is an Open Source CMS built on Node.js and MongoDB.](http://www.buckets.io/)
+- [Art of node](https://github.com/maxogden/art-of-node)
 
 ## MongoDB
 - [Начало работы с MongoDB, часть 1](http://www.ashep.org/2012/nachalo-raboty-s-mongodb-chast-1/#.U94vC2NElyx)
