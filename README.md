@@ -1,8 +1,3 @@
-Tarzak.github.io
-================
-
-Personal web site
-
 # Useful info
 ## Server maintenance
 - [Делаем nginx как front-end к apache](http://habrahabr.ru/post/120814/)
