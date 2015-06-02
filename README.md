@@ -265,6 +265,7 @@
 - [DataBase of algorithms](http://bigocheatsheet.com)
 
 ## MeteorJS
+- [Security checklist](https://meteorjs.club/MeteorSecurityChecklist.pdf?__s=ysuohrq1qzqkx56usqfm)
 - Tracking users' online status packages: [particle4dev/users-online](https://atmospherejs.com/particle4dev/users-online), [mrt/profile-online](https://atmospherejs.com/mrt/profile-online), [dpid/user-presence](https://atmospherejs.com/dpid/user-presence), [mizzao/meteor-user-status](https://github.com/mizzao/meteor-user-status)
 - [Pagination Problems in Meteor](https://www.discovermeteor.com/blog/pagination-problems-meteor/)
 - [Meteor wiki!](https://github.com/meteor/meteor/wiki)
