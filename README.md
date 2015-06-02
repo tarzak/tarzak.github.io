@@ -49,6 +49,7 @@
 - [Art of node](https://github.com/maxogden/art-of-node)
 
 ## MongoDB
+- [MongoDB - шапргалка](http://habrahabr.ru/post/259219/)
 - [Начало работы с MongoDB, часть 1](http://www.ashep.org/2012/nachalo-raboty-s-mongodb-chast-1/#.U94vC2NElyx)
 - [Руководсвто по MongoDB для стартапов](http://devoid.com.ua/useful-stuff/bazy_dannykh/rukovodsvto_po_mongodb_dlia_startapov.html)
 - [The Little MongoDB Book (Маленькая книга о MongoDB)](http://jsman.ru/mongo-book/Glava-1-Osnovy.html)
