@@ -175,6 +175,7 @@ Personal web site
 - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/)
 - [Converting an object to a string](http://stackoverflow.com/questions/5612787/converting-an-object-to-a-string)
 - [ECMAScript 6 Features](https://github.com/lukehoban/es6features)
+- [ES6 в деталях: Генераторы](http://frontender.info/es6-in-depth-generators/)
 
 ## Front-End
 - [Cross-tab Communication](http://ponyfoo.com/articles/cross-tab-communication)
