@@ -36,6 +36,7 @@
 - [Multiple Selection with the Keyboard](https://www.sublimetext.com/docs/3/multiple_selection_with_the_keyboard.html)
 
 ## Node.js & npm
+- [NodeBB - Opensource forum on nodejs](https://github.com/NodeBB/NodeBB)
 - [koa - next generation web framework for node.js](http://koajs.com/)
 - [Getting started with hapi](http://hapijs.com/tutorials)
 - [Node.js для начинающих](http://www.nodebeginner.ru/)
