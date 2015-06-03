@@ -24,6 +24,7 @@
 - [Краткое руководство по Маркдауну](http://goo.gl/84aUxo)
 
 ## Development
+- [regExp cheat sheet](http://www.exlab.net/tools/sheets/regexp.html)
 - [MEAN Stack is a framework for an easy starting point with MongoDB, Node.js, Express, and AngularJS based applications.](http://learn.mean.io/#mean-stack-packages-files-structure)
 - [Рефакторинг](http://refactoring.guru/)
 - [Refactoring Tales](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
@@ -49,6 +50,9 @@
 - [Art of node](https://github.com/maxogden/art-of-node)
 
 ## MongoDB
+- [Data Model Examples and Patterns](http://docs.mongodb.org/manual/applications/data-models/)
+- [MongoDB relationships: embed or reference?](http://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference) 5 things to consider
+- [Database References](http://docs.mongodb.org/manual/reference/database-references/)
 - [TOKUMX™: HIGH-PERFORMANCE MONGODB DISTRIBUTION](http://www.tokutek.com/tokumx-for-mongodb/)
 - [MongoDB - шпаргалка](http://habrahabr.ru/post/259219/)
 - [Начало работы с MongoDB, часть 1](http://www.ashep.org/2012/nachalo-raboty-s-mongodb-chast-1/#.U94vC2NElyx)
@@ -265,6 +269,7 @@
 - [DataBase of algorithms](http://bigocheatsheet.com)
 
 ## MeteorJS
+- [](https://gentlenode.com/journal/meteor-22-the-best-meteor-packages-you-must-know-to-code-faster-than-ever/52)
 - [METEOR SECURITY 201 mustRead!](http://joshowens.me/meteor-security-201/?__s=ysuohrq1qzqkx56usqfm&utm_campaign=security-201&utm_medium=email&utm_source=security-201)
 - [Security checklist](https://meteorjs.club/MeteorSecurityChecklist.pdf?__s=ysuohrq1qzqkx56usqfm)
 - Tracking users' online status packages: [particle4dev/users-online](https://atmospherejs.com/particle4dev/users-online), [mrt/profile-online](https://atmospherejs.com/mrt/profile-online), [dpid/user-presence](https://atmospherejs.com/dpid/user-presence), [mizzao/meteor-user-status](https://github.com/mizzao/meteor-user-status)
@@ -326,6 +331,7 @@
 - [MeteorCapture](http://meteorcapture.com/)
 - [MeteorChef](http://themeteorchef.com/)
 - [Use Deps Dependency instead of Session if you can](http://www.manuel-schoebel.com/blog/use-deps-dependency-instead-of-session-if-you-can)
+- [Extending Meteor Accounts (login system)](https://meteorhacks.com/extending-meteor-accounts)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
