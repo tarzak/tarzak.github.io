@@ -335,3 +335,7 @@
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
+
+## Offtopic: LifeHack
+- [Незаменимые ресурсы для изучения иностранных языков](http://megamozg.ru/company/icanchoose/blog/16106/)
+- [Продуктивный ниндзя: 5 эффективных трюков, позволяющих выполнить больше дел](http://megamozg.ru/company/mbaconsult/blog/16068/)
