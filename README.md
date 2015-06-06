@@ -335,6 +335,7 @@
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
+- [Изоморфные приложения. Взгляд в будущее с React](http://m.habrahabr.ru/post/259625/)
 
 ## Offtopic: LifeHack
 - [Как дисциплинировать себя, приобретая привычки шаг за шагом](https://surfingbird.ru/surf/kak-distsiplinirovat-sebya-priobretaya-privychki--kZfi191Ad?stat_counter=prismat&feedtype=prismfeed#.VXBZFbykVC2)
