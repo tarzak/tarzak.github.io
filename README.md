@@ -95,6 +95,7 @@
 - [JavaScript and Type Thinking](http://tech.pro/blog/6885/javascript-and-type-thinking)
 - [Promises + FP = Beautiful Streams](http://tech.pro/blog/6888/promises--fp--beautiful-streams)
 - [From callback to (Future -> Functor -> Monad)](http://tech.pro/blog/6742/callback-to-future-functor-applicative-monad)
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 ## Backbone
 - [Backbone tutorials](http://backbonetutorials.com/)
