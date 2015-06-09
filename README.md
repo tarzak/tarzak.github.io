@@ -152,6 +152,7 @@
 - [Разбираемся с vertical-align](http://web-standards.ru/articles/vertical-align/)
 
 ## JavaScript
+- [Many (not only) JS books](http://jsbooks.revolunet.com/)
 - [Работа с данными в JavaScript](http://habrahabr.ru/post/255881/)
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)
 - [Підводне каміння JS - в тому числі про типи даних.](http://habrahabr.ru/post/159313/)
