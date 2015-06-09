@@ -128,6 +128,7 @@
 - [Metricsgraphicsjs](http://metricsgraphicsjs.org/)
 
 ## HTML
+- [Dive Into HTML5 by Mark Pilgrim](http://diveintohtml5.info/) online book
 - [Семантичний HTML код](http://www.xiper.net/learn/tegofenshuj/about-semantic.html)
 - [HTML довідник](http://www.xiper.net/manuals/html/)
 - [Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial)
