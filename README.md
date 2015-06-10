@@ -272,7 +272,7 @@
 - [DataBase of algorithms](http://bigocheatsheet.com)
 
 ## MeteorJS
-- [](https://gentlenode.com/journal/meteor-22-the-best-meteor-packages-you-must-know-to-code-faster-than-ever/52)
+- [The best meteor packages you must know to code faster](https://gentlenode.com/journal/meteor-22-the-best-meteor-packages-you-must-know-to-code-faster-than-ever/52)
 - [METEOR SECURITY 201 mustRead!](http://joshowens.me/meteor-security-201/?__s=ysuohrq1qzqkx56usqfm&utm_campaign=security-201&utm_medium=email&utm_source=security-201)
 - [Security checklist](https://meteorjs.club/MeteorSecurityChecklist.pdf?__s=ysuohrq1qzqkx56usqfm)
 - Tracking users' online status packages: [particle4dev/users-online](https://atmospherejs.com/particle4dev/users-online), [mrt/profile-online](https://atmospherejs.com/mrt/profile-online), [dpid/user-presence](https://atmospherejs.com/dpid/user-presence), [mizzao/meteor-user-status](https://github.com/mizzao/meteor-user-status)
