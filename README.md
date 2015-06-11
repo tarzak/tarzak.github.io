@@ -12,6 +12,7 @@
 - [How To Securely Configure a Production MongoDB Server (DigitalOcean)](https://www.digitalocean.com/community/tutorials/how-to-securely-configure-a-production-mongodb-server)
 - [How To Set Up Time Synchronization on Ubuntu 12.04 (DigitalOcean)](https://www.digitalocean.com/community/tutorials/how-to-set-up-time-synchronization-on-ubuntu-12-04)
 - [Additional Recommended Steps for New Ubuntu 14.04 Servers (DigitalOcean)](https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers)
+- [How do I fix my LOCALE issue?](http://askubuntu.com/questions/162391/how-do-i-fix-my-locale-issue)
 
 ## Git
 - [GIT HowTo](http://githowto.com)
@@ -50,6 +51,7 @@
 - [Art of node](https://github.com/maxogden/art-of-node)
 
 ## MongoDB
+- [MongoDB: How to backup and restore databases](http://blogs.lessthandot.com/index.php/datamgmt/dbadmin/mssqlserveradmin/mongodb-backup-and-restore-databases/)
 - [Data Model Examples and Patterns](http://docs.mongodb.org/manual/applications/data-models/)
 - [MongoDB relationships: embed or reference?](http://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference) 5 things to consider
 - [Database References](http://docs.mongodb.org/manual/reference/database-references/)
