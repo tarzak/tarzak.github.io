@@ -345,6 +345,7 @@
 - [A simple isomorphic javascript blog with React and Nodejs](http://stefunk.github.io/2015/01/29/isormophic-javascript-blog-react-nodejs.html)
 
 ## Offtopic: LifeHack
+- [How do I install wallpapers from older releases?](http://askubuntu.com/questions/121379/how-do-i-install-wallpapers-from-older-releases)
 - [Как дисциплинировать себя, приобретая привычки шаг за шагом](https://surfingbird.ru/surf/kak-distsiplinirovat-sebya-priobretaya-privychki--kZfi191Ad?stat_counter=prismat&feedtype=prismfeed#.VXBZFbykVC2)
 - [Незаменимые ресурсы для изучения иностранных языков](http://megamozg.ru/company/icanchoose/blog/16106/)
 - [Продуктивный ниндзя: 5 эффективных трюков, позволяющих выполнить больше дел](http://megamozg.ru/company/mbaconsult/blog/16068/)
