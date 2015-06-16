@@ -226,6 +226,7 @@
 - [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
 
 ## D3.js
+- [d3 gauge](http://bl.ocks.org/msqr/3202712)
 - [Three Little Circles](http://bost.ocks.org/mike/circles/)
 - [Blocks - many examples of using D3.js](http://bl.ocks.org/)
 - [D3.js crash course](http://www.codeproject.com/Articles/523444/D-crash-course)
