@@ -232,6 +232,7 @@
 ## D3.js
 - [D3 Tutorial Table of Contents](https://www.dashingd3js.com/table-of-contents)
 - [d3 gauge](http://bl.ocks.org/msqr/3202712)
+- [D3 Liquid Fill Gauge](http://bl.ocks.org/brattonc/5e5ce9beee483220e2f6)
 - [Three Little Circles](http://bost.ocks.org/mike/circles/)
 - [Blocks - many examples of using D3.js](http://bl.ocks.org/)
 - [D3.js crash course](http://www.codeproject.com/Articles/523444/D-crash-course)
