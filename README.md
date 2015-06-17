@@ -104,9 +104,10 @@
 - [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 - [Backbone.js Tutorial: Build Environment](http://dailyjs.com/2012/11/29/backbone-tutorial-1/)
 
-## Angular
+## AngularJS
 - [С чего начать изучать Angular](http://thinking.bohdanvorona.name/to-learn-angular/)
 - [AngularJS Training Videos and Tutorials for Developers](https://egghead.io/lessons)
+- [Classy - Add structure to your AngularJS controllers](http://davej.github.io/angular-classy/)
 - [Angular.js + Reuire.js](https://www.startersquad.com/blog/angularjs-requirejs/)
 - [angularAMD AngularJS + RequireJS: The Proper and Easier Way](http://marcoslin.github.io/angularAMD/#/home)
 - [Using Controllers In Directives In AngularJS](http://www.bennadel.com/blog/2446-using-controllers-in-directives-in-angularjs.htm)
@@ -156,6 +157,7 @@
 ## JavaScript
 - [Видео: полный цикл разработки на JavaScript](http://habrahabr.ru/company/hexlet/blog/199472/)
 - [Прототипы это объекты (и почему это важно)](http://habrahabr.ru/company/hexlet/blog/260427/)
+- [JavaScript Code Smells](http://elijahmanor.com/javascript-smells/)
 - [Many (not only) JS books](http://jsbooks.revolunet.com/)
 - [Работа с данными в JavaScript](http://habrahabr.ru/post/255881/)
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)
