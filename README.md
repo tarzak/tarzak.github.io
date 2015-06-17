@@ -189,6 +189,7 @@
 - [ES6 в деталях: Генераторы](http://frontender.info/es6-in-depth-generators/)
 
 ## Front-End
+- [Leaflet: Seven rarely used features](http://blog.webkid.io/rarely-used-leaflet-features/)
 - [Cross-tab Communication](http://ponyfoo.com/articles/cross-tab-communication)
 - [Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
 - [How to Build a Chrome Extension](http://lifehacker.com/5857721/how-to-build-a-chrome-extension)
