@@ -154,6 +154,8 @@
 - [Разбираемся с vertical-align](http://web-standards.ru/articles/vertical-align/)
 
 ## JavaScript
+- [Видео: полный цикл разработки на JavaScript](http://habrahabr.ru/company/hexlet/blog/199472/)
+- [Прототипы это объекты (и почему это важно)](http://habrahabr.ru/company/hexlet/blog/260427/)
 - [Many (not only) JS books](http://jsbooks.revolunet.com/)
 - [Работа с данными в JavaScript](http://habrahabr.ru/post/255881/)
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)
