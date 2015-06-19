@@ -233,6 +233,7 @@
 
 ## D3.js
 - [D3 Tutorial Table of Contents](https://www.dashingd3js.com/table-of-contents)
+- [Try D3 Now](http://christopheviau.com/d3_tutorial/)
 - [d3 gauge](http://bl.ocks.org/msqr/3202712)
 - [D3 Liquid Fill Gauge](http://bl.ocks.org/brattonc/5e5ce9beee483220e2f6)
 - [Speedometer](http://bl.ocks.org/metormote/6392996)
