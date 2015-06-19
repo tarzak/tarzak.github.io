@@ -154,6 +154,7 @@
 - [Архитектура CSS](http://web-standards.ru/articles/css-architecture/)
 - [Quantity Queries for CSS](http://alistapart.com/article/quantity-queries-for-css)
 - [Разбираемся с vertical-align](http://web-standards.ru/articles/vertical-align/)
+- [Принципы анимации для веба](http://habrahabr.ru/company/htmlacademy/blog/255583/)
 
 ## JavaScript
 - [Видео: полный цикл разработки на JavaScript](http://habrahabr.ru/company/hexlet/blog/199472/)
