@@ -25,6 +25,7 @@
 - [Краткое руководство по Маркдауну](http://goo.gl/84aUxo)
 
 ## Development
+- [Auto-formatting JavaScript Code Style](https://medium.com/@addyosmani/auto-formatting-javascript-code-style-fe0f98a923b8)
 - [regExp cheat sheet](http://www.exlab.net/tools/sheets/regexp.html)
 - [MEAN Stack is a framework for an easy starting point with MongoDB, Node.js, Express, and AngularJS based applications.](http://learn.mean.io/#mean-stack-packages-files-structure)
 - [Рефакторинг](http://refactoring.guru/)
