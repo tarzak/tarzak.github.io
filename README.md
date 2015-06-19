@@ -287,6 +287,7 @@
 - [DataBase of algorithms](http://bigocheatsheet.com)
 
 ## MeteorJS
+- [Your Second Meteor Application](http://meteortips.com/second-meteor-tutorial/)
 - [Testing env for Meteor - RainForestQA](http://stackshare.io/rainforest-qa)
 - [The best meteor packages you must know to code faster](https://gentlenode.com/journal/meteor-22-the-best-meteor-packages-you-must-know-to-code-faster-than-ever/52)
 - [METEOR SECURITY 201 mustRead!](http://joshowens.me/meteor-security-201/?__s=ysuohrq1qzqkx56usqfm&utm_campaign=security-201&utm_medium=email&utm_source=security-201)
