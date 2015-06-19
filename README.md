@@ -191,6 +191,7 @@
 - [ES6 в деталях: Генераторы](http://frontender.info/es6-in-depth-generators/)
 
 ## Front-End
+- [Chartist.js, An Open-Source Library For Responsive Charts](http://www.smashingmagazine.com/2014/12/16/chartist-js-open-source-library-responsive-charts/)
 - [JS chart libraries](http://blog.webkid.io/javascript-chart-libraries/)
 - [Leaflet: Seven rarely used features](http://blog.webkid.io/rarely-used-leaflet-features/)
 - [Cross-tab Communication](http://ponyfoo.com/articles/cross-tab-communication)
