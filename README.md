@@ -281,6 +281,7 @@
 - Linux's book parts: [1](http://adm-lib.ru/books/0/ldn1.pdf), [2](http://adm-lib.ru/books/0/ldn2.pdf), [3](http://adm-lib.ru/books/0/ldn3.pdf)
 - [Fix Brightness Control Not Working for Ubuntu 14.04 & Linux Mint 17](http://itsfoss.com/fix-brightness-ubuntu-1310/)
 - [Настройка Ubuntu 14.04 после установки воскресенье](http://segaawakens.blogspot.com/2014/05/ubuntu-1404.html)
+- [Many articles 'bout Linux/Ubuntu](http://www.linuxrussia.com/)
 
 ## Algorithms & programming
 - [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
