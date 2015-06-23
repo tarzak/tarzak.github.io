@@ -290,6 +290,7 @@
 - [DataBase of algorithms](http://bigocheatsheet.com)
 
 ## MeteorJS
+- [mongo-package: Adaptor for using MongoDB and Minimongo over DDP](https://atmospherejs.com/meteor/mongo)
 - [Your Second Meteor Application](http://meteortips.com/second-meteor-tutorial/)
 - [Testing env for Meteor - RainForestQA](http://stackshare.io/rainforest-qa)
 - [The best meteor packages you must know to code faster](https://gentlenode.com/journal/meteor-22-the-best-meteor-packages-you-must-know-to-code-faster-than-ever/52)
