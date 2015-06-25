@@ -25,6 +25,7 @@
 - [Краткое руководство по Маркдауну](http://goo.gl/84aUxo)
 
 ## Development
+- [200 блогов по разработке и проектированию](http://habrahabr.ru/company/friifond/blog/260641/)
 - [Auto-formatting JavaScript Code Style](https://medium.com/@addyosmani/auto-formatting-javascript-code-style-fe0f98a923b8)
 - [regExp cheat sheet](http://www.exlab.net/tools/sheets/regexp.html)
 - [MEAN Stack is a framework for an easy starting point with MongoDB, Node.js, Express, and AngularJS based applications.](http://learn.mean.io/#mean-stack-packages-files-structure)
@@ -356,6 +357,7 @@
 - [MeteorChef](http://themeteorchef.com/)
 - [Use Deps Dependency instead of Session if you can](http://www.manuel-schoebel.com/blog/use-deps-dependency-instead-of-session-if-you-can)
 - [Extending Meteor Accounts (login system)](https://meteorhacks.com/extending-meteor-accounts)
+- [how to use mongoimport with my meteor application database?](http://stackoverflow.com/questions/15365747/how-to-use-mongoimport-with-my-meteor-application-database)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
