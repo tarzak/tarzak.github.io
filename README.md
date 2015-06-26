@@ -158,6 +158,7 @@
 - [Принципы анимации для веба](http://habrahabr.ru/company/htmlacademy/blog/255583/)
 
 ## JavaScript
+- [Exploring ES6](https://leanpub.com/exploring-es6/read?utm_medium=email&utm_source=jsfiddle) online book
 - [Видео: полный цикл разработки на JavaScript](http://habrahabr.ru/company/hexlet/blog/199472/)
 - [Прототипы это объекты (и почему это важно)](http://habrahabr.ru/company/hexlet/blog/260427/)
 - [JavaScript Code Smells](http://elijahmanor.com/javascript-smells/)
@@ -192,6 +193,7 @@
 - [ES6 в деталях: Генераторы](http://frontender.info/es6-in-depth-generators/)
 
 ## Front-End
+- [Responsive Sidebar Out Of Nothing](http://nikolay.rocks/2015-06-19-responsive-sidebar?utm_medium=email&utm_source=jsfiddle)
 - [Chartist.js, An Open-Source Library For Responsive Charts](http://www.smashingmagazine.com/2014/12/16/chartist-js-open-source-library-responsive-charts/)
 - [JS chart libraries](http://blog.webkid.io/javascript-chart-libraries/)
 - [Leaflet: Seven rarely used features](http://blog.webkid.io/rarely-used-leaflet-features/)
@@ -232,6 +234,8 @@
 - [New JavaScript UI Library: Layout, Grid, Toolbar, Tree, Tabs, Popup, Forms, Fields, Utilitis](http://w2ui.com/web/home)
  
 ## WebDesign
+- [SVG ON THE WEB A Practical Guide](https://svgontheweb.com/?utm_medium=email&utm_source=jsfiddle)
+- [Create an SVG Sprite Sheet](http://blog.teamtreehouse.com/create-svg-sprite-sheet?utm_medium=email&utm_source=jsfiddle)
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
 - [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
 
