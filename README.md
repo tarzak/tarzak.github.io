@@ -241,6 +241,7 @@
 - [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
 
 ## D3.js
+- [Understanding selectAll, data, enter, append sequence in D3.js ](http://knowledgestockpile.blogspot.com/2012/01/understanding-selectall-data-enter.html)
 - [Over 2000 D3.js Examples and Demos](http://techslides.com/over-2000-d3-js-examples-and-demos)
 - [D3 Tutorial Table of Contents](https://www.dashingd3js.com/table-of-contents)
 - [Try D3 Now](http://christopheviau.com/d3_tutorial/)
