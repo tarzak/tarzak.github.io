@@ -243,6 +243,7 @@
 - [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
 
 ## D3.js
+- [Towards Reusable Charts](http://bost.ocks.org/mike/chart/)
 - [Understanding selectAll, data, enter, append sequence in D3.js ](http://knowledgestockpile.blogspot.com/2012/01/understanding-selectall-data-enter.html)
 - General Update Pattern: [1](http://bl.ocks.org/mbostock/3808218), [2](http://bl.ocks.org/mbostock/3808221)
 - [Over 2000 D3.js Examples and Demos](http://techslides.com/over-2000-d3-js-examples-and-demos)
