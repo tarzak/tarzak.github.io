@@ -193,6 +193,7 @@
 - [Converting an object to a string](http://stackoverflow.com/questions/5612787/converting-an-object-to-a-string)
 - [ECMAScript 6 Features](https://github.com/lukehoban/es6features)
 - [ES6 в деталях: Генераторы](http://frontender.info/es6-in-depth-generators/)
+- [Eloquent JavaScript second edition](http://eloquentjavascript.net/)
 
 ## Front-End
 - [Responsive Sidebar Out Of Nothing](http://nikolay.rocks/2015-06-19-responsive-sidebar?utm_medium=email&utm_source=jsfiddle)
