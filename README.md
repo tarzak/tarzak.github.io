@@ -259,6 +259,8 @@
 - [Climbing the d3.js Visualisation Stack](http://schoolofdata.org/2013/08/12/climbing-the-d3-js-visualisation-stack/)
 - [D3.js tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
 - [The Key to Enlightenment](http://bost.ocks.org/mike/selection/#key)
+- [Multi-Series Line Chart](http://bl.ocks.org/mbostock/3884955)
+- Building a Multi-Line Chart Using D3.js.Parts: [1](http://code.tutsplus.com/tutorials/building-a-multi-line-chart-using-d3js--cms-22935), [2](http://code.tutsplus.com/tutorials/building-a-multi-line-chart-using-d3js-part-2--cms-22973)
 
 ## ExtJs
 - [Урок по ExtJS 4.1 (часть 1)](http://habrahabr.ru/sandbox/44023/)
