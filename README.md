@@ -383,3 +383,4 @@
 - [Незаменимые ресурсы для изучения иностранных языков](http://megamozg.ru/company/icanchoose/blog/16106/)
 - [Продуктивный ниндзя: 5 эффективных трюков, позволяющих выполнить больше дел](http://megamozg.ru/company/mbaconsult/blog/16068/)
 - [Как правильно вести себя с тяжелыми людьми](http://megamozg.ru/company/mbaconsult/blog/16998/)
+- [6 привьічек уверенньіх в себе людей](http://blog.mbaconsult.ru/blog/personal/6-privychek-uverennykh-v-sebe-lyudey/)
