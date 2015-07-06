@@ -265,6 +265,8 @@
 - [The Key to Enlightenment](http://bost.ocks.org/mike/selection/#key)
 - [Multi-Series Line Chart](http://bl.ocks.org/mbostock/3884955)
 - Building a Multi-Line Chart Using D3.js.Parts: [1](http://code.tutsplus.com/tutorials/building-a-multi-line-chart-using-d3js--cms-22935), [2](http://code.tutsplus.com/tutorials/building-a-multi-line-chart-using-d3js-part-2--cms-22973)
+- [Building Responsive Visualizations with D3.js](https://blog.safaribooksonline.com/2014/02/17/building-responsible-visualizations-d3-js/)
+- [Whats the best way to make a d3.js visualisation layout responsive?](http://stackoverflow.com/questions/9400615/whats-the-best-way-to-make-a-d3-js-visualisation-layout-responsive)
 
 ## ExtJs
 - [Урок по ExtJS 4.1 (часть 1)](http://habrahabr.ru/sandbox/44023/)
