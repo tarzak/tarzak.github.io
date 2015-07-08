@@ -157,6 +157,7 @@
 - [Quantity Queries for CSS](http://alistapart.com/article/quantity-queries-for-css)
 - [Разбираемся с vertical-align](http://web-standards.ru/articles/vertical-align/)
 - [Принципы анимации для веба](http://habrahabr.ru/company/htmlacademy/blog/255583/)
+- [Making a <div> inherit the height of parent (<td>) using only css?](http://firstbestanswer.com/question/1olwsd/making-div-inherit-height-parent-td-using-css.html)
 
 ## JavaScript
 - [Exploring ES6](https://leanpub.com/exploring-es6/read?utm_medium=email&utm_source=jsfiddle) online book
