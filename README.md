@@ -242,6 +242,8 @@
 - [Create an SVG Sprite Sheet](http://blog.teamtreehouse.com/create-svg-sprite-sheet?utm_medium=email&utm_source=jsfiddle)
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
 - [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
+- [Browser Safe Colors](http://webdesign.about.com/od/colorcharts/l/bl_colors.htm)
+- [SVG Color Keywords](http://webdesign.about.com/od/colorcharts/l/bl_namedcolors.htm)
 
 ## D3.js
 - [Towards Reusable Charts](http://bost.ocks.org/mike/chart/)
