@@ -141,7 +141,7 @@
 
 ## CSS
 - [Довідник](http://www.xiper.net/manuals/css/)
-- [Селектори](http://www.flukeout.github.io)
+- [Селектори](http://flukeout.github.io/)
 - [Height, width и overflow — CSS правила для описания области контента при блочной верстке.](http://ktonanovenkogo.ru/html/uroki-css/height-width-overflow-css-pravila-dly-oblasti-kontenta-blochnoj-verstke.html)
 - [CSS3 градієнти на пальцях](http://developblog.com.ua/post/easy-explanation-of-css3-gradients)
 - [Reset CSS](http://perishablepress.com/a-killer-collection-of-global-css-reset-styles/)
