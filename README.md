@@ -390,3 +390,5 @@
 - [Как правильно вести себя с тяжелыми людьми](http://megamozg.ru/company/mbaconsult/blog/16998/)
 - [6 привычек уверенньіх в себе людей](http://blog.mbaconsult.ru/blog/personal/6-privychek-uverennykh-v-sebe-lyudey/)
 - [Нацбанк Украины позволил фрилансерам работать с иностранными заказчиками без договоров](http://megamozg.ru/post/17206/)
+- [5 основных стереотипов подсознания, ведущих к неверным решениям](http://megamozg.ru/company/mbaconsult/blog/17204/)
+- [Пять заблуждений о продуктивности, которые мы себе внушаем](http://blog.mbaconsult.ru/blog/personal/pyat-zabluzhdeniy-o-produktivnosti-kotorye-my-sebe-vnushaem/)
