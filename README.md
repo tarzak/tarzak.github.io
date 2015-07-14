@@ -25,6 +25,7 @@
 - [Краткое руководство по Маркдауну](http://goo.gl/84aUxo)
 
 ## Development
+- [Программирование классами в веб-приложениях](http://frontender.info/programmirovanie-klassami-v-veb-prilozheniyakh/)
 - [WebSite about web development](http://devdactic.com/)
 - [200 блогов по разработке и проектированию](http://habrahabr.ru/company/friifond/blog/260641/)
 - [Auto-formatting JavaScript Code Style](https://medium.com/@addyosmani/auto-formatting-javascript-code-style-fe0f98a923b8)
