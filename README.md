@@ -128,6 +128,7 @@
 - [Angular2.0: A curated list of helpful material to get started with education on Angular 2](https://github.com/timjacobi/angular2-education)
 
 ## Graphic libs
+- [Paper.js tutorials](http://paperjs.org/tutorials/)
 - [Рисование на JavaScript с помощью Paper.js, Processing.js, Raphael.js](http://sitear.ru/material/risovanie-na-javascript)
 - [Улучшаем производительность HTML5 canvas](http://habrahabr.ru/post/127014/)
 - [Часы на кривых Безье - processing.js](http://habrahabr.ru/post/236455/?utm_campaign=email_digest&utm_source=email_habrahabr&utm_medium=email_day_20140912&utm_content=link2post)
