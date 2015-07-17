@@ -275,6 +275,7 @@
 - [Whats the best way to make a d3.js visualisation layout responsive?](http://stackoverflow.com/questions/9400615/whats-the-best-way-to-make-a-d3-js-visualisation-layout-responsive)
 - [D3.js Step by Step: A Basic Pie Chart](http://zeroviscosity.com/d3-js-step-by-step/step-1-a-basic-pie-chart)
 - [D3.js Scales](https://www.dashingd3js.com/d3js-scales)
+- [Making Dashboards with Dc.js - Part 2: Graphing](http://www.codeproject.com/Articles/697043/Making-Dashboards-with-Dc-js-Part-Graphing)
 
 ## ExtJs
 - [Урок по ExtJS 4.1 (часть 1)](http://habrahabr.ru/sandbox/44023/)
