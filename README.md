@@ -54,6 +54,7 @@
 - [Apostrophe is a content management system that helps you stay on mission.](http://apostrophenow.org/)
 - [Buckets is an Open Source CMS built on Node.js and MongoDB.](http://www.buckets.io/)
 - [Art of node](https://github.com/maxogden/art-of-node)
+- [Streams handbook](https://github.com/substack/stream-handbook)
 
 ## MongoDB
 - [MongoDB: How to backup and restore databases](http://blogs.lessthandot.com/index.php/datamgmt/dbadmin/mssqlserveradmin/mongodb-backup-and-restore-databases/)
