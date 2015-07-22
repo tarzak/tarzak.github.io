@@ -199,6 +199,7 @@
 - [ECMAScript 6 Features](https://github.com/lukehoban/es6features)
 - [ES6 в деталях: Генераторы](http://frontender.info/es6-in-depth-generators/)
 - [Eloquent JavaScript second edition](http://eloquentjavascript.net/)
+- [Linked list](http://www.nczonline.net/blog/2009/04/13/computer-science-in-javascript-linked-list/)
 
 ## Front-End
 - [Responsive Sidebar Out Of Nothing](http://nikolay.rocks/2015-06-19-responsive-sidebar?utm_medium=email&utm_source=jsfiddle)
