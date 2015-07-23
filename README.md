@@ -202,6 +202,7 @@
 - [Linked list](http://www.nczonline.net/blog/2009/04/13/computer-science-in-javascript-linked-list/)
 
 ## Front-End
+- [Interact with BLE devices on the Web](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web)
 - [Responsive Sidebar Out Of Nothing](http://nikolay.rocks/2015-06-19-responsive-sidebar?utm_medium=email&utm_source=jsfiddle)
 - [Chartist.js, An Open-Source Library For Responsive Charts](http://www.smashingmagazine.com/2014/12/16/chartist-js-open-source-library-responsive-charts/)
 - [JS chart libraries](http://blog.webkid.io/javascript-chart-libraries/)
