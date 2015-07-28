@@ -254,6 +254,10 @@
 ## D3.js
 - [Towards Reusable Charts](http://bost.ocks.org/mike/chart/)
 - [Understanding selectAll, data, enter, append sequence in D3.js ](http://knowledgestockpile.blogspot.com/2012/01/understanding-selectall-data-enter.html)
+- [Whats the best way to make a d3.js visualisation layout responsive](http://stackoverflow.com/questions/9400615/whats-the-best-way-to-make-a-d3-js-visualisation-layout-responsive)
+- [Building Responsive Visualizations with D3.js](https://www.safaribooksonline.com/blog/2014/02/17/building-responsible-visualizations-d3-js/)
+- [A Simple Responsive D3.js Example](http://animateddata.co.uk/articles/d3/responsive/)
+- [How to Make d3 Charts Responsive](https://www.thatdatadude.com/how-to-make-d3-charts-responsive/)
 - General Update Pattern: [1](http://bl.ocks.org/mbostock/3808218), [2](http://bl.ocks.org/mbostock/3808221)
 - [Over 2000 D3.js Examples and Demos](http://techslides.com/over-2000-d3-js-examples-and-demos)
 - [D3 Tutorial Table of Contents](https://www.dashingd3js.com/table-of-contents)
