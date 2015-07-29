@@ -198,7 +198,7 @@
 - [Converting an object to a string](http://stackoverflow.com/questions/5612787/converting-an-object-to-a-string)
 - [ECMAScript 6 Features](https://github.com/lukehoban/es6features)
 - [ES6 в деталях: Генераторы](http://frontender.info/es6-in-depth-generators/)
-- [Eloquent JavaScript second edition](http://eloquentjavascript.net/)
+- Eloquent JavaScript second edition [en](http://eloquentjavascript.net/), [ru](http://habrahabr.ru/post/240219/)
 - [Linked list](http://www.nczonline.net/blog/2009/04/13/computer-science-in-javascript-linked-list/)
 
 ## Front-End
