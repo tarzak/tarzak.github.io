@@ -161,7 +161,7 @@
 - [Quantity Queries for CSS](http://alistapart.com/article/quantity-queries-for-css)
 - [Разбираемся с vertical-align](http://web-standards.ru/articles/vertical-align/)
 - [Принципы анимации для веба](http://habrahabr.ru/company/htmlacademy/blog/255583/)
-- [Making a <div> inherit the height of parent (<td>) using only css?](http://firstbestanswer.com/question/1olwsd/making-div-inherit-height-parent-td-using-css.html)
+- [Making a 'div' inherit the height of parent ('td') using only css?](http://firstbestanswer.com/question/1olwsd/making-div-inherit-height-parent-td-using-css.html)
 
 ## JavaScript
 - [Exploring ES6](https://leanpub.com/exploring-es6/read?utm_medium=email&utm_source=jsfiddle) online book
@@ -242,6 +242,7 @@
 - [Journey Through The JavaScript MVC Jungle (2012)](http://www.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/)
 - [Helping you select an MV* framework](http://todomvc.com/)
 - [New JavaScript UI Library: Layout, Grid, Toolbar, Tree, Tabs, Popup, Forms, Fields, Utilitis](http://w2ui.com/web/home)
+- Presentation framework [impress.js](http://bartaz.github.io/impress.js/#/bored)
  
 ## WebDesign
 - [SVG ON THE WEB A Practical Guide](https://svgontheweb.com/?utm_medium=email&utm_source=jsfiddle)
