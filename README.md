@@ -200,6 +200,7 @@
 - [ES6 в деталях: Генераторы](http://frontender.info/es6-in-depth-generators/)
 - Eloquent JavaScript second edition [en](http://eloquentjavascript.net/), [ru](http://habrahabr.ru/post/240219/)
 - [Linked list](http://www.nczonline.net/blog/2009/04/13/computer-science-in-javascript-linked-list/)
+- [Основные сведения об объектах Web Worker](http://www.html5rocks.com/ru/tutorials/workers/basics/)
 
 ## Front-End
 - [Interact with BLE devices on the Web](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web)
