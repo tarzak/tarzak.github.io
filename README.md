@@ -246,6 +246,7 @@
 - [Helping you select an MV* framework](http://todomvc.com/)
 - [New JavaScript UI Library: Layout, Grid, Toolbar, Tree, Tabs, Popup, Forms, Fields, Utilitis](http://w2ui.com/web/home)
 - Presentation framework [impress.js](http://bartaz.github.io/impress.js/#/bored)
+- [Features of the Less language](http://lesscss.org/features/)
  
 ## WebDesign
 - [SVG ON THE WEB A Practical Guide](https://svgontheweb.com/?utm_medium=email&utm_source=jsfiddle)
