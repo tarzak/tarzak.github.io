@@ -203,6 +203,7 @@
 - [Основные сведения об объектах Web Worker](http://www.html5rocks.com/ru/tutorials/workers/basics/)
 - [How to get reference to the parent object inside a child object](http://stackoverflow.com/questions/3844309/javascript-how-to-get-reference-to-the-parent-object-inside-a-child-object)
 - [Objects: get parent](http://stackoverflow.com/questions/2980763/javascript-objects-get-parent)
+- [OOP in JS, Part 1 : Public/Private Variables and Methods](http://phrogz.net/JS/classes/OOPinJS.html)
 
 ## Front-End
 - [Interact with BLE devices on the Web](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web)
