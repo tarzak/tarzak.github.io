@@ -256,6 +256,7 @@
 - [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
 - [Browser Safe Colors](http://webdesign.about.com/od/colorcharts/l/bl_colors.htm)
 - [SVG Color Keywords](http://webdesign.about.com/od/colorcharts/l/bl_namedcolors.htm)
+- [How to make your own icon webfont](http://www.webdesignerdepot.com/2012/01/how-to-make-your-own-icon-webfont/)
 
 ## D3.js
 - [Towards Reusable Charts](http://bost.ocks.org/mike/chart/)
