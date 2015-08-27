@@ -398,6 +398,7 @@
 - [Use Deps Dependency instead of Session if you can](http://www.manuel-schoebel.com/blog/use-deps-dependency-instead-of-session-if-you-can)
 - [Extending Meteor Accounts (login system)](https://meteorhacks.com/extending-meteor-accounts)
 - [how to use mongoimport with my meteor application database?](http://stackoverflow.com/questions/15365747/how-to-use-mongoimport-with-my-meteor-application-database)
+- [TemplateVar](https://github.com/frozeman/meteor-template-var)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
