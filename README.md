@@ -92,6 +92,7 @@
  
 ## HTTP
 - [How are parameters sent in an HTTP POST request?](http://stackoverflow.com/questions/14551194/how-are-parameters-sent-in-an-http-post-request)
+- [15 тривиальных фактов о правильной работе с протоколом HTTP](http://habrahabr.ru/company/yandex/blog/265569/)
 
 ## Grunt
 - [Grunt для тех, кто считает штуки вроде него странными и сложными](http://frontender.info/grunt-is-not-weird-and-hard/#davaytezastavimgruntobaedinityparufaylov)
