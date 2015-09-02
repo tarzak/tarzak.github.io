@@ -418,3 +418,4 @@
 - [5 основных стереотипов подсознания, ведущих к неверным решениям](http://megamozg.ru/company/mbaconsult/blog/17204/)
 - [Пять заблуждений о продуктивности, которые мы себе внушаем](http://blog.mbaconsult.ru/blog/personal/pyat-zabluzhdeniy-o-produktivnosti-kotorye-my-sebe-vnushaem/)
 - [Советы — как понимать больше, запоминать дольше](http://megamozg.ru/post/18618/)
+- [Прокрастинация, или как перестать быть ленивой задницей и начать жить](http://megamozg.ru/post/18992/)
