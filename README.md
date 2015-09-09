@@ -402,6 +402,7 @@
 - [Extending Meteor Accounts (login system)](https://meteorhacks.com/extending-meteor-accounts)
 - [how to use mongoimport with my meteor application database?](http://stackoverflow.com/questions/15365747/how-to-use-mongoimport-with-my-meteor-application-database)
 - [TemplateVar](https://github.com/frozeman/meteor-template-var)
+- [Roll Your Own Authentication](http://themeteorchef.com/recipes/roll-your-own-authentication/#tmc-getting-started)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
