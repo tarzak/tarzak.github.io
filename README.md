@@ -294,6 +294,16 @@
 - [D3.js Scales](https://www.dashingd3js.com/d3js-scales)
 - [Making Dashboards with Dc.js - Part 2: Graphing](http://www.codeproject.com/Articles/697043/Making-Dashboards-with-Dc-js-Part-Graphing)
 - [d3 linechart string domain x-axis](http://stackoverflow.com/questions/15567054/d3-linechart-string-domain-x-axis)
+- [Changing number displayed as svg text gradually, with D3 transition](http://stackoverflow.com/questions/13454993/changing-number-displayed-as-svg-text-gradually-with-d3-transition)
+- [Arcs Tweening Animation](http://bl.ocks.org/cmdoptesc/6228457)
+- [Arc Tween (Clock)](http://bl.ocks.org/mbostock/1098617)
+- [Tweening an arc](http://jsfiddle.net/mccannf/FaMh8/3/)
+- [Example of a part of a gauge](http://jsfiddle.net/akashtyagi40/u28n234k/)
+- [Example of a gauge](http://jsfiddle.net/529kP/1/)
+- [Arc Tween](http://bl.ocks.org/mbostock/5100636)
+- [Gauge](http://bl.ocks.org/msqr/3202712)
+- [Gauge - Part Deux](http://bl.ocks.org/ameyms/9184728)
+- [Pie Chart Update, II](http://bl.ocks.org/mbostock/1346410)
 
 ## ExtJs
 - [Урок по ExtJS 4.1 (часть 1)](http://habrahabr.ru/sandbox/44023/)
