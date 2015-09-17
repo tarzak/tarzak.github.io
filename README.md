@@ -175,7 +175,6 @@
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)
 - [Підводне каміння JS - в тому числі про типи даних.](http://habrahabr.ru/post/159313/)
 - [Про функції - на JavaScript.ru, фундаментально](http://javascript.ru/basic/functions)
-- [JavaScript Core](http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/)
 - [Видео-курс по JavaScript на русском языке](http://habrahabr.ru/company/hexlet/blog/205902/)
 - [Отличие preventDefault, stopPropagation и stopImmediatePropagation](http://stepansuvorov.com/blog/2013/05/%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D0%B5-preventdefault-stoppropagation-%D0%B8-stopimmediatepropagation/)
 - [CursorMessage: jQuery Tooltip for any event](https://www.kingsquare.nl/cursormessage)
