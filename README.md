@@ -165,7 +165,9 @@
 - [Making a 'div' inherit the height of parent ('td') using only css?](http://firstbestanswer.com/question/1olwsd/making-div-inherit-height-parent-td-using-css.html)
 
 ## JavaScript
-- [Exploring ES6](https://leanpub.com/exploring-es6/read?utm_medium=email&utm_source=jsfiddle) online book
+- [Speaking JavaScript](http://speakingjs.com/es5/index.html) ES5 online book
+- [Exploring ES6](http://exploringjs.com/es6/)
+- [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
 - [Just learn a bit of ES6 daily, take one kata a day and fix it away.](http://es6katas.org/)
 - [Видео: полный цикл разработки на JavaScript](http://habrahabr.ru/company/hexlet/blog/199472/)
 - [Прототипы это объекты (и почему это важно)](http://habrahabr.ru/company/hexlet/blog/260427/)
