@@ -210,6 +210,7 @@
 - [How to get the computed width and height for an arbitrary element?](http://stackoverflow.com/questions/21990857/d3-js-how-to-get-the-computed-width-and-height-for-an-arbitrary-element)
 - [Введение в объектно-ориентированный JavaScript](http://www.cyberguru.ru/web/html/javascript-introduction-to-objective-js.html?showall=1)
 - [Building a Web App Guided By Tests](https://leanpub.com/building-a-web-app-guided-by-tests)
+- [И опять про MVC](http://habrahabr.ru/post/119369/)
 
 ## Front-End
 - [Interact with BLE devices on the Web](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web)
