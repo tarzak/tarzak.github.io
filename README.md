@@ -309,6 +309,9 @@
 - [Gauge - Part Deux](http://bl.ocks.org/ameyms/9184728)
 - [Pie Chart Update, II](http://bl.ocks.org/mbostock/1346410)
 - [Support rgba interpolation](https://github.com/mbostock/d3/issues/582)
+- [attrTween in a Transition to Move an Element Using a Function](http://bl.ocks.org/cloudshapes/5662135)
+- [AttrTween, Transitions and MV* in Reusable D3](http://bl.ocks.org/cloudshapes/5909708)
+- [Responsive Charts with D3](http://eyeseast.github.io/visible-data/2013/08/28/responsive-charts-with-d3/)
 
 ## ExtJs
 - [Урок по ExtJS 4.1 (часть 1)](http://habrahabr.ru/sandbox/44023/)
