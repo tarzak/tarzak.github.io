@@ -351,6 +351,7 @@
 - [DataBase of algorithms](http://bigocheatsheet.com)
 
 ## MeteorJS
+- [Large Meteor projects - best practices](https://blog.tableflip.io/large-meteor-projects-best-practices/)
 - [ReactiveVar & ReactiveDict](http://meteorcapture.com/a-look-at-local-template-state/)
 - [Easily debugging meteor.js](http://joshowens.me/easily-debugging-meteor-js/?__s=ysuohrq1qzqkx56usqfm&utm_campaign=mc-drip&utm_medium=email&utm_source=meteor-club)
 - [mongo-package: Adaptor for using MongoDB and Minimongo over DDP](https://atmospherejs.com/meteor/mongo)
