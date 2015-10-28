@@ -255,6 +255,7 @@
 - [New JavaScript UI Library: Layout, Grid, Toolbar, Tree, Tabs, Popup, Forms, Fields, Utilitis](http://w2ui.com/web/home)
 - Presentation framework [impress.js](http://bartaz.github.io/impress.js/#/bored)
 - [Features of the Less language](http://lesscss.org/features/)
+- [Bootstrap 3 Tabs + left, right, bottom](http://www.bootply.com/74926#)
  
 ## WebDesign
 - [SVG ON THE WEB A Practical Guide](https://svgontheweb.com/?utm_medium=email&utm_source=jsfiddle)
