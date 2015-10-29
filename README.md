@@ -213,6 +213,7 @@
 - [И опять про MVC](http://habrahabr.ru/post/119369/)
 
 ## Front-End
+- [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
 - [Interact with BLE devices on the Web](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web)
 - [Responsive Sidebar Out Of Nothing](http://nikolay.rocks/2015-06-19-responsive-sidebar?utm_medium=email&utm_source=jsfiddle)
 - [Chartist.js, An Open-Source Library For Responsive Charts](http://www.smashingmagazine.com/2014/12/16/chartist-js-open-source-library-responsive-charts/)
