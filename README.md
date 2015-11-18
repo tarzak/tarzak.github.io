@@ -19,6 +19,7 @@
 - [The entire Pro Git book, written by Scott Chacon](http://git-scm.com/book)
 - [Try Git(Hub)](https://try.github.io/levels/1/challenges/1)
 - [Git pocket guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html)
+- [How To Set Up Automatic Deployment with Git with a VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps)
 
 ## Markdown
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
