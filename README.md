@@ -258,6 +258,7 @@
 - Presentation framework [impress.js](http://bartaz.github.io/impress.js/#/bored)
 - [Features of the Less language](http://lesscss.org/features/)
 - [Bootstrap 3 Tabs + left, right, bottom](http://www.bootply.com/74926#)
+- [Swiper](http://www.idangero.us/swiper/get-started/#.Vk8MVB9_fQp) - Most modern mobile touch slider
  
 ## WebDesign
 - [SVG ON THE WEB A Practical Guide](https://svgontheweb.com/?utm_medium=email&utm_source=jsfiddle)
