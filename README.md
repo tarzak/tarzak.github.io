@@ -446,3 +446,4 @@
 - [Пять заблуждений о продуктивности, которые мы себе внушаем](http://blog.mbaconsult.ru/blog/personal/pyat-zabluzhdeniy-o-produktivnosti-kotorye-my-sebe-vnushaem/)
 - [Советы — как понимать больше, запоминать дольше](http://megamozg.ru/post/18618/)
 - [Прокрастинация, или как перестать быть ленивой задницей и начать жить](http://megamozg.ru/post/18992/)
+- [7 типичных русских проблем в английской речи](https://habrahabr.ru/company/taucraft/blog/145755/)
