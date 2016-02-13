@@ -42,6 +42,7 @@
 - [Sublime Text Vintage Mode — справочник по горячим клавишам](http://habrahabr.ru/post/193176/)
 - [wwwhere is a curated list of tools and resources for people who make websites.](http://wwwhere.io/)
 - [Multiple Selection with the Keyboard](https://www.sublimetext.com/docs/3/multiple_selection_with_the_keyboard.html)
+- [VIM learning](http://www.openvim.com/)
 
 ## Node.js & npm
 - [NodeBB - Opensource forum on nodejs](https://github.com/NodeBB/NodeBB)
