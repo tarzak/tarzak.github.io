@@ -46,6 +46,7 @@
 - [VIM learning](http://www.openvim.com/)
 
 ## Node.js & npm
+- [Specifics of npm's package.json handling](https://docs.npmjs.com/files/package.json)
 - [NodeBB - Opensource forum on nodejs](https://github.com/NodeBB/NodeBB)
 - [koa - next generation web framework for node.js](http://koajs.com/)
 - [Getting started with hapi](http://hapijs.com/tutorials)
