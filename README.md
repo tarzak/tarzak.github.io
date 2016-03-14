@@ -273,6 +273,7 @@
 - [How to make your own icon webfont](http://www.webdesignerdepot.com/2012/01/how-to-make-your-own-icon-webfont/)
 
 ## D3.js
+- [Update data with the multiple elements in a group](http://stackoverflow.com/questions/24912274/d3-update-data-with-multiple-elements-in-a-group)
 - [Towards Reusable Charts](http://bost.ocks.org/mike/chart/)
 - [Understanding selectAll, data, enter, append sequence in D3.js ](http://knowledgestockpile.blogspot.com/2012/01/understanding-selectall-data-enter.html)
 - [Whats the best way to make a d3.js visualisation layout responsive](http://stackoverflow.com/questions/9400615/whats-the-best-way-to-make-a-d3-js-visualisation-layout-responsive)
