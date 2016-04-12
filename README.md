@@ -44,6 +44,8 @@
 - [wwwhere is a curated list of tools and resources for people who make websites.](http://wwwhere.io/)
 - [Multiple Selection with the Keyboard](https://www.sublimetext.com/docs/3/multiple_selection_with_the_keyboard.html)
 - [VIM learning](http://www.openvim.com/)
+- [RegEx email validation](http://stackoverflow.com/questions/46155/validate-email-address-in-javascript)
+- [How to Find or Validate an Email Address](http://www.regular-expressions.info/email.html)
 
 ## Node.js & npm
 - [Specifics of npm's package.json handling](https://docs.npmjs.com/files/package.json)
@@ -431,6 +433,10 @@
 - [how to use mongoimport with my meteor application database?](http://stackoverflow.com/questions/15365747/how-to-use-mongoimport-with-my-meteor-application-database)
 - [TemplateVar](https://github.com/frozeman/meteor-template-var)
 - [Roll Your Own Authentication](http://themeteorchef.com/recipes/roll-your-own-authentication/#tmc-getting-started)
+- [Meteor and filepicker-plus package](http://stackoverflow.com/questions/26819221/meteor-and-filepicker-plus-package)
+- [Using of x-editable](http://stackoverflow.com/questions/22867690/how-do-i-use-x-editable-on-dynamic-fields-in-a-meteor-template-now-with-blaze/23144211#23144211)
+- [Meteor Cookbook: Filepicker.io Uploads and Image Conversion](https://meteor.hackpad.com/Meteor-Cookbook-Filepicker.io-Uploads-and-Image-Conversion-hIpSwJQV3HJ)
+- [Filepicker example](https://github.com/nate-strauser/meteor-cookbook/blob/master/filepicker/filepicker-plus-example/filepicker-example.js)
  
 ## ReactJS
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
