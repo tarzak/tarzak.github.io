@@ -169,6 +169,7 @@
 - [Разбираемся с vertical-align](http://web-standards.ru/articles/vertical-align/)
 - [Принципы анимации для веба](http://habrahabr.ru/company/htmlacademy/blog/255583/)
 - [Making a 'div' inherit the height of parent ('td') using only css?](http://firstbestanswer.com/question/1olwsd/making-div-inherit-height-parent-td-using-css.html)
+- [A couple of use cases for calc](https://css-tricks.com/a-couple-of-use-cases-for-calc/)
 
 ## JavaScript
 - [Speaking JavaScript](http://speakingjs.com/es5/index.html) ES5 online book
