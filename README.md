@@ -461,3 +461,4 @@
 - [Советы — как понимать больше, запоминать дольше](http://megamozg.ru/post/18618/)
 - [Прокрастинация, или как перестать быть ленивой задницей и начать жить](http://megamozg.ru/post/18992/)
 - [7 типичных русских проблем в английской речи](https://habrahabr.ru/company/taucraft/blog/145755/)
+- [10 ways to say 'you are welcome'](https://voxy.com/blog/index.php/2014/05/10-ways-say-youre-welcome/)
