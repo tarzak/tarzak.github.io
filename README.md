@@ -1,6 +1,6 @@
 # Useful info
 ## Server maintenance
-- [Делаем nginx как front-end к apache](http://habrahabr.ru/post/120814/)
+- [Делаем nginx как front-end к apache](http://habrahabr.ru/post/120814/)b
 - [Я построю свой почтовый сервер с Postfix и Dovecot](http://habrahabr.ru/post/193220/)
 - [A Mailserver on Ubuntu 14.04: Postfix, Dovecot, MySQL](https://www.exratione.com/2014/05/a-mailserver-on-ubuntru-1404-postfix-dovecot-mysql/)
 - [Dovecot /postfix with Roundcube WebUI on centOS](http://wiki.vpsget.com/index.php/Dovecot_/postfix_with_Roundcube_WebUI)
@@ -267,6 +267,7 @@
 - [Features of the Less language](http://lesscss.org/features/)
 - [Bootstrap 3 Tabs + left, right, bottom](http://www.bootply.com/74926#)
 - [Swiper](http://www.idangero.us/swiper/get-started/#.Vk8MVB9_fQp) - Most modern mobile touch slider
+- [How the Bootstrap Grid Really Works](http://blog.codeply.com/2016/04/06/how-the-bootstrap-grid-really-works/)
  
 ## WebDesign
 - [SVG ON THE WEB A Practical Guide](https://svgontheweb.com/?utm_medium=email&utm_source=jsfiddle)
