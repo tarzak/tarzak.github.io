@@ -220,6 +220,7 @@
 - [Введение в объектно-ориентированный JavaScript](http://www.cyberguru.ru/web/html/javascript-introduction-to-objective-js.html?showall=1)
 - [Building a Web App Guided By Tests](https://leanpub.com/building-a-web-app-guided-by-tests)
 - [И опять про MVC](http://habrahabr.ru/post/119369/)
+- [Compare two dates with JavaScript](http://stackoverflow.com/questions/492994/compare-two-dates-with-javascript)
 
 ## Front-End
 - [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
