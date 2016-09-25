@@ -174,6 +174,7 @@
 - [css playground](http://css3.mikeplate.com/)
 
 ## JavaScript
+- [Throttling function calls](https://remysharp.com/2010/07/21/throttling-function-calls)
 - [Speaking JavaScript](http://speakingjs.com/es5/index.html) ES5 online book
 - [Exploring ES6](http://exploringjs.com/es6/)
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
