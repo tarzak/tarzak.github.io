@@ -225,6 +225,7 @@
 - [Compare two dates with JavaScript](http://stackoverflow.com/questions/492994/compare-two-dates-with-javascript)
 
 ## Front-End
+- [Local Storage api](http://www.drdobbs.com/web-development/the-localstorage-api/240000682)
 - [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
 - [Interact with BLE devices on the Web](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web)
 - [Responsive Sidebar Out Of Nothing](http://nikolay.rocks/2015-06-19-responsive-sidebar?utm_medium=email&utm_source=jsfiddle)
