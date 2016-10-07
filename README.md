@@ -452,6 +452,9 @@
 - [Изоморфные приложения. Взгляд в будущее с React](http://m.habrahabr.ru/post/259625/)
 - [A simple isomorphic javascript blog with React and Nodejs](http://stefunk.github.io/2015/01/29/isormophic-javascript-blog-react-nodejs.html)
 
+## Side APIs
+- [Managing user consent for applications using Office 365 APIs](https://blogs.msdn.microsoft.com/exchangedev/2014/06/05/managing-user-consent-for-applications-using-office-365-apis/)
+
 ## Offtopic: LifeHack
 - [How do I install wallpapers from older releases?](http://askubuntu.com/questions/121379/how-do-i-install-wallpapers-from-older-releases)
 - [Как дисциплинировать себя, приобретая привычки шаг за шагом](https://surfingbird.ru/surf/kak-distsiplinirovat-sebya-priobretaya-privychki--kZfi191Ad?stat_counter=prismat&feedtype=prismfeed#.VXBZFbykVC2)
