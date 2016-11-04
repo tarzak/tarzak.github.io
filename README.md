@@ -91,6 +91,7 @@
 ```
 - [Новый aggregation framework в MongoDB 2.1](http://habrahabr.ru/post/139643/)
 - [Querying: Definitive guide](https://www.safaribooksonline.com/library/view/mongodb-the-definitive/9781449344795/ch04.html)
+- [Unexpected mongo exit code 14. Restarting.Can't start mongo server](http://stackoverflow.com/questions/38988365/meteor-unexpected-mongo-exit-code-14-restarting-cant-start-mongo-server)
 
 ## Bower
 - [Howto fix bower ECMDERR](http://stackoverflow.com/questions/21789683/howto-fix-bower-ecmderr)
