@@ -178,7 +178,7 @@
 - [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Throttling function calls](https://remysharp.com/2010/07/21/throttling-function-calls)
 - [Speaking JavaScript](http://speakingjs.com/es5/index.html) ES5 online book
-- [Exploring ES6](http://exploringjs.com/es6/)
+- [Exploring JS there are about ES6 too](http://exploringjs.com)
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
 - [Just learn a bit of ES6 daily, take one kata a day and fix it away.](http://es6katas.org/)
 - [Видео: полный цикл разработки на JavaScript](http://habrahabr.ru/company/hexlet/blog/199472/)
