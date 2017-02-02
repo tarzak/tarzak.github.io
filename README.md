@@ -456,6 +456,7 @@
 
 ## Side APIs
 - [Managing user consent for applications using Office 365 APIs](https://blogs.msdn.microsoft.com/exchangedev/2014/06/05/managing-user-consent-for-applications-using-office-365-apis/)
+- [Facebook: permanent Page Access Token?](http://stackoverflow.com/questions/17197970/facebook-permanent-page-access-token/17234650#17234650)
 
 ## Offtopic: LifeHack
 - [How do I install wallpapers from older releases?](http://askubuntu.com/questions/121379/how-do-i-install-wallpapers-from-older-releases)
