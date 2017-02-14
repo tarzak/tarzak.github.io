@@ -48,6 +48,7 @@
 - [How to Find or Validate an Email Address](http://www.regular-expressions.info/email.html)
 
 ## Node.js & npm
+- [Processing an array of promises sequentially in node.js](https://joost.vunderink.net/blog/2014/12/15/processing-an-array-of-promises-sequentially-in-node-js/)
 - [Specifics of npm's package.json handling](https://docs.npmjs.com/files/package.json)
 - [NodeBB - Opensource forum on nodejs](https://github.com/NodeBB/NodeBB)
 - [koa - next generation web framework for node.js](http://koajs.com/)
