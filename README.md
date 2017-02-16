@@ -359,6 +359,9 @@
 - [30+ Cool jQuery Countdown Plugins](http://nowtheme.com/2013/03/jquery-countdown-plugins/)
 
 ## Linux
+- [Run function from script over ssh](http://stackoverflow.com/questions/22107610/shell-script-run-function-from-script-over-ssh)
+- [Passing variable through ssh doesnt work](http://stackoverflow.com/questions/2416880/passing-variable-through-ssh-doesnt-work)
+- [How to execute a remote command over ssh with arguments?](http://stackoverflow.com/questions/18502945/how-to-execute-a-remote-command-over-ssh-with-arguments)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - Linux's book parts: [1](http://adm-lib.ru/books/0/ldn1.pdf), [2](http://adm-lib.ru/books/0/ldn2.pdf), [3](http://adm-lib.ru/books/0/ldn3.pdf)
 - [Fix Brightness Control Not Working for Ubuntu 14.04 & Linux Mint 17](http://itsfoss.com/fix-brightness-ubuntu-1310/)
