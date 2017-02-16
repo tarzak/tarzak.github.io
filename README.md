@@ -359,6 +359,7 @@
 - [30+ Cool jQuery Countdown Plugins](http://nowtheme.com/2013/03/jquery-countdown-plugins/)
 
 ## Linux
+- [Check if a program exists from a bash script.](https://gist.github.com/tarzak/d8d421af0e934b504dccac8d4534c73c)
 - [Run function from script over ssh](http://stackoverflow.com/questions/22107610/shell-script-run-function-from-script-over-ssh)
 - [Passing variable through ssh doesnt work](http://stackoverflow.com/questions/2416880/passing-variable-through-ssh-doesnt-work)
 - [How to execute a remote command over ssh with arguments?](http://stackoverflow.com/questions/18502945/how-to-execute-a-remote-command-over-ssh-with-arguments)
