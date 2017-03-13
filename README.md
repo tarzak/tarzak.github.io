@@ -371,6 +371,10 @@
 - [Many articles 'bout Linux/Ubuntu](http://www.linuxrussia.com/)
 - [Как ускорить работу Ubuntu — 9 советов](https://tproger.ru/translations/boost-up-your-ubuntu/)
 
+## Docker
+- [Полное практическое руководство по Docker: с нуля до кластера на AWS](https://habrahabr.ru/post/310460/)
+- [Docker. Зачем и как](https://habrahabr.ru/post/309556/)
+
 ## Algorithms & programming
 - [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
 - [Programmr](http://www.programmr.com/)
