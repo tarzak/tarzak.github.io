@@ -176,6 +176,7 @@
 - [css playground](http://css3.mikeplate.com/)
 
 ## JavaScript
+- [Find closest point by lat-lng](http://stackoverflow.com/questions/21279559/geolocation-closest-locationlat-long-from-my-position)
 - [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Throttling function calls](https://remysharp.com/2010/07/21/throttling-function-calls)
 - [Speaking JavaScript](http://speakingjs.com/es5/index.html) ES5 online book
