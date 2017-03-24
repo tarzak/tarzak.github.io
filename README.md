@@ -48,6 +48,7 @@
 - [How to Find or Validate an Email Address](http://www.regular-expressions.info/email.html)
 
 ## Node.js & npm
+- [How to use babel for production](https://medium.com/@Cuadraman/how-to-use-babel-for-production-5b95e7323c2f#.bd6bu8bgs)
 - [Processing an array of promises sequentially in node.js](https://joost.vunderink.net/blog/2014/12/15/processing-an-array-of-promises-sequentially-in-node-js/)
 - [Specifics of npm's package.json handling](https://docs.npmjs.com/files/package.json)
 - [NodeBB - Opensource forum on nodejs](https://github.com/NodeBB/NodeBB)
