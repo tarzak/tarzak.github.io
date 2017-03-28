@@ -376,6 +376,7 @@
 ## Docker
 - [Полное практическое руководство по Docker: с нуля до кластера на AWS](https://habrahabr.ru/post/310460/)
 - [Docker. Зачем и как](https://habrahabr.ru/post/309556/)
+- [Docker Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru)
 
 ## Algorithms & programming
 - [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
