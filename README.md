@@ -375,6 +375,8 @@
 - [Как ускорить работу Ubuntu — 9 советов](https://tproger.ru/translations/boost-up-your-ubuntu/)
 
 ## Docker
+- [How to get bash or ssh into a running container in background mode?](https://askubuntu.com/questions/505506/how-to-get-bash-or-ssh-into-a-running-container-in-background-mode)
+- [Stop / remove all Docker containers](https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers)
 - [Полное практическое руководство по Docker: с нуля до кластера на AWS](https://habrahabr.ru/post/310460/)
 - [Docker. Зачем и как](https://habrahabr.ru/post/309556/)
 - [Docker Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru)
