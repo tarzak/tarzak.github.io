@@ -49,8 +49,8 @@
 - [How to Find or Validate an Email Address](http://www.regular-expressions.info/email.html)
 
 ## Node.js & npm
-- [https://habrahabr.ru/post/324066/](Современная JWT авторизация для современного Node.js фреймворка Koa)
-- [https://vladimirponomarev.com/blog/authentication-in-react-apps-creating-components](Authentication in Node anda React Applications, Part 1: Creating Components)
+- [Современная JWT авторизация для современного Node.js фреймворка Koa](https://habrahabr.ru/post/324066/)
+- [Authentication in Node anda React Applications, Part 1: Creating Components](https://vladimirponomarev.com/blog/authentication-in-react-apps-creating-components)
 - [How to use babel for production](https://medium.com/@Cuadraman/how-to-use-babel-for-production-5b95e7323c2f#.bd6bu8bgs)
 - [Processing an array of promises sequentially in node.js](https://joost.vunderink.net/blog/2014/12/15/processing-an-array-of-promises-sequentially-in-node-js/)
 - [Specifics of npm's package.json handling](https://docs.npmjs.com/files/package.json)
@@ -467,6 +467,9 @@
 - [Filepicker example](https://github.com/nate-strauser/meteor-cookbook/blob/master/filepicker/filepicker-plus-example/filepicker-example.js)
  
 ## ReactJS
+- [https://daveceddia.com/create-react-app-express-backend/?utm_source=reactnl&utm_medium=email](Create React App with an Express Backend)
+- [React Getting Started — The MERN Stack Tutorial! (feat. ES6!)](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50)
+- [https://scotch.io/tutorials/routing-react-apps-the-complete-guide](Routing React Apps: The Complete Guide)
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
 - [Изоморфные приложения. Взгляд в будущее с React](http://m.habrahabr.ru/post/259625/)
 - [A simple isomorphic javascript blog with React and Nodejs](http://stefunk.github.io/2015/01/29/isormophic-javascript-blog-react-nodejs.html)
