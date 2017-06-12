@@ -364,6 +364,7 @@
 - [30+ Cool jQuery Countdown Plugins](http://nowtheme.com/2013/03/jquery-countdown-plugins/)
 
 ## Linux
+- [How to create custom commands in linux](https://unix.stackexchange.com/questions/84686/how-to-create-custom-commands-in-unix-linux)
 - [Split string into multiple variables in Bash](http://stackoverflow.com/questions/23663963/split-string-into-multiple-variables-in-bash)
 - [Check if a program exists from a bash script.](https://gist.github.com/tarzak/d8d421af0e934b504dccac8d4534c73c)
 - [Run function from script over ssh](http://stackoverflow.com/questions/22107610/shell-script-run-function-from-script-over-ssh)
