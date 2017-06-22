@@ -49,6 +49,7 @@
 - [How to Find or Validate an Email Address](http://www.regular-expressions.info/email.html)
 
 ## Node.js & npm
+- [Upload to and Get Images from Amazon S3 with Node JS](http://www.joshsgman.com/upload-to-and-get-images-from-amazon-s3-with-node-js/)
 - [Современная JWT авторизация для современного Node.js фреймворка Koa](https://habrahabr.ru/post/324066/)
 - [Authentication in Node anda React Applications, Part 1: Creating Components](https://vladimirponomarev.com/blog/authentication-in-react-apps-creating-components)
 - [How to use babel for production](https://medium.com/@Cuadraman/how-to-use-babel-for-production-5b95e7323c2f#.bd6bu8bgs)
