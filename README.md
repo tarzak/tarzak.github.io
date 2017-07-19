@@ -158,6 +158,7 @@
 - [Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial)
 
 ## CSS
+- [Bootstrap icon inside input](https://stackoverflow.com/questions/18838964/add-bootstrap-glyphicon-to-input-box)
 - [Довідник](http://www.xiper.net/manuals/css/)
 - [Селектори](http://flukeout.github.io/)
 - [Height, width и overflow — CSS правила для описания области контента при блочной верстке.](http://ktonanovenkogo.ru/html/uroki-css/height-width-overflow-css-pravila-dly-oblasti-kontenta-blochnoj-verstke.html)
