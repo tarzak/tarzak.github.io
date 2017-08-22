@@ -1,5 +1,6 @@
 # Useful info
 ## Server maintenance
+- [IPtables Guide](https://www.opennet.ru/docs/RUS/iptables/)
 - [How to secure nginx with Let's encrypt](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-debian-8)
 - [Делаем nginx как front-end к apache](http://habrahabr.ru/post/120814/)
 - [Я построю свой почтовый сервер с Postfix и Dovecot](http://habrahabr.ru/post/193220/)
@@ -49,6 +50,7 @@
 - [How to Find or Validate an Email Address](http://www.regular-expressions.info/email.html)
 
 ## Node.js & npm
+- [Understanding passport.js authentication flow](http://toon.io/understanding-passportjs-authentication-flow/)
 - [Upload to and Get Images from Amazon S3 with Node JS](http://www.joshsgman.com/upload-to-and-get-images-from-amazon-s3-with-node-js/)
 - [Современная JWT авторизация для современного Node.js фреймворка Koa](https://habrahabr.ru/post/324066/)
 - [Authentication in Node anda React Applications, Part 1: Creating Components](https://vladimirponomarev.com/blog/authentication-in-react-apps-creating-components)
@@ -389,6 +391,7 @@ a
 - [Полное практическое руководство по Docker: с нуля до кластера на AWS](https://habrahabr.ru/post/310460/)
 - [Docker. Зачем и как](https://habrahabr.ru/post/309556/)
 - [Docker Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru)
+- [Docker with flloating IP](https://github.com/moby/moby/issues/30053#issuecomment-283674682)
 
 ## Algorithms & programming
 - [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
