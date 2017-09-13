@@ -484,6 +484,7 @@ a
 - [Изоморфные приложения. Взгляд в будущее с React](http://m.habrahabr.ru/post/259625/)
 - [A simple isomorphic javascript blog with React and Nodejs](http://stefunk.github.io/2015/01/29/isormophic-javascript-blog-react-nodejs.html)
 - [Radio Buttons in React.js](http://react.tips/radio-buttons-in-reactjs/)
+- [How to pass in a react component into another react component to transclude the first component's content?](https://stackoverflow.com/questions/25797048/how-to-pass-in-a-react-component-into-another-react-component-to-transclude-the)
 
 ## Side APIs
 - [Managing user consent for applications using Office 365 APIs](https://blogs.msdn.microsoft.com/exchangedev/2014/06/05/managing-user-consent-for-applications-using-office-365-apis/)
