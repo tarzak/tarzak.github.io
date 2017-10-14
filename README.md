@@ -348,6 +348,7 @@ a
 
 ## ExtJs
 - [Урок по ExtJS 4.1 (часть 1)](http://habrahabr.ru/sandbox/44023/)
+- [Dynamically changing the color of chart columns](https://www.sencha.com/forum/showthread.php?266328-Dynamically-changing-the-color-of-chart-columns-4-1-3)
 
 ## SQL
 - [A Basic MySQL Tutorial](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
