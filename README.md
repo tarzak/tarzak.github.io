@@ -164,6 +164,7 @@ a
 - [Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial)
 
 ## CSS
+- [Mask on hover](https://stackoverflow.com/questions/33492464/creating-mask-over-entire-div-on-hover)
 - [Bootstrap icon inside input](https://stackoverflow.com/questions/18838964/add-bootstrap-glyphicon-to-input-box)
 - [Довідник](http://www.xiper.net/manuals/css/)
 - [Селектори](http://flukeout.github.io/)
