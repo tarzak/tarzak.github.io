@@ -479,9 +479,10 @@ a
 - [Filepicker example](https://github.com/nate-strauser/meteor-cookbook/blob/master/filepicker/filepicker-plus-example/filepicker-example.js)
  
 ## ReactJS
-- [https://daveceddia.com/create-react-app-express-backend/?utm_source=reactnl&utm_medium=email](Create React App with an Express Backend)
+- [Send Props to Children in React](https://jaketrent.com/post/send-props-to-children-react/)
+- [Create React App with an Express Backend](https://daveceddia.com/create-react-app-express-backend/?utm_source=reactnl&utm_medium=email)
 - [React Getting Started — The MERN Stack Tutorial! (feat. ES6!)](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50)
-- [https://scotch.io/tutorials/routing-react-apps-the-complete-guide](Routing React Apps: The Complete Guide)
+- [Routing React Apps: The Complete Guide](https://scotch.io/tutorials/routing-react-apps-the-complete-guide)
 - [ReactJS tutorial](http://facebook.github.io/react/docs/tutorial.html)
 - [Изоморфные приложения. Взгляд в будущее с React](http://m.habrahabr.ru/post/259625/)
 - [A simple isomorphic javascript blog with React and Nodejs](http://stefunk.github.io/2015/01/29/isormophic-javascript-blog-react-nodejs.html)
