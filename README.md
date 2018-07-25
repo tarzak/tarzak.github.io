@@ -187,6 +187,7 @@ a
 - [A couple of use cases for calc](https://css-tricks.com/a-couple-of-use-cases-for-calc/)
 - [Ultimate CSS gradient generator](http://www.colorzilla.com/gradient-editor/)
 - [css playground](http://css3.mikeplate.com/)
+- [Визуальное руководство по свойствам Flexbox из CSS3](http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html)
 
 ## JavaScript
 - [Find closest point by lat-lng](http://stackoverflow.com/questions/21279559/geolocation-closest-locationlat-long-from-my-position)
