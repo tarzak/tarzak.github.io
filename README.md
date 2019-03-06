@@ -29,6 +29,7 @@
 - [Краткое руководство по Маркдауну](http://goo.gl/84aUxo)
 
 ## Development
+- [Jira issue filter contain text with partial words](https://community.atlassian.com/t5/Jira-questions/Jira-issue-filter-contain-text-with-partial-words/qaq-p/136642)
 - [Как создавать игры: 8 книг по геймдизайну](http://dou.ua/lenta/articles/creating-games-books/?from=comment-digest_post&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments)
 - [Программирование классами в веб-приложениях](http://frontender.info/programmirovanie-klassami-v-veb-prilozheniyakh/)
 - [WebSite about web development](http://devdactic.com/)
