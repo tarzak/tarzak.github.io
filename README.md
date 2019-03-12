@@ -190,6 +190,7 @@ a
 - [Ultimate CSS gradient generator](http://www.colorzilla.com/gradient-editor/)
 - [css playground](http://css3.mikeplate.com/)
 - [Визуальное руководство по свойствам Flexbox из CSS3](http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html)
+- [Responsive iframe css trick](https://blog.theodo.fr/2018/01/responsive-iframes-css-trick/)
 
 ## JavaScript
 - [Find closest point by lat-lng](http://stackoverflow.com/questions/21279559/geolocation-closest-locationlat-long-from-my-position)
