@@ -243,6 +243,7 @@ a
 - [Building a Web App Guided By Tests](https://leanpub.com/building-a-web-app-guided-by-tests)
 - [И опять про MVC](http://habrahabr.ru/post/119369/)
 - [Compare two dates with JavaScript](http://stackoverflow.com/questions/492994/compare-two-dates-with-javascript)
+- [Практическое применение трансформации AST-деревьев на примере Putout](https://habr.com/en/post/439564/)
 
 ## Front-End
 - [Local Storage api](http://www.drdobbs.com/web-development/the-localstorage-api/240000682)
