@@ -52,6 +52,8 @@
 - [How to Find or Validate an Email Address](http://www.regular-expressions.info/email.html)
 
 ## Node.js & npm
+- [The Correct Way to Import Lodash Libraries - A Benchmark](https://www.blazemeter.com/blog/the-correct-way-to-import-lodash-libraries-a-benchmark)
+- [How to check bundle contents size](https://www.npmjs.com/package/source-map-explorer)
 - [Understanding passport.js authentication flow](http://toon.io/understanding-passportjs-authentication-flow/)
 - [Upload to and Get Images from Amazon S3 with Node JS](http://www.joshsgman.com/upload-to-and-get-images-from-amazon-s3-with-node-js/)
 - [Современная JWT авторизация для современного Node.js фреймворка Koa](https://habrahabr.ru/post/324066/)
