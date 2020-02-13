@@ -1,6 +1,6 @@
 # Useful info
 ## C#
-- [C# tutoriala](https://www.tutorialspoint.com/csharp/index.htm)
+- [C# tutorial](https://www.tutorialspoint.com/csharp/index.htm)
 
 ## Server maintenance
 - [IPtables Guide](https://www.opennet.ru/docs/RUS/iptables/)
