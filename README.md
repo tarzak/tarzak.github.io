@@ -1,4 +1,7 @@
 # Useful info
+## C#
+- [C# tutoriala](https://www.tutorialspoint.com/csharp/index.htm)
+
 ## Server maintenance
 - [IPtables Guide](https://www.opennet.ru/docs/RUS/iptables/)
 - [How to secure nginx with Let's encrypt](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-debian-8)
