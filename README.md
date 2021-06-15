@@ -387,6 +387,7 @@ a
 - [30+ Cool jQuery Countdown Plugins](http://nowtheme.com/2013/03/jquery-countdown-plugins/)
 
 ## Linux
+- [Fix Lenovo non working microphone](https://gist.github.com/Therises/d2e91c81af1574f9069635d520fdc7ec)
 - [Fix no Unity, no Launcher, no Dash in Ubuntu 14.04 and 16.04](https://itsfoss.com/how-to-fix-no-unity-no-launcher-no-dash-in-ubuntu-12-10-quick-tip/)
 - [Unity missing? Can't see top or side panels](https://askubuntu.com/questions/204428/unity-missing-cant-see-top-or-side-panels)
 - [How to create custom commands in linux](https://unix.stackexchange.com/questions/84686/how-to-create-custom-commands-in-unix-linux)
