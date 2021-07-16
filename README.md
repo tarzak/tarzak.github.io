@@ -299,6 +299,7 @@ a
 - [Bootstrap 3 Tabs + left, right, bottom](http://www.bootply.com/74926#)
 - [Swiper](http://www.idangero.us/swiper/get-started/#.Vk8MVB9_fQp) - Most modern mobile touch slider
 - [How the Bootstrap Grid Really Works](http://blog.codeply.com/2016/04/06/how-the-bootstrap-grid-really-works/)
+- [Circle arc with svg circle and dash](https://codepen.io/mjurczyk/pen/wvBKOvP)
  
 ## WebDesign
 - [Create svg fonts - Icomoon](https://icomoon.io/app/#/select)
