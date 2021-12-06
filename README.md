@@ -55,6 +55,7 @@
 - [How to Find or Validate an Email Address](http://www.regular-expressions.info/email.html)
 
 ## Node.js & npm
+- [How to fix linter](https://stackoverflow.com/questions/41193673/sublime-couldnt-find-node-js)
 - [The Correct Way to Import Lodash Libraries - A Benchmark](https://www.blazemeter.com/blog/the-correct-way-to-import-lodash-libraries-a-benchmark)
 - [How to check bundle contents size](https://www.npmjs.com/package/source-map-explorer)
 - [Understanding passport.js authentication flow](http://toon.io/understanding-passportjs-authentication-flow/)
