@@ -200,6 +200,7 @@ a
 - [Responsive iframe css trick](https://blog.theodo.fr/2018/01/responsive-iframes-css-trick/)
 
 ## JavaScript
+- [Getting the client's time zone (and offset)](https://stackoverflow.com/questions/1091372/getting-the-clients-time-zone-and-offset-in-javascript)
 - [Find closest point by lat-lng](http://stackoverflow.com/questions/21279559/geolocation-closest-locationlat-long-from-my-position)
 - [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [Throttling function calls](https://remysharp.com/2010/07/21/throttling-function-calls)
