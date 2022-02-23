@@ -256,6 +256,7 @@ a
 - [Практическое применение трансформации AST-деревьев на примере Putout](https://habr.com/en/post/439564/)
 
 ## Front-End
+- [Skeleton images](https://stackoverflow.com/questions/21258195/add-spinner-while-new-image-gets-loaded-completely/21262404)
 - [Local Storage api](http://www.drdobbs.com/web-development/the-localstorage-api/240000682)
 - [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
 - [Interact with BLE devices on the Web](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web)
