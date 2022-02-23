@@ -172,6 +172,7 @@ a
 - [Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial)
 
 ## CSS
+- [Animating linear gradient](https://stackoverflow.com/questions/23441060/animating-linear-gradient-using-css)
 - [Animated aGradient](https://codepen.io/P1N2O/pen/pyBNzX)
 - [How do I auto-resize an image to fit a 'div' container?](https://stackoverflow.com/questions/3029422/how-do-i-auto-resize-an-image-to-fit-a-div-container)
 - [Mask on hover](https://stackoverflow.com/questions/33492464/creating-mask-over-entire-div-on-hover)
