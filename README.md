@@ -258,6 +258,7 @@ a
 - [Практическое применение трансформации AST-деревьев на примере Putout](https://habr.com/en/post/439564/)
 
 ## Front-End
+- [Skeleton screen loading animation using html & css](https://dev.to/shantanu_jana/skeleton-screen-loading-animation-using-html-css-1ec3)
 - [Skeleton images](https://stackoverflow.com/questions/21258195/add-spinner-while-new-image-gets-loaded-completely/21262404)
 - [Local Storage api](http://www.drdobbs.com/web-development/the-localstorage-api/240000682)
 - [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
